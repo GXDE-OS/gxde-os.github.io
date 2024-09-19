@@ -43,7 +43,7 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
- :root {
+:root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
@@ -106,27 +106,30 @@
   --vp-home-hero-image-filter: blur(44px);
 }
 
-.name {
-  line-height: 56px!important;
-  font-size: 42px!important;
+.VPHero.has-image.VPHomeHero .name {
+  line-height: 48px;
+  font-size: 32px;
 }
-.text {
-  margin: 24px auto!important;
-  font-size: 26px!important;
-  line-height: 26px!important;
+
+.VPHero.has-image.VPHomeHero .text {
+  margin: 24px auto;
+  font-size: 24px;
+  line-height: 32px;
 }
 
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
   }
-  .name  {
-    line-height: 64px!important;
-    font-size: 56px!important;
+
+  .VPHero.has-image.VPHomeHero .name {
+    line-height: 64px;
+    font-size: 56px;
   }
-  .text {
-    font-size: 32px!important;
-    line-height: 42px!important;
+
+  .VPHero.has-image.VPHomeHero .text {
+    font-size: 32px;
+    line-height: 42px;
   }
 }
 
@@ -134,14 +137,16 @@
   :root {
     --vp-home-hero-image-filter: blur(68px);
   }
-  .name  {
-    line-height: 72px!important;
-    font-size: 60px!important;
+
+  .VPHero.has-image.VPHomeHero .name {
+    line-height: 72px;
+    font-size: 60px;
   }
-  .text {
-    font-size: 36px!important;
-    line-height: 48px!important;
-    margin: 24px 0!important;
+
+  .VPHero.has-image.VPHomeHero .text {
+    font-size: 36px;
+    line-height: 48px;
+    margin: 24px 0;
   }
 }
 
@@ -163,4 +168,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
-
