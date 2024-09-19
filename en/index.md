@@ -58,7 +58,6 @@ Sponsorship is our source of continuation! Thank you for your support!
 [Sponsor us](https://gitee.com/GXDE-OS#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E6%9D%AF%E8%8C%B6)
 :::
 
-
 <script setup>
 import { ElCarousel, ElCarouselItem, ElImage, ElImageViewer } from 'element-plus';
 // import 'element-plus/es/components/carousel/style/css';

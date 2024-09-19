@@ -37,7 +37,6 @@ Q3: 如何制作启动盘？
 
 A3: Legacy启动推荐rufus用dd模式写入，EFI则使用深度启动盘制作工具即可
 
-
 ---
 
 Q4: nvidia-driver安装失败
@@ -45,9 +44,8 @@ Q4: nvidia-driver安装失败
 A4: 请手动安装闭源驱动，或者安装 `linux-kernel-oldstable-gxde-amd64 
 linux-kernel-oldstable-gxde-amd64` 这个包后用此内核启动重新安装
 
-
 ---
 
 Q5: 因特尔/螃蟹网卡 安装后无法打开无线网络
 
-A5: `sudo aptss install firmware-iwlwifi firmware-realtek -y`  此问题将在 15.14 解决
+A5: `sudo aptss install firmware-iwlwifi firmware-realtek -y` 此问题将在 15.14 解决
