@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Install now
-      link: /install
+      link: ./install
     - theme: alt
       text: Compile it yourself?
       link: https://gitee.com/GXDE-OS
