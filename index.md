@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 现在安装
-      link: /install
+      link: ./install
     - theme: alt
       text: 自行编译？
       link: https://gitee.com/GXDE-OS
@@ -70,6 +70,3 @@ const previewSrcList = [
   '/6.png',
 ];
 </script>
-
-<style>
-</style>

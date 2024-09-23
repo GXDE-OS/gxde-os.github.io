@@ -20,8 +20,8 @@ export default defineConfig({
       {
         text: "使用指南",
         items: [
-          { text: "系统安装", link: "/install/" },
-          { text: "APT 源安装", link: "/install/apt" },
+          { text: "快速了解", link: "/install/" },
+          { text: "如何安装 GXDE？", link: "/install/install" },
           { text: "FAQ", link: "/install/faq" },
         ],
       },
@@ -50,7 +50,7 @@ export default defineConfig({
         "Copyright © 2023-present, gfdgd xi (as part of the GXDE OS Team)",
     },
 
-    logo: "logo.png",
+    logo: "/logo.png",
   },
 
   locales: {
@@ -78,11 +78,13 @@ export default defineConfig({
         sidebar: [
           {
             text: "Getting Started",
-            items: [{ text: "Install", link: "/en/install/" }],
+            items: [
+              { text: "Quick Start", link: "/en/install/" },
+              { text: "How to Install GXDE?", link: "/en/install/install" },
+              { text: "FAQ", link: "/en/install/faq" },
+            ],
           },
         ],
-
-        logo: "logo.png",
       },
     },
   },
