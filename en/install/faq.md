@@ -12,6 +12,12 @@ You can track our development progress at https://gitee.com/GXDE-OS/GXDE/board
 
 ---
 
+Q0: It's so slow when using `apt` to install packages. Can it be faster?
+
+A0: We use multi-line download to solve this. Simply replace `apt` with `aptss` will solve this problem.
+
+---
+
 Q1: I am using an old computer/virtual machine that requires Legacy BIOS booting, but I encounter a grub installation failure when installing with the GXDE installation disk.
 
 A1: For ISO versions 15.13 and below, Legacy BIOS currently only supports installation using the Debian installer. Select "Advanced options" on the boot screen and then choose "Install."
@@ -63,3 +69,26 @@ A5: Run sudo aptss install firmware-iwlwifi firmware-realtek -y.
 
 A5: This issue will be resolved in version 15.14.
 
+---
+
+ Q6: What is beta testing? How can I join the beta test?
+ 
+ A6: The latest development progress will be included in the beta test. If you want to experience the latest content, you can join the beta, but it is also unstable. It is recommended that users with some experience join.
+ 
+ A6: Starting from version 15.14, you can join the beta test with one click in the Control Center. For details, see: https://www.bilibili.com/video/BV1FgsvenEjq
+ 
+ A6: For versions 15.13 and below, please run `sudo aptss install gxde-testing-source -y`
+
+ A6: Please join our QQ Group to feedback: 881201853
+
+---
+
+ Q7: I want to develop GXDE-style applications. How do I do that?
+ 
+ A7: Bash/Python script-based applications can use [Garma](https://gitee.com/GXDE-OS/garma). For detailed usage, see: https://help.gnome.org/users/zenity/stable/
+ 
+ A7: For native development, please use Qt/Dtk2. Related code is as follows:
+ 
+ Available feature list: https://gitee.com/GXDE-OS/dtk5core/tree/master/src
+ 
+ Available widget list: https://gitee.com/GXDE-OS/dtk2widget/tree/master/src/widgets
