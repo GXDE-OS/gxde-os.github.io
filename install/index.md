@@ -58,10 +58,10 @@ Gitcode：https://gitcode.com/GXDE-OS
 ## 请作者喝杯茶
 
 如果您觉得对你有帮助，可以请作者喝杯茶  
-<img src="/Wechat.png" width="250"  />
+<img src="/install/Wechat.png" width="250"  />
 
 ### 广告
 
 支付宝官方活动，扫描获得支付红包！
 
-<p><img src="/advertisement0.jpg" width="250" ></p>
+<p><img src="/install/advertisement0.jpg" width="250" ></p>
