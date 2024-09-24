@@ -42,7 +42,7 @@ Deepin Community Live CD：https://gitee.com/gfdgd-xi/deepin-community-live-cd
 ## 鸣谢
 
 由衷的感谢[星火计划/星火应用商店](https://gitee.com/spark-store-project/)提供的资源和服务，使 GXDE 可以获得更好的体验  
-<img src="/spark-store.svg" width="250"  />
+<img src="/install/spark-store.svg" width="250"  />
 
 同时本项目也使用了以下列出的项目，对以下项目的开发者与维护者献出衷心的感谢：  
 音乐插件：https://github.com/SeptemberHX/dde-mpris2-plugin  
