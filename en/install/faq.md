@@ -61,9 +61,9 @@ Q4: NVIDIA driver installation failed by using `sudo aptss install nvidia-driver
 
 A4: Please manually install the proprietary driver or install the package `linux-kernel-oldstable-gxde-amd64` and boot with this kernel to reinstall.
 
---
+---
 
-Q5: Intel/Crab network card cannot enable wireless after installation.
+Q5: Intel/Realtek network card cannot enable wireless after installation.
 
 A5: Run sudo aptss install firmware-iwlwifi firmware-realtek -y.
 
