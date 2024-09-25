@@ -28,7 +28,8 @@ export default defineConfig({
       {
         text: "特色应用",
         items: [
-          { text: "GXDE 软件包管理器", link: "/apps/gxde-deb-installer/"}
+          { text: "GXDE 软件包管理器", link: "/apps/gxde-deb-installer/"},
+          { text: "GXDE 编辑器", link: "/apps/gxde-editor/"}
         ]
       }
     ],
@@ -93,7 +94,8 @@ export default defineConfig({
           {
             text: "Feature Programs",
             items: [
-              { text: "GXDE Package Manager", link: "/en/apps/gxde-deb-installer/"}
+              { text: "GXDE Package Manager", link: "/en/apps/gxde-deb-installer/"},
+              { text: "GXDE Editor", link: "/en/apps/gxde-editor/"}
             ]
           }
         ],
