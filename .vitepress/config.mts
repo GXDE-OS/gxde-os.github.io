@@ -25,6 +25,12 @@ export default defineConfig({
           { text: "FAQ", link: "/install/faq" },
         ],
       },
+      {
+        text: "特色应用",
+        items: [
+          { text: "GXDE 软件包管理器", link: "/app/gxde-deb-installer/zh_CN/"}
+        ]
+      }
     ],
 
     socialLinks: [
@@ -84,6 +90,12 @@ export default defineConfig({
               { text: "FAQ", link: "/en/install/faq" },
             ],
           },
+          {
+            text: "Feature Programs",
+            items: [
+              { text: "GXDE Package Manager", link: "/app/gxde-deb-installer/zh_CN/"}
+            ]
+          }
         ],
       },
     },
