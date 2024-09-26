@@ -10,7 +10,7 @@ GXDE 编辑器是一个简单的文本编辑工具。您可以用它书写简单
 
 ### 运行 GXDE 编辑器
 
-点击桌面底部的 ![launcher_icon](/apps/gxde-editor/zh_CN/icon/launcher_icon.svg) ，进入启动器界面。搜索或浏览找到 GXDE 编辑器 ![deepin-editor](/apps/gxde-editor/zh_CN/icon/deepin-editor.svg)，点击打开。
+点击桌面底部的 ![launcher_icon](/apps/gxde-editor/zh_CN/icon/launcher_icon.png) ，进入启动器界面。搜索或浏览找到 GXDE 编辑器 ![deepin-editor](/apps/gxde-editor/zh_CN/icon/deepin-editor.png)，点击打开。
 
 在启动器中，右键单击 GXDE 编辑器图标，您可以：
  - 点击 **发送到桌面**，在桌面创建快捷方式。
@@ -19,14 +19,14 @@ GXDE 编辑器是一个简单的文本编辑工具。您可以用它书写简单
 
 ### 退出 GXDE 编辑器
 
-- 在 GXDE 编辑器界面，点击  ![close_icon](/apps/gxde-editor/zh_CN/icon/close_icon.svg) ，退出 GXDE 编辑器。
-- 在 GXDE 编辑器界面，点击主菜单 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **退出** 来退出 GXDE 编辑器。
-- 在任务栏右键单击 ![deepin-editor](/apps/gxde-editor/zh_CN/icon/deepin-editor.svg) ，选择 **关闭所有** 来退出 GXDE 编辑器。
+- 在 GXDE 编辑器界面，点击  ![close_icon](/apps/gxde-editor/zh_CN/icon/close_icon.png) ，退出 GXDE 编辑器。
+- 在 GXDE 编辑器界面，点击主菜单 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **退出** 来退出 GXDE 编辑器。
+- 在任务栏右键单击 ![deepin-editor](/apps/gxde-editor/zh_CN/icon/deepin-editor.png) ，选择 **关闭所有** 来退出 GXDE 编辑器。
 
 
 ### 查看快捷键
 
-在 GXDE 编辑器界面上，按下键盘上的 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![Shift](/apps/gxde-editor/zh_CN/icon/Shift.svg) + ![QM](/apps/gxde-editor/zh_CN/icon/QM.svg) 组合键来查看快捷键。您也可以在设置界面查看快捷键。熟练地使用快捷键，将大大提升您的操作效率。
+在 GXDE 编辑器界面上，按下键盘上的 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![Shift](/apps/gxde-editor/zh_CN/icon/Shift.png) + ![QM](/apps/gxde-editor/zh_CN/icon/QM.png) 组合键来查看快捷键。您也可以在设置界面查看快捷键。熟练地使用快捷键，将大大提升您的操作效率。
 
 ![1|hotkey](/apps/gxde-editor/zh_CN/jpg/hotkey.jpg)
 
@@ -34,7 +34,7 @@ GXDE 编辑器是一个简单的文本编辑工具。您可以用它书写简单
 
 ### 新建文件
 
-点击标题栏上的 ![plus_icon](/apps/gxde-editor/zh_CN/icon/plus_icon.svg)，按下组合键![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![N](/apps/gxde-editor/zh_CN/icon/N.svg) ，或者选择主菜单中的 **新窗口** 、**新标签页**，都可以新建空白文档。
+点击标题栏上的 ![plus_icon](/apps/gxde-editor/zh_CN/icon/plus_icon.png)，按下组合键![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![N](/apps/gxde-editor/zh_CN/icon/N.png) ，或者选择主菜单中的 **新窗口** 、**新标签页**，都可以新建空白文档。
 
 ### 打开文件
 
@@ -42,29 +42,29 @@ GXDE 编辑器是一个简单的文本编辑工具。您可以用它书写简单
 
 - 直接拖动文件到 GXDE 编辑器界面或其图标上。
 - 右键文件，选择用 GXDE 编辑器打开。选择 GXDE 编辑器为默认打开程序后，可直接双击打开。
-- 在 GXDE 编辑器界面，点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **打开文件**，选择文件。
-- 在 GXDE 编辑器界面，使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![O](/apps/gxde-editor/zh_CN/icon/O.svg)组合键，选择文件打开。
+- 在 GXDE 编辑器界面，点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **打开文件**，选择文件。
+- 在 GXDE 编辑器界面，使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![O](/apps/gxde-editor/zh_CN/icon/O.png)组合键，选择文件打开。
 
-> ![tips](/apps/gxde-editor/zh_CN/icon/tips.svg)：您可以一次打开多个文件。
+> ![tips](/apps/gxde-editor/zh_CN/icon/tips.png)：您可以一次打开多个文件。
 
 ### 保存文件
-- 使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![S](/apps/gxde-editor/zh_CN/icon/S.svg)组合键保存当前文件。
-- 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **保存**，保存文件。
-您还可以使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![Shift](/apps/gxde-editor/zh_CN/icon/Shift.svg) + ![S](/apps/gxde-editor/zh_CN/icon/S.svg) 另存文件。
+- 使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![S](/apps/gxde-editor/zh_CN/icon/S.png)组合键保存当前文件。
+- 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **保存**，保存文件。
+您还可以使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![Shift](/apps/gxde-editor/zh_CN/icon/Shift.png) + ![S](/apps/gxde-editor/zh_CN/icon/S.png) 另存文件。
 
 ### 关闭文件
 
-- 使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![W](/apps/gxde-editor/zh_CN/icon/W.svg)组合键关闭当前文件。
+- 使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![W](/apps/gxde-editor/zh_CN/icon/W.png)组合键关闭当前文件。
 - 移动光标到文件标题，点击标题栏上的关闭按钮，关闭当前文件。
 - 右键单击文件标题，选择 **关闭标签页** 或者 **关闭其他标签页**。
 
-> ![notes](/apps/gxde-editor/zh_CN/icon/notes.svg)：如果您的文件中发生了变化而没有保存， GXDE 编辑器会在关闭前提示您保存更改。
+> ![notes](/apps/gxde-editor/zh_CN/icon/notes.png)：如果您的文件中发生了变化而没有保存， GXDE 编辑器会在关闭前提示您保存更改。
 
 ### 打印文档
 
 在 GXDE 编辑器中使用打印，需要您连接并配置好打印机。
 
-1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **打印**，也可以使用组合键![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![P](/apps/gxde-editor/zh_CN/icon/P.svg)打开打印预览。
+1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **打印**，也可以使用组合键![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![P](/apps/gxde-editor/zh_CN/icon/P.png)打开打印预览。
 2. 在打印预览界面，您可以预览并设置打印页面。
 3. 在打印预览界面，点击最右边的打印机图标，在弹出的窗口中选择打印机，并设置相关参数。
 4. 点击 **打印** 即可将文件发送到打印机打印。
@@ -116,7 +116,7 @@ GXDE 编辑器是一个简单的文本编辑工具。您可以用它书写简单
 2. 点击右键，选择 **切换大小写**。
 3. 选择您想使用的格式选项。文本格式的更改会立即生效。
 
-您也可以使用快捷键 ![Alt](/apps/gxde-editor/zh_CN/icon/Alt.svg) + ![U](/apps/gxde-editor/zh_CN/icon/U.svg) / ![L](/apps/gxde-editor/zh_CN/icon/L.svg) / ![C](/apps/gxde-editor/zh_CN/icon/C.svg) 迅速切换大小写。
+您也可以使用快捷键 ![Alt](/apps/gxde-editor/zh_CN/icon/Alt.png) + ![U](/apps/gxde-editor/zh_CN/icon/U.png) / ![L](/apps/gxde-editor/zh_CN/icon/L.png) / ![C](/apps/gxde-editor/zh_CN/icon/C.png) 迅速切换大小写。
 
 ### 高亮文本
 GXDE 编辑器支持高亮不同类型的文本。
@@ -136,26 +136,26 @@ GXDE 编辑器支持高亮不同类型的文本。
 
 ### 撤销操作
 
-如果在编辑时发生误操作, 您可以使用组合键 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![Z](/apps/gxde-editor/zh_CN/icon/Z.svg) 取消这个操作， 或者在右键菜单中选择 **撤销**。
+如果在编辑时发生误操作, 您可以使用组合键 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![Z](/apps/gxde-editor/zh_CN/icon/Z.png) 取消这个操作， 或者在右键菜单中选择 **撤销**。
 
 ### 查找文本
 
-1. 点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg)，选择 **查找**，或使用组合键 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![F](/apps/gxde-editor/zh_CN/icon/F.svg) ，可以在下方打开查找窗口。
+1. 点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png)，选择 **查找**，或使用组合键 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![F](/apps/gxde-editor/zh_CN/icon/F.png) ，可以在下方打开查找窗口。
 2. 在查找窗口中输入您想要搜索的文本。在您输入的同时，编辑器就会高亮显示文档中的匹配项。
-3. 点击 **下一个**、**上一个** 逐个查找，或使用 ![Enter](/apps/gxde-editor/zh_CN/icon/Enter.svg) 键查找下一个匹配项。
-4. 按下 ![Esc](/apps/gxde-editor/zh_CN/icon/Esc.svg)键或点击关闭按钮，关闭查找窗口。
+3. 点击 **下一个**、**上一个** 逐个查找，或使用 ![Enter](/apps/gxde-editor/zh_CN/icon/Enter.png) 键查找下一个匹配项。
+4. 按下 ![Esc](/apps/gxde-editor/zh_CN/icon/Esc.png)键或点击关闭按钮，关闭查找窗口。
 
-> ![tips](/apps/gxde-editor/zh_CN/icon/tips.svg)：如果您使用鼠标选中一段文本，然后按 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![F](/apps/gxde-editor/zh_CN/icon/F.svg) 进行搜索，则这段文本会自动出现在查找窗口中。
+> ![tips](/apps/gxde-editor/zh_CN/icon/tips.png)：如果您使用鼠标选中一段文本，然后按 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![F](/apps/gxde-editor/zh_CN/icon/F.png) 进行搜索，则这段文本会自动出现在查找窗口中。
 
 ### 替换文本
-1. 点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg)，选择 **替换**，或使用组合键 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![H](/apps/gxde-editor/zh_CN/icon/H.svg)， 可以在下方打开替换窗口。
+1. 点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png)，选择 **替换**，或使用组合键 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![H](/apps/gxde-editor/zh_CN/icon/H.png)， 可以在下方打开替换窗口。
 2. 在替换窗口中输入您想要替换的文本以及新文本。
 3. 点击 **替换**逐个替换，点击 **剩余替换**、**全部替换** 一次性替换剩余的或所有的匹配文本。点击 **跳过** 不替换当前匹配的文本。
-4. 按下 ![Esc](/apps/gxde-editor/zh_CN/icon/Esc.svg)键或点击关闭按钮，关闭搜索窗口。
+4. 按下 ![Esc](/apps/gxde-editor/zh_CN/icon/Esc.png)键或点击关闭按钮，关闭搜索窗口。
 
 ### 跳到行
 使用该功能可以迅速跳转到任一行。
-在右键菜单中选择 **跳到行** 或者使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![G](/apps/gxde-editor/zh_CN/icon/G.svg)，输入行号即可跳转到相应行。
+在右键菜单中选择 **跳到行** 或者使用![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![G](/apps/gxde-editor/zh_CN/icon/G.png)，输入行号即可跳转到相应行。
 
 ### 编辑行
 
@@ -182,41 +182,41 @@ GXDE 编辑器支持高亮不同类型的文本。
 ### 切换主题
 
 GXDE 编辑器包含多个主题，允许您更改文本窗口的外观。
-点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **切换主题**，选择您想使用的主题。新的主题会立即生效。
+点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **切换主题**，选择您想使用的主题。新的主题会立即生效。
 
 ### 基础设置
 #### 字体样式
 
 您可以根据个人习惯修改 GXDE 编辑器的默认字体和字号。
-1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **设置**。
+1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **设置**。
 2. 在设置窗口中，选择字体和字号。
 3. 文本内容会立即使用新的字体和字号。
 
-> ![tips](/apps/gxde-editor/zh_CN/icon/tips.svg)：您还可以使用 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![+](/apps/gxde-editor/zh_CN/icon/+.svg)/ ![-](/apps/gxde-editor/zh_CN/icon/-.svg) 来调节 GXDE 编辑器的默认字号。使用 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.svg) + ![0](/apps/gxde-editor/zh_CN/icon/0.svg) 恢复默认字号。
+> ![tips](/apps/gxde-editor/zh_CN/icon/tips.png)：您还可以使用 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![+](/apps/gxde-editor/zh_CN/icon/+.png)/ ![-](/apps/gxde-editor/zh_CN/icon/-.png) 来调节 GXDE 编辑器的默认字号。使用 ![Ctrl](/apps/gxde-editor/zh_CN/icon/Ctrl.png) + ![0](/apps/gxde-editor/zh_CN/icon/0.png) 恢复默认字号。
 
 ### 快捷键设置
-1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **设置**，在 **快捷键** 选项查看当前快捷键。
+1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **设置**，在 **快捷键** 选项查看当前快捷键。
 2. 选择一种快捷键映射。
 3. 您可以点击并重新输入快捷键，来自定义快捷键。
 
 ![shortcuts](/apps/gxde-editor/zh_CN/jpg/shortcuts.jpg)
 
-> ![notes](/apps/gxde-editor/zh_CN/icon/notes.svg): 快捷键映射允许您选择某一种键盘快捷键。您可以使用标准快捷键，Emacs快捷键，或自定义快捷键，以符合您的使用习惯。
+> ![notes](/apps/gxde-editor/zh_CN/icon/notes.png): 快捷键映射允许您选择某一种键盘快捷键。您可以使用标准快捷键，Emacs快捷键，或自定义快捷键，以符合您的使用习惯。
 
 ### 高级设置
 
-1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg) > **设置**.
+1. 点击![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png) > **设置**.
 2. 在 **高级设置** 选项，您可以设置：
    - 窗口默认大小：为正常大小，最大化或全屏。
    - Tab字符宽度：Tab缩进所占用的空间大小。
 
-> ![attention](/apps/gxde-editor/zh_CN/icon/attention.svg)：点击设置界面上的 **恢复默认**,会将所有设置恢复到默认状态。
+> ![attention](/apps/gxde-editor/zh_CN/icon/attention.png)：点击设置界面上的 **恢复默认**,会将所有设置恢复到默认状态。
 
 ### 帮助
 
 您可以点击帮助获取帮助手册，进一步了解和使用 GXDE 编辑器。
 
-1. 在 GXDE 编辑器界面，点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg)。
+1. 在 GXDE 编辑器界面，点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png)。
 2. 点击 **帮助**。
 3. 查看 GXDE 编辑器的帮助手册。
 
@@ -224,7 +224,7 @@ GXDE 编辑器包含多个主题，允许您更改文本窗口的外观。
 
 您可以点击关于，查看 GXDE 编辑器的版本介绍。
 
-1. 在 GXDE 编辑器界面，点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg)。
+1. 在 GXDE 编辑器界面，点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png)。
 2. 点击 **关于**。
 3. 查看 GXDE 编辑器的版本和介绍。
 
@@ -232,5 +232,5 @@ GXDE 编辑器包含多个主题，允许您更改文本窗口的外观。
 
 您可以进入主菜单点击退出 GXDE 编辑器。
 
-1. 在 GXDE 编辑器界面，点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.svg)。
+1. 在 GXDE 编辑器界面，点击 ![icon_menu](/apps/gxde-editor/zh_CN/icon/icon_menu.png)。
 2. 点击 **退出**。

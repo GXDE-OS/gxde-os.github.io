@@ -27,12 +27,12 @@ GXDE 软件包管理器可以安装单个应用，也可以批量安装多个应
 2.  选择需要安装的软件包，点击 **打开**。
 3.  点击 **安装**。
 4.  如果弹出授权窗口，请输入密码授权。
-5.  安装过程中可以点击 ![arrowdown_icon](/apps/gxde-deb-installer/zh_CN/icon/arrowdown_icon.svg)或![arrowup_icon](/apps/gxde-deb-installer/zh_CN/icon/arrowup_icon.svg)展开或收起安装进程信息。
+5.  安装过程中可以点击 ![arrowdown_icon](/apps/gxde-deb-installer/zh_CN/icon/arrowdown_icon.png)或![arrowup_icon](/apps/gxde-deb-installer/zh_CN/icon/arrowup_icon.png)展开或收起安装进程信息。
 6.  安装成功之后，点击 **完成** 退出，或者点击 **返回** 继续安装其他应用。
 
 ![0|single](/apps/gxde-deb-installer/zh_CN/jpg/single.jpg)
 
->![notes](/apps/gxde-deb-installer/zh_CN/icon/notes.svg): GXDE 软件包管理器会自动检测您的安装包，如果本地已经安装过该应用，会显示已安装和准备安装的版本信息，此时可以选择 **卸载** 或 **重新安装** 操作。
+>![notes](/apps/gxde-deb-installer/zh_CN/icon/notes.png): GXDE 软件包管理器会自动检测您的安装包，如果本地已经安装过该应用，会显示已安装和准备安装的版本信息，此时可以选择 **卸载** 或 **重新安装** 操作。
 
 
 
@@ -76,7 +76,7 @@ GXDE 软件包管理器可以自动识别无法安装的包，有效规避安装
 
 ![0|uninstall](/apps/gxde-deb-installer/zh_CN/jpg/uninstall.jpg)
 
-> ![attention](/apps/gxde-deb-installer/zh_CN/icon/attention.svg):卸载某些应用可能会对系统或其他软件产生影响，请谨慎操作。
+> ![attention](/apps/gxde-deb-installer/zh_CN/icon/attention.png):卸载某些应用可能会对系统或其他软件产生影响，请谨慎操作。
 
 
 
@@ -87,7 +87,7 @@ GXDE 软件包管理器可以自动识别无法安装的包，有效规避安装
 
 您可以点击帮助获取 GXDE 软件包管理器的帮助手册，通过帮助进一步让您了解和使用 GXDE 软件包管理器。
 
-1. 在 GXDE 软件包管理器界面，点击 ![icon_menu](/apps/gxde-deb-installer/zh_CN/icon/icon_menu.svg)。
+1. 在 GXDE 软件包管理器界面，点击 ![icon_menu](/apps/gxde-deb-installer/zh_CN/icon/icon_menu.png)。
 2. 点击 **帮助**。
 3. 查看关于 GXDE 软件包管理器的帮助手册。
 
@@ -96,7 +96,7 @@ GXDE 软件包管理器可以自动识别无法安装的包，有效规避安装
 
 您可以点击关于查看 GXDE 软件包管理器的版本介绍。
 
-1. 在 GXDE 软件包管理器界面，点击 ![icon_menu](/apps/gxde-deb-installer/zh_CN/icon/icon_menu.svg)。
+1. 在 GXDE 软件包管理器界面，点击 ![icon_menu](/apps/gxde-deb-installer/zh_CN/icon/icon_menu.png)。
 2. 点击 **关于**。
 3. 查看关于 GXDE 软件包管理器的版本和介绍。
 
@@ -105,6 +105,6 @@ GXDE 软件包管理器可以自动识别无法安装的包，有效规避安装
 
 您可以进入菜单栏点击退出 GXDE 软件包管理器。
 
-1. 在 GXDE 软件包管理器界面，点击 ![icon_menu](/apps/gxde-deb-installer/zh_CN/icon/icon_menu.svg)。
+1. 在 GXDE 软件包管理器界面，点击 ![icon_menu](/apps/gxde-deb-installer/zh_CN/icon/icon_menu.png)。
 2. 点击 **退出**。
 

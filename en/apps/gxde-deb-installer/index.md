@@ -22,11 +22,11 @@ GXDE Package Manager is an application used to help users install and remove loc
    - Newly installed, select **Install** to continue.
    - Other version installed, select **Reinstall** to continue or **Remove** to uninstall.
 3. Password required to continue when clicking on **Install** or **Reinstall**.
-4. Click on ![arrow_up](/apps/gxde-deb-installer/en_US/icon/arrow_up.svg) or ![arrow_down](/apps/gxde-deb-installer/en_US/icon/arrow_down.svg) to display or collapse the installing process.
+4. Click on ![arrow_up](/apps/gxde-deb-installer/en_US/icon/arrow_up.png) or ![arrow_down](/apps/gxde-deb-installer/en_US/icon/arrow_down.png) to display or collapse the installing process.
 5. Click on **Back** to newly add or click on **OK** to exit.
 
 
-> ![notes](/apps/gxde-deb-installer/en_US/icon/notes.svg): You can also drag and drop file to GXDE Package Manager to add.
+> ![notes](/apps/gxde-deb-installer/en_US/icon/notes.png): You can also drag and drop file to GXDE Package Manager to add.
 
 ![1|single-install](/apps/gxde-deb-installer/en_US/jpg/single-install.jpg)
 
@@ -36,12 +36,12 @@ GXDE Package Manager is an application used to help users install and remove loc
 1. On GXDE Package Manager interface, click on **Select File** to add .deb packages.
 2. Click on the top right Delete button if you want to delete one.
 3. Password required to continue when clicking on **Install**.
-4. Click on ![arrow_up](/apps/gxde-deb-installer/en_US/icon/arrow_up.svg) or ![arrow_down](/apps/gxde-deb-installer/en_US/icon/arrow_down.svg) to display or collapse the installing process.
+4. Click on ![arrow_up](/apps/gxde-deb-installer/en_US/icon/arrow_up.png) or ![arrow_down](/apps/gxde-deb-installer/en_US/icon/arrow_down.png) to display or collapse the installing process.
 5. The installation status will be displayed on the right of each package, such as installed, installing and failed.
 6. Click on **Back** to newly add or click on **OK** to exit.
 
 
-> ![notes](/apps/gxde-deb-installer/en_US/icon/notes.svg): No more file can be added after you successfully added multiple files in one time.
+> ![notes](/apps/gxde-deb-installer/en_US/icon/notes.png): No more file can be added after you successfully added multiple files in one time.
 
 ![1|bulk-install](/apps/gxde-deb-installer/en_US/jpg/bulk-install.jpg)
 
@@ -63,7 +63,7 @@ GXDE Package Manager is an application used to help users install and remove loc
    - Newly installed, select **Install** to continue.
    - Other version installed, select **Reinstall** to continue or **Remove** to uninstall.
 3. Click on **Remove**, then there will be a prompt and click on **Confirm** to uninstall.
-4. Click on ![arrow_up](/apps/gxde-deb-installer/en_US/icon/arrow_up.svg) or ![arrow_down](/apps/gxde-deb-installer/en_US/icon/arrow_down.svg) to display or collapse the uninstall process.
+4. Click on ![arrow_up](/apps/gxde-deb-installer/en_US/icon/arrow_up.png) or ![arrow_down](/apps/gxde-deb-installer/en_US/icon/arrow_down.png) to display or collapse the uninstall process.
 5. Click on **Back** to newly add or click on **OK** to exit.
 
 ![1|remove](/apps/gxde-deb-installer/en_US/jpg/remove.jpg)
@@ -75,7 +75,7 @@ GXDE Package Manager is an application used to help users install and remove loc
 
 You can click to view the manual, which will help you further know and use GXDE Package Manager.
 
-1. On GXDE Package Manager interface, click on ![icon_menu](/apps/gxde-deb-installer/en_US/icon/icon_menu.svg).
+1. On GXDE Package Manager interface, click on ![icon_menu](/apps/gxde-deb-installer/en_US/icon/icon_menu.png).
 2. Click on **Help**.
 3. View the manual.
 
@@ -86,7 +86,7 @@ You can click to view the manual, which will help you further know and use GXDE 
 
 You can click to view the version description.
 
-1. On GXDE Package Manager interface, click on ![icon_menu](/apps/gxde-deb-installer/en_US/icon/icon_menu.svg).
+1. On GXDE Package Manager interface, click on ![icon_menu](/apps/gxde-deb-installer/en_US/icon/icon_menu.png).
 2. Click on **About**.
 3. View the version description.
 
@@ -97,5 +97,5 @@ You can click to view the version description.
 
 You can click to exit GXDE Package Manager.
 
-1. On GXDE Package Manager interface, click on ![icon_menu](/apps/gxde-deb-installer/en_US/icon/icon_menu.svg).
+1. On GXDE Package Manager interface, click on ![icon_menu](/apps/gxde-deb-installer/en_US/icon/icon_menu.png).
 2. Click on **Exit** to exit.
