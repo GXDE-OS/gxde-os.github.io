@@ -28,6 +28,8 @@ export default defineConfig({
       {
         text: "特色应用",
         items: [
+          { text: "GXDE 音乐", link: "/apps/gxde-music/"},
+          { text: "GXDE 看图", link: "/apps/gxde-image-viewer/"},
           { text: "GXDE 软件包管理器", link: "/apps/gxde-deb-installer/"},
           { text: "GXDE 编辑器", link: "/apps/gxde-editor/"}
         ]
@@ -94,6 +96,8 @@ export default defineConfig({
           {
             text: "Feature Programs",
             items: [
+              { text: "GXDE Music", link: "/en/apps/gxde-music/"},
+              { text: "GXDE Image Viewer", link: "/en/apps/gxde-image-viewer/"},
               { text: "GXDE Package Manager", link: "/en/apps/gxde-deb-installer/"},
               { text: "GXDE Editor", link: "/en/apps/gxde-editor/"}
             ]
