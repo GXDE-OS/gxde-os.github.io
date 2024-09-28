@@ -10,18 +10,18 @@ You can run, close and create a shortcut for GXDE Music by the following ways.
 
 ### Run GXDE Music
 
-1. Click ![launcher_icon](/apps/gxde-music/en_US/icon/launcher_icon.svg) on dock to enter Launcher interface.
-2. Locate ![music_icon-24](/apps/gxde-music/en_US/icon/music_icon-24.svg) by scrolling mouse wheel or searching by "GXDE Music" in Launcher interface.
+1. Click ![launcher_icon](/apps/gxde-music/en_US/icon/launcher_icon.png) on dock to enter Launcher interface.
+2. Locate ![music_icon-24](/apps/gxde-music/en_US/icon/music_icon-24.png) by scrolling mouse wheel or searching by "GXDE Music" in Launcher interface.
 3. Right click on the GXDE Music application icon, you can
  - Click on **Send to desktop** to create a desktop shortcut.
  - Click on **Send to dock** to fix the application on dock.
  - Click on **Add to startup** to add the application to startup, it will automatically run when the system starts up.
 
-> ![notes](/apps/gxde-music/en_US/icon/notes.svg): If GXDE Music has been fixed on Dock, you can also click on its icon to run.
+> ![notes](/apps/gxde-music/en_US/icon/notes.png): If GXDE Music has been fixed on Dock, you can also click on its icon to run.
 
 ### Minimize to System Tray
 
-1. On GXDE Music interface, click on ![close](/apps/gxde-music/en_US/icon/close_icon.svg), select **Minimize to system tray**.
+1. On GXDE Music interface, click on ![close](/apps/gxde-music/en_US/icon/close_icon.png), select **Minimize to system tray**.
 2. GXDE Music will be minimized to tray;
 3. Right click on the GXDE Music application icon in the tray, you can:
  - Click on **Play/Pause** to play/pause the song;
@@ -35,9 +35,9 @@ You can run, close and create a shortcut for GXDE Music by the following ways.
 
 ### Exit GXDE Music
 
-- On GXDE Music interface, click on ![close](/apps/gxde-music/en_US/icon/close_icon.svg), and select  **Exit** to exit GXDE Music.
+- On GXDE Music interface, click on ![close](/apps/gxde-music/en_US/icon/close_icon.png), and select  **Exit** to exit GXDE Music.
 - Right click on the GXDE Music application icon on Dock, select **Close All** to exit Music.
-- Click on ![Settings](/apps/gxde-music/en_US/icon/icon_menu.svg) and select **Exit** to exit GXDE Music.
+- Click on ![Settings](/apps/gxde-music/en_US/icon/icon_menu.png) and select **Exit** to exit GXDE Music.
 
 
 ## Main Interface
@@ -116,12 +116,12 @@ You can add, delete and view info of the local music in GXDE Music.
 On GXDE Music interface, you can: 
 - Click on **Add folder** to add a music folder.
 - Click on **Scan** to scan music directory.
-- Click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) > **Add folder** to add a music folder.
-- Click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) > **Add file** to add a music file.
+- Click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) > **Add folder** to add a music folder.
+- Click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) > **Add file** to add a music file.
 
 ![0|add](/apps/gxde-music/en_US/jpg/add.png)
 
-> ![notes](/apps/gxde-music/en_US/icon/notes.svg): You can also drag and drop music file to GXDE Music interface to add.
+> ![notes](/apps/gxde-music/en_US/icon/notes.png): You can also drag and drop music file to GXDE Music interface to add.
 
 ### Search Music
 
@@ -132,9 +132,9 @@ On GXDE Music interface, you can:
 
 ### Add Music to My Favorites
 
-On GXDE Music interface, click on ![collect](/apps/gxde-music/en_US/icon/collect.svg) to add music to my favorites.
+On GXDE Music interface, click on ![collect](/apps/gxde-music/en_US/icon/collect.png) to add music to my favorites.
 
-> ![notes](/apps/gxde-music/en_US/icon/notes.svg): You can also right click on the music, and click on **Add to playlist** > **My Favorites** to finish this task.
+> ![notes](/apps/gxde-music/en_US/icon/notes.png): You can also right click on the music, and click on **Add to playlist** > **My Favorites** to finish this task.
 
 
 ### Display in File Manager
@@ -177,20 +177,20 @@ On GXDE Music interface, you can create, delete, rename playlist and add music t
 ### Create a New Playlist
 
 1. To create a new playlist, you can:
- - Click on ![list_icon](/apps/gxde-music/en_US/icon/list_icon.svg), then click on **New playlist**.
- - Click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) to select **New Playlist**.
+ - Click on ![list_icon](/apps/gxde-music/en_US/icon/list_icon.png), then click on **New playlist**.
+ - Click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) to select **New Playlist**.
  - Right click on the music and click on **Add to playlist** > **New playlist**.
 2. Enter a name of the playlist.
-3. Click on the blank area or press **![Enter](/apps/gxde-music/en_US/icon/Enter.svg)** key to confirm.
+3. Click on the blank area or press **![Enter](/apps/gxde-music/en_US/icon/Enter.png)** key to confirm.
 
 ![0|addlist](/apps/gxde-music/en_US/jpg/addlist.jpg)
 
 ### Rename Playlist
 
-1. On GXDE Music interface, click on ![list_icon](/apps/gxde-music/en_US/icon/list_icon.svg).
+1. On GXDE Music interface, click on ![list_icon](/apps/gxde-music/en_US/icon/list_icon.png).
 2. Right click on the playlist to select **Rename**.
 3. Enter the name of the playlist.
-4. Click on the blank area of the GXDE Music, or press **![Enter](/apps/gxde-music/en_US/icon/Enter.svg)** key to confirm the name.
+4. Click on the blank area of the GXDE Music, or press **![Enter](/apps/gxde-music/en_US/icon/Enter.png)** key to confirm the name.
 
 ![0|renamelist](/apps/gxde-music/en_US/jpg/renamelist.jpg)
 
@@ -200,7 +200,7 @@ On GXDE Music interface, you can create, delete, rename playlist and add music t
 2. Right click to select **Add to playlist** > **Playlist name**.
 
 
-> ![notes](/apps/gxde-music/en_US/icon/notes.svg): You can also select **New Playlist** to add the music to a new playlist.
+> ![notes](/apps/gxde-music/en_US/icon/notes.png): You can also select **New Playlist** to add the music to a new playlist.
 
 ![0|addtolist](/apps/gxde-music/en_US/jpg/addtolist.jpg)
 
@@ -214,7 +214,7 @@ On GXDE Music interface, you can create, delete, rename playlist and add music t
 
 ### Delete Playlist
 
-1. On GXDE Music interface, click on ![list_icon](/apps/gxde-music/en_US/icon/list_icon.svg).
+1. On GXDE Music interface, click on ![list_icon](/apps/gxde-music/en_US/icon/list_icon.png).
 2. Right click on the playlist to select **Delete**.
 3. In the popup window, select **Delete** to confirm the operation.
 
@@ -230,7 +230,7 @@ You can add new playlists/songs, set the options, view or exit GXDE Music.
 
 The theme of GXDE Music is light, you can click on **Dark theme** to switch.
 
-1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) in the top right corner.
+1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) in the top right corner.
 
 2. Click on **Dark theme** to switch the theme of GXDE Music.
 
@@ -238,7 +238,7 @@ The theme of GXDE Music is light, you can click on **Dark theme** to switch.
 
 ### Basic Settings
 
-1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg).
+1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png).
 2. Select **Settings** > **Basic settings**.
 3. In the option **Play**, you can:
  - Check the box of **Autoplay**, the music will be played automatically when GXDE Music runs.
@@ -254,17 +254,17 @@ The theme of GXDE Music is light, you can click on **Dark theme** to switch.
 
 ### Shortcuts Settings
 
-1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg).
+1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png).
 2. Select **Settings** > **Shortcuts**.
 3. Then you can set the shortcuts of Play/Pause, Previous, Next, Volume up and Volume down.
 
-> ![notes](/apps/gxde-music/en_US/icon/notes.svg): You can also click on **Restore Defaults** to restore all settings.
+> ![notes](/apps/gxde-music/en_US/icon/notes.png): You can also click on **Restore Defaults** to restore all settings.
 
 ### Help
 
 You can click on **Help** to view the manual.
 
-1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) in the top right corner.
+1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) in the top right corner.
 
 2. Click on **Help** to view the manual of GXDE Music.
 
@@ -272,7 +272,7 @@ You can click on **Help** to view the manual.
 
 You can click on **About** to view the introduction of GXDE Music.
 
-1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) in the top right corner.
+1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) in the top right corner.
 
 2. Click on **About** to view the introduction of GXDE Music.
 
@@ -281,6 +281,6 @@ You can click on **About** to view the introduction of GXDE Music.
 
 You can click on **Exit** to exit GXDE Music.
 
-1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.svg) in the top right corner.
+1. On GXDE Music interface, click on ![menu](/apps/gxde-music/en_US/icon/icon_menu.png) in the top right corner.
 
 2. Click on **Exit** to exit.

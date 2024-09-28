@@ -24,7 +24,7 @@ GXDE 音乐是一款专注于本地音乐播放的应用程序，为您提供全
 GXDE 音乐也可以隐藏到系统托盘中。
 
 - 在 GXDE 音乐界面点击 ![close_icon](/apps/gxde-music/zh_CN/icon/close_icon.png) 关闭主窗口，在弹窗中选择 **最小化到系统托盘**，然后点击 **确定**。
-- 您也可以在 **![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png)> 设置 > 关闭主窗口** 中进行设置。
+- 您也可以在 **![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png)> 设置 > 关闭主窗口** 中进行设置。
 
 ![notes](/apps/gxde-music/zh_CN/icon/notes.png):在弹窗中勾选 **不再提示**，可以不再显示该弹窗。
 
@@ -115,8 +115,8 @@ GXDE 音乐也可以隐藏到系统托盘中。
 ### 添加音乐
 
 您可以通过如下方法添加音乐到 GXDE 音乐中：
-- 在 GXDE 音乐界面，选择 **![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png) > 添加文件夹**，选择文件夹将其中的音乐添加到播放列表。
-- 在 GXDE 音乐界面，选择 **![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png) > 添加文件**，选择音乐文件将该音乐文件添加到播放列表。
+- 在 GXDE 音乐界面，选择 **![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png) > 添加文件夹**，选择文件夹将其中的音乐添加到播放列表。
+- 在 GXDE 音乐界面，选择 **![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png) > 添加文件**，选择音乐文件将该音乐文件添加到播放列表。
 - 直接将音乐文件/文件夹拖拽到 GXDE 音乐界面，添加音乐文件到播放列表。
 - 如果 GXDE 音乐中还没有音乐，您也可以通过界面中间的 **添加文件夹** 或者 **扫描** 按钮来添加音乐到播放列表。
 
@@ -224,14 +224,14 @@ GXDE 音乐也可以隐藏到系统托盘中。
 您可以对 GXDE 音乐的启动后播放方式、歌词存储、热键自定义等进行设置。
 
 ### 深色主题
-1. 在深度文件管理器界面，点击![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png)。
+1. 在深度文件管理器界面，点击![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png)。
 2. 点击 **深色主题**，来切换主题颜色。
 
 ![0|mode](/apps/gxde-music/zh_CN/jpg/mode.jpg)
 
 ### 基础设置
 
-1. 在 GXDE 音乐界面，点击 ![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png) 。
+1. 在 GXDE 音乐界面，点击 ![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png) 。
 2. 点击 **设置**。
 3. 在 **播放** 选项，您可以：
  - 勾选 **启动时自动播放** 复选框，在 GXDE 音乐启动后自动播放音乐。
@@ -244,7 +244,7 @@ GXDE 音乐也可以隐藏到系统托盘中。
 
 ### 快捷键设置
 
-1. 在 GXDE 音乐界面，点击 ![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png) 。
+1. 在 GXDE 音乐界面，点击 ![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png) 。
 2. 点击 **设置**。
 3. 在 **快捷键** 选项查看当前当前快捷键。
 4. 您可以选择并重新输入快捷键，来自定义快捷键。
@@ -253,7 +253,7 @@ GXDE 音乐也可以隐藏到系统托盘中。
 
 您可以点击帮助获取 GXDE 音乐的帮助手册，通过帮助进一步让您了解和使用 GXDE 音乐。
 
-1. 在 GXDE 音乐界面，点击  ![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png) 。
+1. 在 GXDE 音乐界面，点击  ![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png) 。
 2. 点击 **帮助**。
 3. 查看 GXDE 音乐的帮助手册。
 
@@ -262,7 +262,7 @@ GXDE 音乐也可以隐藏到系统托盘中。
 
 您可以点击关于查看 GXDE 音乐的版本介绍。
 
-1. 在 GXDE 音乐界面，点击  ![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png) 。
+1. 在 GXDE 音乐界面，点击  ![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png) 。
 2. 点击 **关于**。
 3. 查看 GXDE 音乐的版本和介绍。
 
@@ -272,5 +272,5 @@ GXDE 音乐也可以隐藏到系统托盘中。
 
 您可以从菜单栏退出 GXDE 音乐。
 
-1. 在 GXDE 音乐界面，点击 ![icon_menu](/apps/gxde-music/zh_CN/icon/apps/gxde-music/zh_CN/icon/_menu.png)。
+1. 在 GXDE 音乐界面，点击 ![icon_menu](/apps/gxde-music/zh_CN/icon/icon_menu.png)。
 2. 点击 **退出**。
