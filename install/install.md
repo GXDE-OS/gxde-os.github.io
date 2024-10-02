@@ -2,13 +2,11 @@
 
 ## 镜像安装
 
-123盘：https://www.123pan.com/s/pDSKVv-4XIWv.html
 
 huang111：https://pan.huang1111.cn/s/laonjFL
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
-**对于 15.13 及以下版本的ISO, Legacy BIOS 暂时只支持用 Debian 安装器进行安装，在引导界面选择 Advanced options 后选择 Install 进行安装，此问题将会在 15.14 解决**
 
 ---
 
@@ -36,3 +34,7 @@ sudo aptss install gxde-desktop gxde-desktop-extra -y
 ```
 
 重启即可
+
+## 在Termux PRoot或其他安卓设备上安装
+
+请查看 https://bbs.deepin.org.cn/post/279414

@@ -8,7 +8,7 @@
 欢迎点右上角Star,您的肯定是我们的最大动力
 :::
 
-123盘：https://www.123pan.com/s/pDSKVv-4XIWv.html  
+
 huang111：https://pan.huang1111.cn/s/laonjFL  
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
