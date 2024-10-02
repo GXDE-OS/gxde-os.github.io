@@ -3,7 +3,7 @@
 # 系统安装
 
 ::: info
-目前 ISO 支持 amd64、loong64
+目前 ISO 支持 amd64、arm64、loong64
 
 欢迎点右上角Star,您的肯定是我们的最大动力
 :::
@@ -15,12 +15,6 @@ Sourceforge：https://sourceforge.net/projects/gxde-os/files
 mips64 架构的安装方法可以参考：[APT 源安装](install.md)
 
 GXDE 仍不完美，请在安装前确认 [FAQ](faq.md) 中的事项，包括了 Nvidia 显卡驱动安装指南等
-
-Legacy 启动的用户请在安装时选中 高级选项 中的 Debian 安装器进行安装
-
-
-
-
 
 ## 介绍
 
