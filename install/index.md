@@ -9,7 +9,9 @@
 :::
 
 多线加速下载(推荐使用): https://repo-gxde.gfdgdxi.top/ISO/15.14/amd64/GXDE-OS_15.14_amd64.iso.torrent
-huang111：https://pan.huang1111.cn/s/laonjFL  
+
+huang111：https://pan.huang1111.cn/s/laonjFL
+
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 mips64 架构的安装方法可以参考：[APT 源安装](install.md)

@@ -2,6 +2,7 @@
 ## Image Installation
 
 
+Multiline download(Recommended): https://repo-gxde.gfdgdxi.top/ISO/15.14/amd64/GXDE-OS_15.14_amd64.iso.torrent
 
 huang111: https://pan.huang1111.cn/s/laonjFL
 
