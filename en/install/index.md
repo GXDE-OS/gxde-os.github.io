@@ -3,7 +3,7 @@
 
 
 ::: info
-Currently, ISO supports amd64
+Currently, ISO supports amd64 and arm64
 :::
 
 ## Introduction
