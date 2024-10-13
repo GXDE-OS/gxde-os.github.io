@@ -1,32 +1,39 @@
 ![Logo](/new-logo-long.png)
 
-# Quick Start
+
 
 ::: info
 Currently, ISO supports amd64
 :::
 
-Multiline download(Recommended): https://repo-gxde.gfdgdxi.top/ISO/15.14/amd64/GXDE-OS_15.14_amd64.iso.torrent
+## Introduction
 
-huang111: https://pan.huang1111.cn/s/laonjFL
+GXDE OS is an Debian based Linux distro featuring GXDE Desktop Environment. It offers an elegant, beautifu, light weight and out-of-the-box experience. 
 
-Sourceforge: https://sourceforge.net/projects/gxde-os/files
+### Classic and Extended Deepin DE Experience 
 
-**For installation methods, please refer to: [How to Install GXDE?](install)**
+GXDE Desktop, rebirth from the deepin 15 era, not only brings back the classic experience but also introduces a range of extended components, experience enhancements, and bug fixes. It offers both familiarity and innovation, ensuring a smoother and more versatile user experience.
 
-**GXDE is still not perfect; please ensure to check the [FAQ](faq) before installation. Solution like Nvidia graphic card installing guide is included.** 
+GXDE stands for Gorgeous eXtended Deepin Environment
 
-Users with Legacy boot should select the Debian installer in the advanced options during installation.
+### Various Components and Experiences
+
+GXDE OS integrates several community open-source projects, including a top bar, global menu, Spark App Store, AmberCE compatibility environment, and fantascene dynamic wallpapers. It supports the deepin Linyaps package too. 
+
+### One-Click App Installation without typing commands.
+
+[Spark APP Store](https://gitee.com/spark-store-project/) is built in with GXDE OS, enabling users to effortlessly discover and install essential applications without needing to use the command line. 
+
+Also, simply replace apt with aptss will  `apt` with `aptss` command can boost your download speed. 
+
+
 
 Please Click the Star in the Upper Right Corner, Your Support is Our Greatest Motivation
 
-## Introduction
-
-For many users, Deepin 15 is still a classic version, but its underlying system is quite outdated (Debian 9) and cannot run new programs. To solve this issue, GXDE was created based on an updated foundation, allowing DDE 15 to return to people's attention.
-
-(GXDE stands for Gorgeous eXtended Deepin Environment)
+### User Group
 
 QQ Group: 881201853
+
 
 ## Other Projects
 Deepin: https://github.com/linuxdeepin/  

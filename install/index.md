@@ -1,31 +1,40 @@
-![Logo](/new-logo-long.png)
+<center><img src=new-logo-long.png width=300/></center>
 
-# 系统安装
+
 
 ::: info
-目前 ISO 支持 amd64、arm64、loong64
+目前 ISO 支持 amd64、arm64
 
 欢迎点右上角Star,您的肯定是我们的最大动力
 :::
 
-多线加速下载(推荐使用): https://repo-gxde.gfdgdxi.top/ISO/15.14/amd64/GXDE-OS_15.14_amd64.iso.torrent
 
-huang111：https://pan.huang1111.cn/s/laonjFL
+## 简介
 
-Sourceforge：https://sourceforge.net/projects/gxde-os/files
+GXDE OS 是一个基于 Debian 的 Linux 发行版，采用 GXDE 桌面环境。它提供了优雅、美观、轻量化的开箱即用体验。
 
-mips64 架构的安装方法可以参考：[APT 源安装](install.md)
+### 经典且扩展的 deepin 桌面体验
 
-GXDE 仍不完美，请在安装前确认 [FAQ](faq.md) 中的事项，包括了 Nvidia 显卡驱动安装指南等
+GXDE 桌面环境源自 deepin 15 时代的重生，不仅带回了经典体验，还引入了多种多样的扩展组件、体验优化和问题修复。它兼具经典与创新，确保了更流畅且更丰富的用户体验。
 
-## 介绍
+GXDE (Gorgeous eXtended Deepin Environment)
 
+### 多种多样的组件和体验
 
-对于许多用户来讲，deepin 15 依旧是非常经典的版本，但是因为底层已经非常老旧（Debian 9）以至于不能运行新的程序，所以为了解决这个问题，基于更新底层的 GXDE 就出现了以便让 DDE 15 能重回人们的视野  
+GXDE OS 集成了多个社区的开源项目，包括顶栏、全局菜单、Spark 应用商店、AmberCE 兼容环境和 Fantascene 动态壁纸。它还支持 deepin Linyaps 包。
 
-（GXDE 全称为 Gorgeous eXtended Deepin Environment）
+### 一键安装应用程序，无需输入命令
+
+GXDE OS 内置 [星火应用商店](https://gitee.com/spark-store-project/)，使用户能够轻松发现和安装所需应用程序，而无需使用命令行。
+
+此外，只需将 `apt` 替换为 `aptss`，即可加速下载速度。
+
+### 沟通渠道
 
 QQ 群：881201853
+
+请点击右上角的Star，您的支持是我们最大的动力。
+
 
 ## 其它项目
 
