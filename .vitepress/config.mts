@@ -28,6 +28,9 @@ export default defineConfig({
       {
         text: "特色应用",
         items: [
+          { text: "GXDE 备份还原工具", link: "/apps/gxde-clone/"},
+          { text: "GXDE 影院", link: "/apps/gxde-movie/"},
+          { text: "GXDE 终端", link: "/apps/gxde-terminal/"},
           { text: "GXDE 音乐", link: "/apps/gxde-music/"},
           { text: "GXDE 看图", link: "/apps/gxde-image-viewer/"},
           { text: "GXDE 软件包管理器", link: "/apps/gxde-deb-installer/"},
@@ -96,6 +99,9 @@ export default defineConfig({
           {
             text: "Feature Programs",
             items: [
+              { text: "GXDE Clone", link: "/en/apps/gxde-clone/"},
+              { text: "GXDE Movie", link: "/en/apps/gxde-movie/"},
+              { text: "GXDE Terminal", link: "/en/apps/gxde-terminal/"},
               { text: "GXDE Music", link: "/en/apps/gxde-music/"},
               { text: "GXDE Image Viewer", link: "/en/apps/gxde-image-viewer/"},
               { text: "GXDE Package Manager", link: "/en/apps/gxde-deb-installer/"},
