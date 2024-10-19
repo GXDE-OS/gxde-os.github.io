@@ -92,7 +92,7 @@ GXDE Movie, shares extreme play experience with you. Use it, you will love it!
        <td>Volume</td>
        <td><img src="/apps/gxde-movie/en_US/icon/fullscreen.png" class="inline" /></td>
        <td>Fullscreen</td>
-       <td><img src="/apps/gxde-movie/en_US/icon/icon/playlist.png" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/playlist.png" class="inline" /></td>
        <td>Playlist</td>
        <td><img src="/apps/gxde-movie/en_US/icon/mini.png" class="inline" /></td>
        <td>Exit mini mode</td>

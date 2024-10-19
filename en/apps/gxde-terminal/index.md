@@ -4,7 +4,7 @@
 
 GXDE Terminal is a terminal emulator with simple interface, rich and powerful functions created by Deepin Technology. You can instantly start and close GXDE Terminal smoothly like normal file window, allowing you to input commands with facility and no distractions. Let's try the Quake mode, browse webs while inputting commands. When there are multiple tasks, you can add tabs in terminal to create more workspaces like in the browser or split the workspace into multiple windows. It's a piece of cake to upload and download files with remote management. More powerful functions are waiting for you to explore!
 
- ![1|interface](/apps/gxde-terminal/zh_CN/jpg/interface.jpg)
+ ![1|interface](/apps/gxde-terminal/en_US/jpg/interface.jpg)
 
 
 ## Guide
@@ -13,38 +13,38 @@ You can run, exit or create shortcuts for GXDE Terminal.
 
 ### Run GXDE Terminal ###
 
-1. Click ![launcher-24](/apps/gxde-terminal/zh_CN/icon/launcher-24.png) on dock to enter launcher interface.
-2. Find ![terminal-24](/apps/gxde-terminal/zh_CN/icon/terminal-24.png) to click on, you can:
+1. Click ![launcher-24](/apps/gxde-terminal/en_US/icon/launcher-24.png) on dock to enter launcher interface.
+2. Find ![terminal-24](/apps/gxde-terminal/en_US/icon/terminal-24.png) to click on, you can:
  - Click on **Send to desktop** to create a desktop shortcut.
  - Click on **Send to dock** to fix it on dock.
  - Click on **Add to startup** to add it to startup, it will automatically run when the system starts up.
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): You can also press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Alt](/apps/gxde-terminal/zh_CN/icon/Alt.png)+![T](/apps/gxde-terminal/zh_CN/icon/T.png) to open GXDE Terminal.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): You can also press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Alt](/apps/gxde-terminal/en_US/icon/Alt.png)+![T](/apps/gxde-terminal/en_US/icon/T.png) to open GXDE Terminal.
 
 
 ### Exit GXDE Terminal ###
 
-1. On GXDE Terminal interface, click on ![close_icon](/apps/gxde-terminal/zh_CN/icon/close_icon.png) to exit.
+1. On GXDE Terminal interface, click on ![close_icon](/apps/gxde-terminal/en_US/icon/close_icon.png) to exit.
 
-2. Right click on ![terminal-24](/apps/gxde-terminal/zh_CN/icon/terminal-24.png) on Dock and select **Close All** to exit.
+2. Right click on ![terminal-24](/apps/gxde-terminal/en_US/icon/terminal-24.png) on Dock and select **Close All** to exit.
 
-3. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) to select **Exit** to exit.
+3. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) to select **Exit** to exit.
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): There will be a prompt when programs are still running in terminal.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): There will be a prompt when programs are still running in terminal.
 
 
 ### View Shortcuts ###
 
-You can press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/zh_CN/icon/Shift.png)+![QM](/apps/gxde-terminal/zh_CN/icon/QM.png) on keyboard to open shortcuts preview interface.
+You can press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/en_US/icon/Shift.png)+![QM](/apps/gxde-terminal/en_US/icon/QM.png) on keyboard to open shortcuts preview interface.
 
- ![1|shortcuts](/apps/gxde-terminal/zh_CN/jpg/shortcuts.jpg)
+ ![1|shortcuts](/apps/gxde-terminal/en_US/jpg/shortcuts.jpg)
 
 
 ## Basic Operations
 
 You can right click on GXDE Terminal interface to do daily operations.
 
- ![1|rightclick](/apps/gxde-terminal/zh_CN/jpg/rightclick.jpg)
+ ![1|rightclick](/apps/gxde-terminal/en_US/jpg/rightclick.jpg)
 
 
 ### Find ###
@@ -55,13 +55,13 @@ You can use the "Find" function to quickly search contents in terminal.
 
 2. Click on **Find**.
 
-3. Type the word in search box and click on ![Enter](/apps/gxde-terminal/zh_CN/icon/Enter.png).
+3. Type the word in search box and click on ![Enter](/apps/gxde-terminal/en_US/icon/Enter.png).
 
 4. Then the search results will be highlighted.
 
-5. Press ![Esc](/apps/gxde-terminal/zh_CN/icon/Esc.png) on keyboard or click on any location of terminal interface to exit search.
+5. Press ![Esc](/apps/gxde-terminal/en_US/icon/Esc.png) on keyboard or click on any location of terminal interface to exit search.
 
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): Press ![Enter](/apps/gxde-terminal/zh_CN/icon/Enter.png) to search down from current location. You can also click on ![up](/apps/gxde-terminal/zh_CN/icon/up.png) and ![down](/apps/gxde-terminal/zh_CN/icon/down.png) to search.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): Press ![Enter](/apps/gxde-terminal/en_US/icon/Enter.png) to search down from current location. You can also click on ![up](/apps/gxde-terminal/en_US/icon/up.png) and ![down](/apps/gxde-terminal/en_US/icon/down.png) to search.
 
 
 ### Web Search ###
@@ -85,14 +85,14 @@ You can freely copy and paste the contents or commands among terminal and anywhe
 
 3. Right click to **Paste** the contents at anywhere.
 
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): If it is a link, just right click on it to copy without selection.
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): Check **Copy on select** in settings window, to copy the selected text to clipboard automatically.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): If it is a link, just right click on it to copy without selection.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): Check **Copy on select** in settings window, to copy the selected text to clipboard automatically.
 
 ### Quake Mode ###
 
-Press ![Alt](/apps/gxde-terminal/zh_CN/icon/Alt.png) + ![F2](/apps/gxde-terminal/zh_CN/icon/F2.png) to open a quake window, and press again to hide it.
+Press ![Alt](/apps/gxde-terminal/en_US/icon/Alt.png) + ![F2](/apps/gxde-terminal/en_US/icon/F2.png) to open a quake window, and press again to hide it.
 
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): You can also click on ![terminal-24](/apps/gxde-terminal/zh_CN/icon/terminal-24.png) on Dock to select **Quake Terminal** to open a quake window.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): You can also click on ![terminal-24](/apps/gxde-terminal/en_US/icon/terminal-24.png) on Dock to select **Quake Terminal** to open a quake window.
 
 ### Open File and Application ###
 
@@ -103,7 +103,7 @@ On GXDE Terminal interface, select the file in current directory and right click
 3. Right click and select **Open**.
 4. The file will open with the proper application.
 
- ![1|openfile](/apps/gxde-terminal/zh_CN/jpg/openfile.jpg)
+ ![1|openfile](/apps/gxde-terminal/en_US/jpg/openfile.jpg)
 
 
 ### Switch Encoding ###
@@ -116,7 +116,7 @@ When there is messy code or display error, you may switch the encoding to solve 
 
 3. Select one encoding in the list to switch.
 
- ![1|unicode](/apps/gxde-terminal/zh_CN/jpg/unicode.jpg)
+ ![1|unicode](/apps/gxde-terminal/en_US/jpg/unicode.jpg)
 
 
 ## Window Operations
@@ -128,13 +128,13 @@ Window is the base for you to do any operations in terminal. You can create many
 
 You can create a new window in the following ways:
 
-1. Open GXDE Terminal and click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) to select **New Window**.
+1. Open GXDE Terminal and click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) to select **New Window**.
 
-2. Click on ![terminal-24](/apps/gxde-terminal/zh_CN/icon/terminal-24.png) on Dock to select **New Window**.
+2. Click on ![terminal-24](/apps/gxde-terminal/en_US/icon/terminal-24.png) on Dock to select **New Window**.
 
-3. Press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Alt](/apps/gxde-terminal/zh_CN/icon/Alt.png)+ 1~9 Number key to open new windows in different colors.
+3. Press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Alt](/apps/gxde-terminal/en_US/icon/Alt.png)+ 1~9 Number key to open new windows in different colors.
 
- ![0|new_window](/apps/gxde-terminal/zh_CN/jpg/new_window.jpg)
+ ![0|new_window](/apps/gxde-terminal/en_US/jpg/new_window.jpg)
 
 ### Rename Window ###
 
@@ -145,9 +145,9 @@ You can create a new window in the following ways:
 
 3. Input the name and click on **Rename**.
 
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): You can also press ![F2](/apps/gxde-terminal/zh_CN/icon/F2.png)  to rename the window title.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): You can also press ![F2](/apps/gxde-terminal/en_US/icon/F2.png)  to rename the window title.
 
- ![1|rename](/apps/gxde-terminal/zh_CN/jpg/rename.jpg)
+ ![1|rename](/apps/gxde-terminal/en_US/jpg/rename.jpg)
 
 
 ### Split Window ###
@@ -160,20 +160,20 @@ You can create a new window in the following ways:
 
 2. You can input commands in each terminal window, and view both the results of the executed command.
 
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): You can also press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/zh_CN/icon/Shift.png)+![J](/apps/gxde-terminal/zh_CN/icon/J.png) on keyboard to split vertically, and press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/zh_CN/icon/Shift.png)+![H](/apps/gxde-terminal/zh_CN/icon/H.png) to split horizontally.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): You can also press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/en_US/icon/Shift.png)+![J](/apps/gxde-terminal/en_US/icon/J.png) on keyboard to split vertically, and press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/en_US/icon/Shift.png)+![H](/apps/gxde-terminal/en_US/icon/H.png) to split horizontally.
 
- ![1|splitscreen](/apps/gxde-terminal/zh_CN/jpg/splitscreen.jpg)
+ ![1|splitscreen](/apps/gxde-terminal/en_US/jpg/splitscreen.jpg)
 
 
 ### Display Window in Fullscreen ###
 
 1. Open GXDE Terminal in launcher interface.
 
-2. Press ![F11](/apps/gxde-terminal/zh_CN/icon/F11.png) to display GXDE Terminal in fullscreen.
+2. Press ![F11](/apps/gxde-terminal/en_US/icon/F11.png) to display GXDE Terminal in fullscreen.
 
-3. If you want to restore the normal display, please press ![F11](/apps/gxde-terminal/zh_CN/icon/F11.png).
+3. If you want to restore the normal display, please press ![F11](/apps/gxde-terminal/en_US/icon/F11.png).
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): You can also right click to select **Fullscreen** or **Exit fullscreen** on GXDE Terminal interface.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): You can also right click to select **Fullscreen** or **Exit fullscreen** on GXDE Terminal interface.
 
 ### Close Window ###
 
@@ -187,21 +187,21 @@ For multiple splitting windows, you can execute the following operations to clos
 
   - Select **Close other windows** to close other splitting windows except the current window.
 
- ![1|closewindow](/apps/gxde-terminal/zh_CN/jpg/closewindow.jpg)
+ ![1|closewindow](/apps/gxde-terminal/en_US/jpg/closewindow.jpg)
 
 
 ## Workspace Operations
 
 The current workspace status will be displayed in different colors of workspace tabs.
 
- ![1|workspace](/apps/gxde-terminal/zh_CN/jpg/workspace.png)
+ ![1|workspace](/apps/gxde-terminal/en_US/jpg/workspace.png)
 
 
 ### New Workspace ###
 
 - Right click on GXDE Terminal interface and select **New workspace** to create a new workspace.
 
-- Click on ![add](/apps/gxde-terminal/zh_CN/icon/add_icon.png) on the top to create a workspace.
+- Click on ![add](/apps/gxde-terminal/en_US/icon/add_icon.png) on the top to create a workspace.
 
 
 ### Select Workspace ###
@@ -209,17 +209,17 @@ The current workspace status will be displayed in different colors of workspace 
 You can freely switch between multiple workspaces by one of the following operations:
 
 - Directly click the workspace tab to select a workspace.
-- Press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Tab](/apps/gxde-terminal/zh_CN/icon/Tab.png) to switch in sequence.
-- Press ![Alt](/apps/gxde-terminal/zh_CN/icon/Alt.png)+ 1~9 Number key to select the workspace; when there are more than 9 workspaces, the last workspace will be selected rather the ninth one.
+- Press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Tab](/apps/gxde-terminal/en_US/icon/Tab.png) to switch in sequence.
+- Press ![Alt](/apps/gxde-terminal/en_US/icon/Alt.png)+ 1~9 Number key to select the workspace; when there are more than 9 workspaces, the last workspace will be selected rather the ninth one.
 
 
 ### Close Workspace ###
 
-- Move the mouse pointer over the preview window of workspace, click on ![close_icon](/apps/gxde-terminal/zh_CN/icon/close_icon.png) to close the workspace.
+- Move the mouse pointer over the preview window of workspace, click on ![close_icon](/apps/gxde-terminal/en_US/icon/close_icon.png) to close the workspace.
 
-- Press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/zh_CN/icon/Shift.png)+![w](/apps/gxde-terminal/zh_CN/icon/W.png).
+- Press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Shift](/apps/gxde-terminal/en_US/icon/Shift.png)+![w](/apps/gxde-terminal/en_US/icon/W.png).
 
-> ![tips](/apps/gxde-terminal/zh_CN/icon/tips.png): When there is only one window in workspace, you can also right click and select **Close window** to close the workspace.
+> ![tips](/apps/gxde-terminal/en_US/icon/tips.png): When there is only one window in workspace, you can also right click and select **Close window** to close the workspace.
 
 
 ## Remote Server Management
@@ -228,7 +228,7 @@ You can right click or click the main menu to open remote management panel to ad
 
 ### Add Server ###
 
-1. On GXDE Terminal interface, right click or click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, right click or click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Select **Remote management** to open the panel.
 
@@ -244,19 +244,19 @@ You can right click or click the main menu to open remote management panel to ad
 
 5. If you need more parameters, please click on **Advanced options** to set, the default certificate file located in ~/.ssh/id_rsa.
 
- ![1|addssh](/apps/gxde-terminal/zh_CN/jpg/addssh-all.jpg)
+ ![1|addssh](/apps/gxde-terminal/en_US/jpg/addssh-all.jpg)
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): You can also press ![Ctrl](/apps/gxde-terminal/zh_CN/icon/Ctrl.png)+![Slash](/apps/gxde-terminal/zh_CN/icon/Slash.png) to open the remote management panel.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): You can also press ![Ctrl](/apps/gxde-terminal/en_US/icon/Ctrl.png)+![Slash](/apps/gxde-terminal/en_US/icon/Slash.png) to open the remote management panel.
 
 ### Edit Server ###
 
-1. Hover the mouse pointer over the server added, click on ![edit_icon](/apps/gxde-terminal/zh_CN/icon/edit_icon.png) to enter the detailed interface.
+1. Hover the mouse pointer over the server added, click on ![edit_icon](/apps/gxde-terminal/en_US/icon/edit_icon.png) to enter the detailed interface.
 
 2. Edit as needed.
 
 3. Click on **Save** to save the editing.
 
- ![0|editssh](/apps/gxde-terminal/zh_CN/jpg/editssh.jpg)
+ ![0|editssh](/apps/gxde-terminal/en_US/jpg/editssh.jpg)
 
 
 ### Group Servers ###
@@ -271,20 +271,20 @@ When we set a group for a server, it will be added in the group and displayed in
 
 4. Then this server will be grouped.
 
- ![0|groupssh](/apps/gxde-terminal/zh_CN/jpg/groupssh.jpg)
+ ![0|groupssh](/apps/gxde-terminal/en_US/jpg/groupssh.jpg)
 
 
 ### Search Server ###
 
 When there are many servers, the search box will be displayed on the top of remote management panel.
 
-1. Input the server name and press ![Enter](/apps/gxde-terminal/zh_CN/icon/Enter.png).
+1. Input the server name and press ![Enter](/apps/gxde-terminal/en_US/icon/Enter.png).
 
 2. The search results will be displayed at the panel.
 
-![0|searchssh](/apps/gxde-terminal/zh_CN/jpg/searchssh.jpg)
+![0|searchssh](/apps/gxde-terminal/en_US/jpg/searchssh.jpg)
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): You can customize the searched server name according to needs.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): You can customize the searched server name according to needs.
 
 
 ### Upload/Download File ###
@@ -299,7 +299,7 @@ You can upload and download files after logged in a server.
 
 3. Select file to upload.
 
-![1|upload](/apps/gxde-terminal/zh_CN/jpg/upload.jpg)
+![1|upload](/apps/gxde-terminal/en_US/jpg/upload.jpg)
 
 
 #### Download File ####
@@ -310,7 +310,7 @@ You can upload and download files after logged in a server.
 
 3. Select file to download.
 
-![1|download](/apps/gxde-terminal/zh_CN/jpg/download.jpg)
+![1|download](/apps/gxde-terminal/en_US/jpg/download.jpg)
 
 
 ### Delete Server ###
@@ -321,23 +321,23 @@ You can upload and download files after logged in a server.
 
 3. Select **Delete server** at the bottom to delete.
 
-![0|groupssh](/apps/gxde-terminal/zh_CN/jpg/groupssh.jpg)
+![0|groupssh](/apps/gxde-terminal/en_US/jpg/groupssh.jpg)
 
 ## Main Menu
 
 ### Switch Theme ###
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Switch theme**.
 
 3. Select one from the theme list and it takes effect right now.
 
- ![1|change](/apps/gxde-terminal/zh_CN/jpg/change.jpg)
+ ![1|change](/apps/gxde-terminal/en_US/jpg/change.jpg)
 
 ### Custom Commands ###
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Custom commands**.
 
@@ -347,13 +347,13 @@ You can upload and download files after logged in a server.
 
 5. Click on **Add**.
 
- ![1|command](/apps/gxde-terminal/zh_CN/jpg/command.jpg)
+ ![1|command](/apps/gxde-terminal/en_US/jpg/command.jpg)
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): You can also right click on the GXDE Terminal interface and select **Custom commands** to add.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): You can also right click on the GXDE Terminal interface and select **Custom commands** to add.
 
 ### Basic Settings ###
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Settings**.
 
@@ -363,11 +363,11 @@ You can upload and download files after logged in a server.
 
   - Set the font and font size.
 
- ![0|generalset](/apps/gxde-terminal/zh_CN/jpg/generalset.jpg)
+ ![0|generalset](/apps/gxde-terminal/en_US/jpg/generalset.jpg)
 
 ### Shortcuts Settings ###
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Settings**.
 
@@ -375,14 +375,14 @@ You can upload and download files after logged in a server.
 
   - Click the shortcuts to be modified, and input new shortcuts by keyboard.
 
-  - Press ![Backspace](/apps/gxde-terminal/zh_CN/icon/Backspace.png) if you want to disable the shortcut.
+  - Press ![Backspace](/apps/gxde-terminal/en_US/icon/Backspace.png) if you want to disable the shortcut.
 
- ![0|hotkeyset](/apps/gxde-terminal/zh_CN/jpg/hotkeyset.jpg)
+ ![0|hotkeyset](/apps/gxde-terminal/en_US/jpg/hotkeyset.jpg)
 
 
 ### Advanced Settings ###
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Settings**.
 
@@ -398,16 +398,16 @@ You can upload and download files after logged in a server.
   - Enable or disable **Hide quake window after lost focus**.
   - Enable or disable **Blur background**.
 
- ![0|advanced](/apps/gxde-terminal/zh_CN/jpg/advanced.jpg)
+ ![0|advanced](/apps/gxde-terminal/en_US/jpg/advanced.jpg)
 
-> ![notes](/apps/gxde-terminal/zh_CN/icon/notes.png): If you need to restore all default settings, please click on **Restore Defaults**.
+> ![notes](/apps/gxde-terminal/en_US/icon/notes.png): If you need to restore all default settings, please click on **Restore Defaults**.
 
 
 ### Help ###
 
 You can click on **Help** to view the manual.
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Help** to view the manual of GXDE Terminal.
 
@@ -418,7 +418,7 @@ You can click on **Help** to view the manual.
 
 You can click on **About** to view the introduction of GXDE Terminal.
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **About** to view the introduction of GXDE Terminal.
 
@@ -429,6 +429,6 @@ You can click on **About** to view the introduction of GXDE Terminal.
 
 You can click on **Exit** to exit GXDE Terminal.
 
-1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/zh_CN/icon/menu_icon.png) in the top right corner.
+1. On GXDE Terminal interface, click on ![menu_icon](/apps/gxde-terminal/en_US/icon/menu_icon.png) in the top right corner.
 
 2. Click on **Exit** to exit.
