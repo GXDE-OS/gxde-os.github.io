@@ -11,23 +11,23 @@ GXDE Movie, shares extreme play experience with you. Use it, you will love it!
 
 ### Run GXDE Movie
 
-1. On Dock, click on ![launcher_icon](/apps/gxde-movie/en_US/icon/launcher_icon.svg) to enter Launcher.
-2. Right click on ![movie-24](/apps/gxde-movie/en_US/icon/movie-24.svg), you can:
+1. On Dock, click on ![launcher_icon](/apps/gxde-movie/en_US/icon/launcher_icon.png) to enter Launcher.
+2. Right click on ![movie-24](/apps/gxde-movie/en_US/icon/movie-24.png), you can:
   - Click on **Send to desktop** to create a desktop shortcut.
   - Click on **Send to dock** to fix its icon on Dock.
   - Click on **Add to startup** to add it to startup, it will auto run when system boots.
 
-> ![notes](/apps/gxde-movie/en_US/icon/notes.svg): You can also right click on a video and select **Open with GXDE Movie** to run.
+> ![notes](/apps/gxde-movie/en_US/icon/notes.png): You can also right click on a video and select **Open with GXDE Movie** to run.
 
 ### Exit GXDE Movie
 
-- On GXDE Movie interface, click on ![close](/apps/gxde-movie/en_US/icon/close.svg) to exit.
-- Right click on ![movie-24](/apps/gxde-movie/en_US/icon/movie-24.svg) on Dock, select **Close All** to exit.
-- Click on ![main_memu](/apps/gxde-movie/en_US/icon/main_menu.svg) and select **Exit** to exit.
+- On GXDE Movie interface, click on ![close](/apps/gxde-movie/en_US/icon/close.png) to exit.
+- Right click on ![movie-24](/apps/gxde-movie/en_US/icon/movie-24.png) on Dock, select **Close All** to exit.
+- Click on ![main_memu](/apps/gxde-movie/en_US/icon/main_menu.png) and select **Exit** to exit.
 
 ### View Shortcuts
 
-1. On GXDE Movie Interface, press ![Ctrl](/apps/gxde-movie/en_US/icon/Ctrl.svg)+![Shift](/apps/gxde-movie/en_US/icon/Shift.svg)+![QM](/apps/gxde-movie/en_US/icon/QM.svg).
+1. On GXDE Movie Interface, press ![Ctrl](/apps/gxde-movie/en_US/icon/Ctrl.png)+![Shift](/apps/gxde-movie/en_US/icon/Shift.png)+![QM](/apps/gxde-movie/en_US/icon/QM.png).
 2. You can view all the shortcuts on the preview interface.
 
 ![1|shortcut](/apps/gxde-movie/en_US/jpg/shortcut.jpg)
@@ -68,33 +68,33 @@ GXDE Movie, shares extreme play experience with you. Use it, you will love it!
 <p>
 <table>
      <tr>
-       <td><img src="icon/main_menu.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/main_menu.png" class="inline" /></td>
        <td>Main Menu</td>
-       <td><img src="icon/minimize.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/minimize.png" class="inline" /></td>
        <td>Minimize</td>
-       <td><img src="icon/maximize.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/maximize.png" class="inline" /></td>
        <td>Maximize</td>
-       <td><img src="icon/close.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/close.png" class="inline" /></td>
        <td>Close</td>
      </tr>
      <tr>
-       <td><img src="icon/play.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/play.png" class="inline" /></td>
        <td>Play</td>
-       <td><img src="icon/pause.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/pause.png" class="inline" /></td>
        <td>Pause</td>
-       <td><img src="icon/previous.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/previous.png" class="inline" /></td>
        <td>Play previous film</td>
-       <td><img src="icon/next.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/next.png" class="inline" /></td>
        <td>Play next film</td>
      </tr>
      <tr>
-       <td><img src="icon/volume.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/volume.png" class="inline" /></td>
        <td>Volume</td>
-       <td><img src="icon/fullscreen.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/fullscreen.png" class="inline" /></td>
        <td>Fullscreen</td>
-       <td><img src="icon/playlist.svg" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/icon/playlist.png" class="inline" /></td>
        <td>Playlist</td>
-       <td><img src="icon/mini.png" class="inline" /></td>
+       <td><img src="/apps/gxde-movie/en_US/icon/mini.png" class="inline" /></td>
        <td>Exit mini mode</td>
      </tr>
 </table>
@@ -103,8 +103,8 @@ GXDE Movie, shares extreme play experience with you. Use it, you will love it!
 
 You can play film by the following ways:
 
-1. On GXDE Movie interface, right click or click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg) to select **Open File**.
-2. On GXDE Movie interface, right click or click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg) to select **Open Folder**.
+1. On GXDE Movie interface, right click or click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png) to select **Open File**.
+2. On GXDE Movie interface, right click or click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png) to select **Open Folder**.
 3. On GXDE Movie interface, right click to select **Open URL**.
 4. On GXDE Movie interface, right click to select **Open CD/DVD**.
 5. Drag and drop file/folder to the main interface.
@@ -112,31 +112,31 @@ You can play film by the following ways:
 
 ### Play/Pause
 
-- On GXDE Movie interface, click on ![Play](/apps/gxde-movie/en_US/icon/play.svg)/![Pause](/apps/gxde-movie/en_US/icon/pause.svg).
-- On GXDE Movie interface, press ![Space](/apps/gxde-movie/en_US/icon/Space.svg) on keyboard.
+- On GXDE Movie interface, click on ![Play](/apps/gxde-movie/en_US/icon/play.png)/![Pause](/apps/gxde-movie/en_US/icon/pause.png).
+- On GXDE Movie interface, press ![Space](/apps/gxde-movie/en_US/icon/Space.png) on keyboard.
 - On GXDE Movie interface, click the left mouse button.
 
->![notes](/apps/gxde-movie/en_US/icon/notes.svg): Play and pause are mutually exclusive states.
+>![notes](/apps/gxde-movie/en_US/icon/notes.png): Play and pause are mutually exclusive states.
 
 ### Previous/Next
 
-- On GXDE Movie interface, press  ![Page Up](/apps/gxde-movie/en_US/icon/PageUp.svg)/![Page Down](/apps/gxde-movie/en_US/icon/PageDown.svg) .
-- On GXDE Movie interface, click on ![Previous](/apps/gxde-movie/en_US/icon/previous.svg)/![Next](/apps/gxde-movie/en_US/icon/next.svg).
+- On GXDE Movie interface, press  ![Page Up](/apps/gxde-movie/en_US/icon/PageUp.png)/![Page Down](/apps/gxde-movie/en_US/icon/PageDown.png) .
+- On GXDE Movie interface, click on ![Previous](/apps/gxde-movie/en_US/icon/previous.png)/![Next](/apps/gxde-movie/en_US/icon/next.png).
 
 
 ### Forward/Rewind
 
-1. On GXDE Movie interface, press ![Right](/apps/gxde-movie/en_US/icon/Right.svg) to forward the film.
-2. Press ![Left](/apps/gxde-movie/en_US/icon/Left.svg) on keyboard to rewind the film.
+1. On GXDE Movie interface, press ![Right](/apps/gxde-movie/en_US/icon/Right.png) to forward the film.
+2. Press ![Left](/apps/gxde-movie/en_US/icon/Left.png) on keyboard to rewind the film.
 
 
 ### Speed Up/Down
 
-1. On GXDE Movie interface, press ![Ctrl](/apps/gxde-movie/en_US/icon/Ctrl.svg)+![Right](/apps/gxde-movie/en_US/icon/Right.svg) to speed up the film.
-2. Press ![Ctrl](/apps/gxde-movie/en_US/icon/Ctrl.svg)+![Left](/apps/gxde-movie/en_US/icon/Left.svg) to speed down the film
-3. If you want to restore the original play speed, press ![R](/apps/gxde-movie/en_US/icon/R.svg) on keyboard.
+1. On GXDE Movie interface, press ![Ctrl](/apps/gxde-movie/en_US/icon/Ctrl.png)+![Right](/apps/gxde-movie/en_US/icon/Right.png) to speed up the film.
+2. Press ![Ctrl](/apps/gxde-movie/en_US/icon/Ctrl.png)+![Left](/apps/gxde-movie/en_US/icon/Left.png) to speed down the film
+3. If you want to restore the original play speed, press ![R](/apps/gxde-movie/en_US/icon/R.png) on keyboard.
 
->![notes](/apps/gxde-movie/en_US/icon/notes.svg): Speed up/down is relative to the original play speed. Every pressing is 0.1 times. Maximum speed is 2 times of the original play speed and the minimum is 0.1 times.
+>![notes](/apps/gxde-movie/en_US/icon/notes.png): Speed up/down is relative to the original play speed. Every pressing is 0.1 times. Maximum speed is 2 times of the original play speed and the minimum is 0.1 times.
 
 ## Basic operations
 On GXDE Movie interface, you can do many operations according to needs.
@@ -148,7 +148,7 @@ On GXDE Movie interface, you can do many operations according to needs.
 3. Select **Mini Mode** to play in mini mode.
 4. Select **Always on Top** to put the window on top layer.
 
-> ![notes](/apps/gxde-movie/en_US/icon/notes.svg): You can also drag and drop the window in equal proportion by needs.
+> ![notes](/apps/gxde-movie/en_US/icon/notes.png): You can also drag and drop the window in equal proportion by needs.
 
 ![0|window](/apps/gxde-movie/en_US/jpg/window.jpg)
 
@@ -211,7 +211,7 @@ On GXDE Movie interface, you can do many operations according to needs.
 1. Right click on GXDE Movie interface.
 2. Select **Film Info**, you can view the file type, resolution, file size, duration and file path of the file.
 
-> ![notes](/apps/gxde-movie/en_US/icon/notes.svg): You can also right click on playlist to select **Film Info** to view.
+> ![notes](/apps/gxde-movie/en_US/icon/notes.png): You can also right click on playlist to select **Film Info** to view.
 
 ![1|info](/apps/gxde-movie/en_US/jpg/info.jpg)
 
@@ -222,7 +222,7 @@ On GXDE Movie interface, you can do many operations according to needs.
 1. Right click on GXDE Movie interface.
 2. Check **Playlist** to show playlist and check again to hide playlist.
 
-> ![notes](/apps/gxde-movie/en_US/icon/notes.svg): You can also click on ![playlist](/apps/gxde-movie/en_US/icon/playlist.svg) on the main interface to show/hide playlist.
+> ![notes](/apps/gxde-movie/en_US/icon/notes.png): You can also click on ![playlist](/apps/gxde-movie/en_US/icon/playlist.png) on the main interface to show/hide playlist.
 
 ![1|playlist](/apps/gxde-movie/en_US/jpg/playlist.jpg)
 
@@ -231,7 +231,7 @@ On GXDE Movie interface, you can do many operations according to needs.
 You can add film to playlist by the following ways:
 - Show the playlist, drag and drop file/folder to it.
 - Right click on the main interface, and select **Open File/Open Folder/Open URL/Open CD/DVD** to add.
-- Click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg) on GXDE Movie interface, and select **Open File/Open Folder** to add.
+- Click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png) on GXDE Movie interface, and select **Open File/Open Folder** to add.
 
 ### Delete Film from Playlist
 
@@ -258,7 +258,7 @@ You can add film to playlist by the following ways:
 ## Main Menu
 ### Basic Settings
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Select **Settings** > **Basic settings**.
 3. In the option **Play**, you can:
  - Check the box of **Clear playlist when exit**, the playlist will be cleared when you exit GXDE Movie.
@@ -273,7 +273,7 @@ You can add film to playlist by the following ways:
 
 ### Shortcuts Settings
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Select **Settings** > **Shortcuts**.
 3. You can set the shortcuts for playback, frame/sound, file, subtitle and screenshot.
 
@@ -281,11 +281,11 @@ You can add film to playlist by the following ways:
 
 ### Subtitle Settings
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Select **Settings** > **Subtitle**.
 3. You can set the font and font size for subtitles.
 
-> ![notes](/apps/gxde-movie/en_US/icon/notes.svg): You can also click on **Restore Defaults** to restore all settings.
+> ![notes](/apps/gxde-movie/en_US/icon/notes.png): You can also click on **Restore Defaults** to restore all settings.
 
 ![1|subtitle_settings](/apps/gxde-movie/en_US/jpg/subtitle_settings.jpg)
 
@@ -293,7 +293,7 @@ You can add film to playlist by the following ways:
 
 The theme of GXDE Movie is dark by default, you can click on **Light Theme** to switch.
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Select **Light Theme**.
 3. The interface will switch to light theme.
 
@@ -301,7 +301,7 @@ The theme of GXDE Movie is dark by default, you can click on **Light Theme** to 
 
 ### Help
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Select **Help**.
 3. View the manual.
 
@@ -309,7 +309,7 @@ The theme of GXDE Movie is dark by default, you can click on **Light Theme** to 
 
 ### About
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Select **About**.
 3. View the version description.
 
@@ -317,5 +317,5 @@ The theme of GXDE Movie is dark by default, you can click on **Light Theme** to 
 
 ### Exit
 
-1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.svg).
+1. On GXDE Movie interface, click on ![main_menu](/apps/gxde-movie/en_US/icon/main_menu.png).
 2. Click on **Exit** to exit.

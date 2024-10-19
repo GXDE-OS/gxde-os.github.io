@@ -79,37 +79,37 @@ GXDE 影院提供了直观易用的操作界面和丰富齐全的快捷键，依
 <table class="block1">
      <tbody>
      <tr>
-            <td><img src="icon/previous-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/previous-normal.png" class="inline" /></td>
             <td>播放上一个影片</td>
-            <td><img src="icon/next-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/next-normal.png" class="inline" /></td>
             <td>播放下一个影片</td>
          </tr>
          <tr>
-            <td><img src="icon/play-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/play-normal.png" class="inline" /></td>
             <td>开始播放影片</td>
-            <td><img src="icon/pause-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/pause-normal.png" class="inline" /></td>
             <td>暂停播放影片</td>
         </tr>
         <tr>
-            <td><img src="icon/audio-volume-high-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/audio-volume-high-normal.png" class="inline" /></td>
             <td>调节音量</td>
-            <td><img src="icon/fullscreen-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/fullscreen-normal.png" class="inline" /></td>
             <td>全屏播放</td>
         </tr>
         <tr>
-            <td><img src="icon/list-normal.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/list-normal.png" class="inline" /></td>
             <td>呼出/隐藏播放列表</td>
-            <td><img src="icon/menu.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/menu.png" class="inline" /></td>
             <td>主菜单</td>
         </tr>
         <tr>
-            <td><img src="icon/mix.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/mix.png" class="inline" /></td>
             <td>最小化按钮</td>
-            <td><img src="icon/max.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/max.png" class="inline" /></td>
             <td>最大化按钮</td>
         </tr>
         <tr>
-            <td><img src="icon/close.png" class="inline" /></td>
+            <td><img src="/apps/gxde-movie/zh_CN/icon/close.png" class="inline" /></td>
             <td>关闭按钮</td>
             <td></td>
             <td></td>
