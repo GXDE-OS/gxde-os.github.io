@@ -33,9 +33,9 @@ sudo apt update
 
 sudo apt install spark-store -y
 
-sudo aptss install gxde-testing-source -y
+sudo apt install gxde-testing-source -y
 
-sudo aptss install gxde-desktop gxde-desktop-extra -y
+sudo apt install gxde-desktop gxde-desktop-extra -y
 
 ```
 **There are potential conflict between GXDE and KDE. Don't install them both or maybe something will crash**
@@ -49,9 +49,11 @@ A2: For Legacy boot, it is recommended to use Rufus in DD mode. For EFI, you can
 
 ---
 
-Q3: NVIDIA driver installation failed by using `sudo aptss install nvidia-driver`
+Q3: I Need to use Android Emulator / Nvidia Driver, I need an older version kernel.
 
-A3: Please manually install the proprietary driver or install the package `linux-kernel-oldstable-gxde-amd64` and boot with this kernel to reinstall.
+A3: Simply install the package `linux-kernel-oldstable-gxde-amd64` and boot with this kernel.
+
+A3: If you wan't to use Nvidia Driver, but don't want to downgrade kernel, please check https://bbs.deepin.org/post/232923
 
 
 

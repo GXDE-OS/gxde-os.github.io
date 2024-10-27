@@ -21,7 +21,7 @@ GXDE (Gorgeous eXtended Deepin Environment)
 
 ### 多种多样的组件和体验
 
-GXDE OS 集成了多个社区的开源项目，包括顶栏、全局菜单、Spark 应用商店、AmberCE 兼容环境和 Fantascene 动态壁纸。它还支持 deepin Linyaps 包。
+GXDE OS 集成了多个社区的开源项目，包括顶栏、全局菜单、星火应用商店、AmberCE 兼容环境和 Fantascene 动态壁纸。它还支持 deepin Linyaps 包。
 
 ### 一键安装应用程序，无需输入命令
 
