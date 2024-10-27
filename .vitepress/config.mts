@@ -28,6 +28,8 @@ export default defineConfig({
       {
         text: "特色应用",
         items: [
+          { text: "深度云扫描", link: "/apps/deepin-cloud-scan/"},
+          { text: "深度云打印", link: "/apps/deepin-cloud-print/"},
           { text: "GXDE 备份还原工具", link: "/apps/gxde-clone/"},
           { text: "GXDE 影院", link: "/apps/gxde-movie/"},
           { text: "GXDE 终端", link: "/apps/gxde-terminal/"},
@@ -99,6 +101,8 @@ export default defineConfig({
           {
             text: "Feature Programs",
             items: [
+              { text: "Deepin Cloud Scanner", link: "/en/apps/deepin-cloud-scan/"},
+              { text: "Deepin Cloud Print", link: "/en/apps/deepin-cloud-print/"},
               { text: "GXDE Clone", link: "/en/apps/gxde-clone/"},
               { text: "GXDE Movie", link: "/en/apps/gxde-movie/"},
               { text: "GXDE Terminal", link: "/en/apps/gxde-terminal/"},
