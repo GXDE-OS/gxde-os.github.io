@@ -28,11 +28,11 @@
 2. 自动获取系统中IP地址。
 3. 在云打印机设置界面，输入授权码。
 4. 点击 **更新**。
-5. 当授权码更新成功后，在界面上显示 ![success](icon/icon_success.svg) 状态。
+5. 当授权码更新成功后，在界面上显示 ![success](/apps/deepin-cloud-print/zh_CN/icon/icon_success.svg) 状态。
 
-> ![notes](icon/notes.svg)：如果您需要更改授权码，直接在 **授权码** 文本框中输入新的授权码，点击 **更新** 后即可生效。
+> ![notes](/apps/deepin-cloud-print/zh_CN/icon/notes.svg)：如果您需要更改授权码，直接在 **授权码** 文本框中输入新的授权码，点击 **更新** 后即可生效。
 
- ![0|windowssetting](jpg/windowssetting.jpg)
+ ![0|windowssetting](/apps/deepin-cloud-print/zh_CN/jpg/windowssetting.jpg)
 
 ## 客户端配置
 
@@ -40,20 +40,20 @@
 
 ### 打开深度云打印
 
-1. 点击任务栏上的 ![launcher-24](icon/launcher-24.svg) 进入启动器界面。
-2. 通过浏览找到 ![printer-24](icon/printer-24.svg) 进行点击，进入深度云打印界面。
+1. 点击任务栏上的 ![launcher-24](/apps/deepin-cloud-print/zh_CN/icon/launcher-24.svg) 进入启动器界面。
+2. 通过浏览找到 ![printer-24](/apps/deepin-cloud-print/zh_CN/icon/printer-24.svg) 进行点击，进入深度云打印界面。
 
 ### 设置深度云打印
 
 1. 在深度云打印界面，输入打印机在Windows操作系统中的IP地址和授权码。
-2. 点击 ![icon_next](icon/icon_next.svg) ，显示所有Windows操作系统中的打印机列表。
-3. 在对应的打印机列表后点击 ![icon_plus](icon/icon_plus.svg)，该打印机名称后显示为“已添加”状态。
-4. 点击 ![icon_setting](icon/icon_setting.svg)，进入打印设置界面。
+2. 点击 ![icon_next](/apps/deepin-cloud-print/zh_CN/icon/icon_next.svg) ，显示所有Windows操作系统中的打印机列表。
+3. 在对应的打印机列表后点击 ![icon_plus](/apps/deepin-cloud-print/zh_CN/icon/icon_plus.svg)，该打印机名称后显示为“已添加”状态。
+4. 点击 ![icon_setting](/apps/deepin-cloud-print/zh_CN/icon/icon_setting.svg)，进入打印设置界面。
 5. 查看已添加的打印机是否添加成功。
 
- ![1|deepinssetting](jpg/deepinssetting.png)
+ ![1|deepinssetting](/apps/deepin-cloud-print/zh_CN/jpg/deepinssetting.png)
 
-> ![notes](icon/notes.svg)：如果您需要删除打印机，进入"打印设置"界面中选择打印机，点击鼠标右键 > **删除**。
+> ![notes](/apps/deepin-cloud-print/zh_CN/icon/notes.svg)：如果您需要删除打印机，进入"打印设置"界面中选择打印机，点击鼠标右键 > **删除**。
 
 ## 云打印测试
 
@@ -65,6 +65,6 @@
 4. 在 **名称** 下拉选项中，选择打印机并设置其他打印参数。
 5. 点击 **确定**。
 
- ![0|printsetting](jpg/printsetting.jpg)
+ ![0|printsetting](/apps/deepin-cloud-print/zh_CN/jpg/printsetting.jpg)
 
-> ![attention](icon/attention.svg) ：如果Windows操作系统更新了深度云打印的授权码，当您在打印文件时，系统自动弹出“云打印服务器授权码已被更新，请输入新的授权码”对话框，请联系管理员获取新的授权码后输入继续打印。打印过程中如果出现错误，请根据错误提示，重新进行设置。
+> ![attention](/apps/deepin-cloud-print/zh_CN/icon/attention.svg) ：如果Windows操作系统更新了深度云打印的授权码，当您在打印文件时，系统自动弹出“云打印服务器授权码已被更新，请输入新的授权码”对话框，请联系管理员获取新的授权码后输入继续打印。打印过程中如果出现错误，请根据错误提示，重新进行设置。

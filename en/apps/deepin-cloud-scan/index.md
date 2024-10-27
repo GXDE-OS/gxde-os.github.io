@@ -52,7 +52,7 @@ The client of Deepin Cloud Scan is preinstalled in deepin ISO.
 - Please close the firewall before enter the IP address, or IP address may be invalid.
 - If you need to delete the scanner, selected the scanner and click on ![icon_delete](/apps/deepin-cloud-scan/en_US/icon/icon_delete.png) to delete.
 
- ![1|client-settings](jpg/client-settings.jpg)
+ ![1|client-settings](/apps/deepin-cloud-scan/en_US/jpg/client-settings.jpg)
 
 ## Settings 
 

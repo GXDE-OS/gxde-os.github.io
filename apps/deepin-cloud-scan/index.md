@@ -29,9 +29,9 @@
 3. 在云扫描机设置界面，输入授权码。
 4. 点击 **更新** 。
 
-> ![notes](icon/notes.svg)：如果您需要更改授权码，直接在 **授权码** 文本框中输入新的授权码，点击 **更新** 后即可生效。
+> ![notes](/apps/deepin-cloud-scan/zh_CN/icon/notes.svg)：如果您需要更改授权码，直接在 **授权码** 文本框中输入新的授权码，点击 **更新** 后即可生效。
 
- ![0|windowssetting](jpg/windowssetting.jpg)
+ ![0|windowssetting](/apps/deepin-cloud-scan/zh_CN/jpg/windowssetting.jpg)
 
 ## 客户端配置
 
@@ -39,24 +39,24 @@
 
 ### 打开深度云扫描
 
-1. 点击任务栏上的 ![launcher-24](icon/launcher-24.svg) 进入启动器界面。
-2. 通过浏览找到 ![scanner-24](icon/scanner-24.svg) 进行点击，进入深度云扫描界面。
+1. 点击任务栏上的 ![launcher-24](/apps/deepin-cloud-scan/zh_CN/icon/launcher-24.svg) 进入启动器界面。
+2. 通过浏览找到 ![scanner-24](/apps/deepin-cloud-scan/zh_CN/icon/scanner-24.svg) 进行点击，进入深度云扫描界面。
 
 ### 设置深度云扫描
 
-1. 在深度云扫描界面，点击 ![icon_plus](icon/icon_plus.svg).
+1. 在深度云扫描界面，点击 ![icon_plus](/apps/deepin-cloud-scan/zh_CN/icon/icon_plus.svg).
 2. 进入添加扫描仪界面，输入服务器端中的IP地址和授权码。
-3. 点击 ![icon_next](icon/icon_next.svg) ，显示所有服务器端中的扫描仪列表。
-4. 在对应的扫描仪列表后点击 ![icon_plus](icon/icon_plus.svg)，该扫描仪名称后显示为“已添加”状态。
+3. 点击 ![icon_next](/apps/deepin-cloud-scan/zh_CN/icon/icon_next.svg) ，显示所有服务器端中的扫描仪列表。
+4. 在对应的扫描仪列表后点击 ![icon_plus](/apps/deepin-cloud-scan/zh_CN/icon/icon_plus.svg)，该扫描仪名称后显示为“已添加”状态。
 5. 点击 **扫描**，进入扫描易界面进行设置。
 
- ![1|deepinssetting](jpg/deepinssetting.png)
+ ![1|deepinssetting](/apps/deepin-cloud-scan/zh_CN/jpg/deepinssetting.png)
 
-> ![attention](icon/attention.svg) ：如果输入服务器端IP地址和授权码后，界面上提示“无效的IP地址”，进入服务器端关闭Windows防火墙。
+> ![attention](/apps/deepin-cloud-scan/zh_CN/icon/attention.svg) ：如果输入服务器端IP地址和授权码后，界面上提示“无效的IP地址”，进入服务器端关闭Windows防火墙。
 
 
-- 如果已经添加过扫描仪，可以进入深度云扫描列表界面，点击窗口左上角 ![icon_plus](icon/icon_plus.svg) 添加多个扫描仪设备。
-- 如果需要删除深度云扫描列表中的扫描仪，点击窗口左上角 ![icon_min](icon/icon_min.svg) 可以删除扫描仪设备。
+- 如果已经添加过扫描仪，可以进入深度云扫描列表界面，点击窗口左上角 ![icon_plus](/apps/deepin-cloud-scan/zh_CN/icon/icon_plus.svg) 添加多个扫描仪设备。
+- 如果需要删除深度云扫描列表中的扫描仪，点击窗口左上角 ![icon_min](/apps/deepin-cloud-scan/zh_CN/icon/icon_min.svg) 可以删除扫描仪设备。
 
 ## 选项设置
 
@@ -64,7 +64,7 @@
 
 您可以点击关于查看深度云扫描的版本介绍。
 
-1. 在深度云扫描界面，点击 ![icon_menu](icon/icon_menu.svg)。
+1. 在深度云扫描界面，点击 ![icon_menu](/apps/deepin-cloud-scan/zh_CN/icon/icon_menu.svg)。
 2. 点击 **关于**。
 3. 查看关于深度云扫描的版本和介绍。
 
@@ -74,23 +74,23 @@
 
 您可以进入菜单栏点击退出深度云扫描。
 
-1. 在深度云扫描界面，点击 ![icon_menu](icon/icon_menu.svg)。
+1. 在深度云扫描界面，点击 ![icon_menu](/apps/deepin-cloud-scan/zh_CN/icon/icon_menu.svg)。
 2. 点击 **退出**。
 
-> ![notes](icon/notes.svg)：您也可以在深度云扫描界面中点击 ![icon_close](icon/icon_close.svg) 按钮来退出。
+> ![notes](icon/notes.svg)：您也可以在深度云扫描界面中点击 ![icon_close](/apps/deepin-cloud-scan/zh_CN/icon/icon_close.svg) 按钮来退出。
 
 
 ## 云扫描测试
 
 您可以在客户端打开图片或PDF文件，打开启动器中的扫描易进行扫描。
 
-1. 进入启动器界面，浏览找到 ![scanner-24](icon/scanner-24.svg) 点击，进入扫描易界面。
+1. 进入启动器界面，浏览找到 ![scanner-24](/apps/deepin-cloud-scan/zh_CN/icon/scanner-24.svg) 点击，进入扫描易界面。
 2. 点击左上角的图标。
 3. 选择 **首选项**，进入扫描易设置界面。
 4. 在 **扫描来源** 下拉选项中，选择扫描仪并设置其他扫描参数。
 5. 点击 **确定**。
 6. 在扫描易界面上，点击 **扫描** 即可。
 
- ![0|sannersetting](jpg/sannersetting.jpg)
+ ![0|sannersetting](/apps/deepin-cloud-scan/zh_CN/jpg/sannersetting.jpg)
 
-> ![attention](icon/attention.svg) ：如果Windows操作系统更新了深度云扫描的授权码，当您在扫描文件时，提示授权码已更新，请联系管理员获取新的授权码后输入继续扫描。扫描过程中如果出现错误，请根据错误提示，重新进行设置。
+> ![attention](/apps/deepin-cloud-scan/zh_CN/icon/attention.svg) ：如果Windows操作系统更新了深度云扫描的授权码，当您在扫描文件时，提示授权码已更新，请联系管理员获取新的授权码后输入继续扫描。扫描过程中如果出现错误，请根据错误提示，重新进行设置。
