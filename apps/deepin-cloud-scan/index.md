@@ -77,7 +77,7 @@
 1. 在深度云扫描界面，点击 ![icon_menu](/apps/deepin-cloud-scan/zh_CN/icon/icon_menu.svg)。
 2. 点击 **退出**。
 
-> ![notes](icon/notes.svg)：您也可以在深度云扫描界面中点击 ![icon_close](/apps/deepin-cloud-scan/zh_CN/icon/icon_close.svg) 按钮来退出。
+> ![notes](/apps/deepin-cloud-scan/zh_CN/icon/notes.svg)：您也可以在深度云扫描界面中点击 ![icon_close](/apps/deepin-cloud-scan/zh_CN/icon/icon_close.svg) 按钮来退出。
 
 
 ## 云扫描测试
