@@ -27,10 +27,10 @@ The server IP address will be acquired in Windows automatically after finished t
 1. Click the start menu to open the program of Deepin Cloud Print Server in Windows.
 2. Acquire the IP address automatically.
 3. Input the authorization code in the settings interface of Deepin Cloud Print Server.
-4. Click on **Update**, then ![spinner](icon/icon_spinner.png) will be displayed.
-5. After updated the authorization code, ![success](icon/icon_success.svg) will be displayed.
+4. Click on **Update**, then ![spinner](/apps/deepin-cloud-print/en_US/icon/icon_spinner.png) will be displayed.
+5. After updated the authorization code, ![success](/apps/deepin-cloud-print/en_US/icon/icon_success.svg) will be displayed.
 
- ![0|windowssetting](jpg/windowssetting.jpg)
+ ![0|windowssetting](/apps/deepin-cloud-print/en_US/jpg/windowssetting.jpg)
 
 ## Client Configurations
 
@@ -46,7 +46,7 @@ You can open Deepin Cloud Print Client in deepin to add one or more cloud printe
 1. On the interface of Deepin Cloud Print, input the IP address and authorization code of Deepin Cloud Print Server from Windows.
 2. Click on ![icon_next](/apps/deepin-cloud-print/en_US/icon/icon_next.svg) to show all printers from Windows.
 3. Click on ![icon_plus](/apps/deepin-cloud-print/en_US/icon/icon_plus.svg) to add the printer, and then its status will be displayed in "Added".
-4. Click on ![icon_setting](icon/icon_setting.svg) to enter the interface of print settings.
+4. Click on ![icon_setting](/apps/deepin-cloud-print/en_US/icon/icon_setting.svg) to enter the interface of print settings.
 5. You can view whether the printer is added successfully.
 
  ![1|deepinssetting](/apps/deepin-cloud-print/en_US/jpg/deepinssetting.png)
