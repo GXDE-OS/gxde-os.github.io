@@ -1,4 +1,4 @@
-# Deepin Cloud Print|../common/deepin-cloud-print.svg|
+# Deepin Cloud Print
 
 ## Overview
 
