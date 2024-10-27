@@ -22,7 +22,7 @@ You can install the application program for Deepin Cloud Print Server and config
 
 The server IP address will be acquired in Windows automatically after finished the installation, then you can set the authorization code.
 
-> ![notes](icon/notes.svg): If you need to change the authorization code, please input a new one in the textbox, and then click on **Update**.
+> ![notes](/apps/deepin-cloud-print/en_US/icon/notes.png): If you need to change the authorization code, please input a new one in the textbox, and then click on **Update**.
 
 1. Click the start menu to open the program of Deepin Cloud Print Server in Windows.
 2. Acquire the IP address automatically.
@@ -38,20 +38,20 @@ You can open Deepin Cloud Print Client in deepin to add one or more cloud printe
 
 ### Open Deepin Cloud Print
 
-1. Click on ![launcher-24](icon/launcher-24.svg) to enter launcher.
-2. Click on ![printer-24](icon/printer-24.svg) to enter the interface of Deepin Cloud Print.
+1. Click on ![launcher-24](/apps/deepin-cloud-print/en_US/icon/launcher-24.svg) to enter launcher.
+2. Click on ![printer-24](/apps/deepin-cloud-print/en_US/icon/printer-24.svg) to enter the interface of Deepin Cloud Print.
 
 ### Set Deepin Cloud Print
 
 1. On the interface of Deepin Cloud Print, input the IP address and authorization code of Deepin Cloud Print Server from Windows.
-2. Click on ![icon_next](icon/icon_next.svg) to show all printers from Windows.
-3. Click on ![icon_plus](icon/icon_plus.svg) to add the printer, and then its status will be displayed in "Added".
+2. Click on ![icon_next](/apps/deepin-cloud-print/en_US/icon/icon_next.svg) to show all printers from Windows.
+3. Click on ![icon_plus](/apps/deepin-cloud-print/en_US/icon/icon_plus.svg) to add the printer, and then its status will be displayed in "Added".
 4. Click on ![icon_setting](icon/icon_setting.svg) to enter the interface of print settings.
 5. You can view whether the printer is added successfully.
 
- ![1|deepinssetting](jpg/deepinssetting.png)
+ ![1|deepinssetting](/apps/deepin-cloud-print/en_US/jpg/deepinssetting.png)
 
-> ![notes](icon/notes.svg): If you need to delete the printer, please enter "Print Settings" to select the printer, then select **Delete** in the context menu.
+> ![notes](/apps/deepin-cloud-print/en_US/icon/notes.png): If you need to delete the printer, please enter "Print Settings" to select the printer, then select **Delete** in the context menu.
 
 ## Print Test 
 
@@ -63,6 +63,6 @@ You can use cloud print to print files in deepin, taking .doc files as the examp
 4. Select the printer in the pull-down option of **Name**, and set other print parameters.
 5. Click on **OK**.
 
- ![0|printsetting](jpg/printsetting.jpg)
+ ![0|printsetting](/apps/deepin-cloud-print/en_US/jpg/printsetting.jpg)
 
-> ![attention](icon/attention.svg): If authorization code has been updated in Windows, when you are printing a file, there will be a prompt of "The authorization code of cloud print server has been updated, please input a new authorization code". Please contact the administrator to get the new one to print. If errors occurred during printing, please reset according to the errors.
+> ![attention](/apps/deepin-cloud-print/en_US/icon/attention.svg): If authorization code has been updated in Windows, when you are printing a file, there will be a prompt of "The authorization code of cloud print server has been updated, please input a new authorization code". Please contact the administrator to get the new one to print. If errors occurred during printing, please reset according to the errors.
