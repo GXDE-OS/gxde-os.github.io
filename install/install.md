@@ -2,7 +2,7 @@
 
 ## 镜像安装
 
-多线加速下载(推荐使用): https://repo-gxde.gfdgdxi.top/ISO/15.14/amd64/GXDE-OS_15.14_amd64.iso.torrent
+镜像站下载（推荐）: https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
 
 huang111：https://pan.huang1111.cn/s/laonjFL
 
