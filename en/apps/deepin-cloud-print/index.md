@@ -22,7 +22,7 @@ You can install the application program for Deepin Cloud Print Server and config
 
 The server IP address will be acquired in Windows automatically after finished the installation, then you can set the authorization code.
 
-> ![notes](/apps/deepin-cloud-print/en_US/icon/notes.png): If you need to change the authorization code, please input a new one in the textbox, and then click on **Update**.
+> ![notes](/apps/deepin-cloud-print/en_US/icon/notes.svg): If you need to change the authorization code, please input a new one in the textbox, and then click on **Update**.
 
 1. Click the start menu to open the program of Deepin Cloud Print Server in Windows.
 2. Acquire the IP address automatically.
@@ -51,7 +51,7 @@ You can open Deepin Cloud Print Client in deepin to add one or more cloud printe
 
  ![1|deepinssetting](/apps/deepin-cloud-print/en_US/jpg/deepinssetting.png)
 
-> ![notes](/apps/deepin-cloud-print/en_US/icon/notes.png): If you need to delete the printer, please enter "Print Settings" to select the printer, then select **Delete** in the context menu.
+> ![notes](/apps/deepin-cloud-print/en_US/icon/notes.svg): If you need to delete the printer, please enter "Print Settings" to select the printer, then select **Delete** in the context menu.
 
 ## Print Test 
 

@@ -24,7 +24,7 @@ DeepinCloudScanServerInstaller_1.0.0.1.exe is the installation program of server
 
 Open the server from the start menu in Windows, then you can see the the interface of cloud scanner settings.
 
-![notes](/apps/deepin-cloud-scan/en_US/icon/notes.png): IP address and authorization code are automatically displayed in the interface. If you want to update the authorization code, please set by the following steps:
+![notes](/apps/deepin-cloud-scan/en_US/icon/notes.svg): IP address and authorization code are automatically displayed in the interface. If you want to update the authorization code, please set by the following steps:
 
 1. Input a new authorization code.
 2. Click on ![icon_update](/apps/deepin-cloud-scan/en_US/icon/icon_update.png), the button will be grey after updated successfully.
