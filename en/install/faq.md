@@ -44,7 +44,7 @@ sudo apt install gxde-desktop gxde-desktop-extra -y
 
 Q2: How to create a bootable disk?
 
-A2: For Legacy boot, it is recommended to use Rufus in DD mode. For EFI, you can use the [Deepin Boot Maker](https://www.deepin.org/zh/original/deepin-boot-maker/).
+A2: For Legacy boot, it is recommended to use Rufus in DD mode. For EFI, you can use the [Deepin Boot Maker](https://www.deepin.org/en/original/deepin-boot-maker/).
 
 
 ---
