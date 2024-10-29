@@ -36,9 +36,9 @@ sudo apt update
 
 sudo apt install spark-store -y
 
-sudo aptss install gxde-testing-source -y
+sudo apt install gxde-testing-source -y
 
-sudo aptss install gxde-desktop gxde-desktop-extra -y
+sudo apt install gxde-desktop gxde-desktop-extra -y
 
 ```
 
