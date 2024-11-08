@@ -6,6 +6,19 @@
 Currently, ISO supports amd64 and arm64
 :::
 
+## Image Installation
+
+
+ISO Mirror Download(Recommended): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+
+huang111: https://pan.huang1111.cn/s/laonjFL
+
+Sourceforge: https://sourceforge.net/projects/gxde-os/files
+
+GXDE is not perfect，please confirm [FAQ](faq.md) before installation，containing Nvidia Graphic Card driver installation help. 
+
+Please check [install tutorial](install.md) if you don't know how to install.
+
 ## Introduction
 
 GXDE OS is an Debian based Linux distro featuring GXDE Desktop Environment. It offers an elegant, beautifu, light weight and out-of-the-box experience. 

@@ -8,6 +8,15 @@
 欢迎点右上角Star,您的肯定是我们的最大动力
 :::
 
+## 下载地址
+
+镜像站下载（推荐）: https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+
+huang111：https://pan.huang1111.cn/s/laonjFL
+
+Sourceforge：https://sourceforge.net/projects/gxde-os/files
+
+若您不会安装，请查看[安装教程](install.md)
 
 ## 简介
 
