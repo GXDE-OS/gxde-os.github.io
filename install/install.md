@@ -29,9 +29,9 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 ```bash
 sudo apt update
 
-sudo apt install spark-store -y
+sudo apt install spark-store -y  # 此命令不支持 i386、mips64 架构用户
 
-sudo apt install gxde-testing-source -y
+sudo apt install gxde-testing-source -y  # 添加内测源，loong64 架构用户推荐使用，amd64 和 arm64 用户可忽略
 
 sudo apt install gxde-desktop gxde-desktop-extra -y
 
@@ -39,6 +39,15 @@ sudo apt install gxde-desktop gxde-desktop-extra -y
 
 重启即可
 
-## 在Termux PRoot或其他安卓设备上安装
+## 在小小电脑上使用 GXDE（在 Android 上使用 GXDE）
+小小电脑 1.0.19 开始支持 GXDE，下载链接：  
+https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/  
+https://github.com/Cateners/tiny_computer/releases  
+
+> 注：如果界面操作卡顿可以在控制中心=》个性化 关闭特效模式，假若控制中心无法开启则可以到 GXDE 自带的系统助手的工具箱内升级到最新版即可  
+
+小小电脑项目地址：https://github.com/Cateners/tiny_computer  
+
+## 在Termux PRoot上安装
 
 请查看 https://bbs.deepin.org.cn/post/279414

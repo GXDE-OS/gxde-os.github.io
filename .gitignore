@@ -2,3 +2,4 @@
 /.idea/
 /.vitepress/cache/
 /.vitepress/dist/
+.vscode/
