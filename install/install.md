@@ -41,13 +41,13 @@ sudo apt install gxde-desktop gxde-desktop-extra -y
 
 ## 在小小电脑上使用 GXDE（在 Android 上使用 GXDE）
 小小电脑 1.0.19 开始支持 GXDE，下载链接：  
-https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/  
-https://github.com/Cateners/tiny_computer/releases  
+镜像站下载（推荐）https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/   
+Github下载：https://github.com/Cateners/tiny_computer/releases   （选择带 gxde 后缀的 APK）
 
 > 注：如果界面操作卡顿可以在控制中心=》个性化 关闭特效模式，假若控制中心无法开启则可以到 GXDE 自带的系统助手的工具箱内升级到最新版即可  
 
 小小电脑项目地址：https://github.com/Cateners/tiny_computer  
 
-## 在Termux PRoot上安装
+## 在Termux PRoot或其他安卓设备上安装
 
 请查看 https://bbs.deepin.org.cn/post/279414
