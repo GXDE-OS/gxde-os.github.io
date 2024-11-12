@@ -2,9 +2,9 @@
 
 ## 镜像安装
 
-镜像站下载（推荐）: https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+宁算数据中心下载：https://disk.ningsuan.com.cn/#s/-_Tt627w  访问密码：GXDE
 
-huang111：https://pan.huang1111.cn/s/laonjFL
+镜像站下载: https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 

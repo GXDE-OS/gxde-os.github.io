@@ -8,12 +8,13 @@ Currently, ISO supports amd64 and arm64
 
 ## Image Installation
 
-
-ISO Mirror Download(China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
-
-huang111: https://pan.huang1111.cn/s/laonjFL
-
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
+
+Ningsuan Data Center：https://disk.ningsuan.com.cn/#s/-_Tt627w  Access Pass：GXDE
+
+ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+
+
 
 GXDE is not perfect，please confirm [FAQ](faq.md) before installation，containing Nvidia Graphic Card driver installation help. 
 
