@@ -9,7 +9,7 @@ Currently, ISO supports amd64 and arm64
 ## Image Installation
 
 
-ISO Mirror Download(Recommended): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+ISO Mirror Download(China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
 
 huang111: https://pan.huang1111.cn/s/laonjFL
 

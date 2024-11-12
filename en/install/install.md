@@ -35,6 +35,17 @@ sudo aptss install gxde-desktop gxde-desktop-extra -y
 
 Then restart.
 
+## Install GXDE on Android Phone/Pads (With Tiny-Computer)
+Since version 1.0.19, tiny computer started to support GXDE：
+
+China Mainland Mirror: https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/   
+
+Github：https://github.com/Cateners/tiny_computer/releases  (Choose the APK file with gxde)
+
+> Please upgrade to the newest version via GXDE System Assistant
+
+Tiny Computer：https://github.com/Cateners/tiny_computer  
+
 ## Install on Termux PRoot or other Android devices
 
 Check: https://bbs.deepin.org.cn/post/279414

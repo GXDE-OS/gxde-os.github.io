@@ -44,7 +44,7 @@ sudo apt install gxde-desktop gxde-desktop-extra -y
 镜像站下载（推荐）https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/   
 Github下载：https://github.com/Cateners/tiny_computer/releases   （选择带 gxde 后缀的 APK）
 
-> 注：如果界面操作卡顿可以在控制中心=》个性化 关闭特效模式，假若控制中心无法开启则可以到 GXDE 自带的系统助手的工具箱内升级到最新版即可  
+> 注：如果界面操作卡顿可以在控制中心=》个性化 关闭特效模式，假若控制中心无法开启则到 GXDE 自带的系统助手的工具箱内升级到最新版即可  
 
 小小电脑项目地址：https://github.com/Cateners/tiny_computer  
 
