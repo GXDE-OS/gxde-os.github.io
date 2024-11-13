@@ -10,9 +10,11 @@
 
 ## 下载地址
 
-宁算数据中心下载：https://disk.ningsuan.com.cn/#s/-_Tt627w  访问密码：GXDE
+
 
 镜像站下载: https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+
+huang1111: https://pan.huang1111.cn/s/laonjFL
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 

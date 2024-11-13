@@ -10,7 +10,7 @@ Currently, ISO supports amd64 and arm64
 
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
-Ningsuan Data Center：https://disk.ningsuan.com.cn/#s/-_Tt627w  Access Pass：GXDE
+huang1111 pan: https://pan.huang1111.cn/s/laonjFL
 
 ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
 
