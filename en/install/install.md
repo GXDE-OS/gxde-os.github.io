@@ -21,7 +21,7 @@ EFI Installation: You must create a partition formatted as vfat/fat32 with the m
 > For amd64, arm64, etc., where ISO installation images are available, it is recommended to use ISO installation.  
 > Currently supports amd64, arm64, mips64, and loong64, but loong64 has not been tested.
 
-Download the deb file and install it from https://repo-gxde.gfdgdxi.top/gxde-os/bixie/g/gxde-source/
+Download the deb file and install it from https://repo.gxde.org/gxde-os/bixie/g/gxde-source/
 After installation, run:
 
 ```bash

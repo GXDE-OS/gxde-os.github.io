@@ -24,7 +24,7 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 ## APT 源安装
 > amd64、arm64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
 > 目前支持 amd64、arm64、mips64 和 loong64，但 loong64 并未测试
-下载deb并安装 https://repo-gxde.gfdgdxi.top/gxde-os/bixie/g/gxde-source/
+下载deb并安装 https://repo.gxde.org/gxde-os/bixie/g/gxde-source/
 
 安装之后
 
