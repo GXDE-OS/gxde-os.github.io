@@ -38,6 +38,16 @@ export default defineConfig({
           { text: "GXDE 软件包管理器", link: "/apps/gxde-deb-installer/"},
           { text: "GXDE 编辑器", link: "/apps/gxde-editor/"}
         ]
+      },
+      {
+        text: "更新日志",
+        items: [
+          { text: "15.14.2", link: "/news/15.14.2"},
+          { text: "15.14.1", link: "/news/15.14.1"},
+          { text: "15.14", link: "/news/15.14"},
+          { text: "15.13", link: "/news/15.13"},
+          { text: "15.12", link: "/news/15.12"}
+        ]
       }
     ],
 
