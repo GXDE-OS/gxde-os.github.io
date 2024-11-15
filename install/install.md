@@ -23,8 +23,8 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 
 ## APT 源安装
 > amd64、arm64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
-> 目前支持 amd64、arm64、mips64 和 loong64  
-> amd64、arm64、mips64 支持在 Debian 12 下安装使用，loong64 支持在 Debian Port 下安装使用    
+> 目前支持 amd64、arm64、mips64、loong64 和 riscv64（riscv64 下未测试）   
+> amd64、arm64、mips64 支持在 Debian 12 下安装使用，loong64 支持在 Debian Port 下安装使用，riscv64 支持在 Debian Sid 下使用    
 > （loong64 Debian Port 系统安装镜像：https://cdimage.debian.org/cdimage/ports/tests/）  
 下载deb并安装 https://repo.gxde.org/gxde-os/bixie/g/gxde-source/
 
@@ -35,7 +35,7 @@ sudo apt update
 
 sudo apt install spark-store -y  # 此命令不支持 i386、mips64 架构用户
 
-sudo apt install gxde-testing-source -y  # 添加内测源，loong64 架构用户推荐使用，amd64 和 arm64 用户可忽略
+sudo apt install gxde-testing-source -y  # 添加内测源，loong64 和 riscv64 架构用户一定要用，amd64 和 arm64 用户可忽略
 
 sudo apt install gxde-desktop gxde-desktop-extra -y
 
