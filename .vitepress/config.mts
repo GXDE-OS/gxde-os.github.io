@@ -14,6 +14,8 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "使用指南", link: "/install/", activeMatch: "^/install/" },
+      { text: "特色应用", link: "/apps/deepin-cloud-scan/", activeMatch: "^/apps/deepin-cloud-scan/" },
+      { text: "更新日志", link: "/news/15.14.2", activeMatch: "^/news/15.14.2" },
     ],
 
     sidebar: [
@@ -93,11 +95,8 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: "Home", link: "/en/" },
-          {
-            text: "Getting Started",
-            link: "/en/install/",
-            activeMatch: "^/en/install/",
-          },
+          { text: "Getting Started", link: "/en/install/", activeMatch: "^/en/install/"},
+          { text: "Feature Programs", link: "/en/apps/deepin-cloud-scan/", activeMatch: "^/en/apps/deepin-cloud-scan/"},
         ],
         sidebar: [
           {
