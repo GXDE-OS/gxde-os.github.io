@@ -47,6 +47,7 @@ Please Click the Star in the Upper Right Corner, Your Support is Our Greatest Mo
 ### User Group
 
 QQ Group: 881201853
+Discord: https://discord.gg/t5Uf2xYpvA
 
 
 ## Other Projects
