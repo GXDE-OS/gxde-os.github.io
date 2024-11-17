@@ -20,6 +20,15 @@ Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 若您不会安装，请查看[安装教程](install.md)
 
+### 沟通渠道
+
+QQ 群：881201853
+
+Discord：https://discord.gg/t5Uf2xYpvA
+
+请点击右上角的Star，您的支持是我们最大的动力。
+
+
 ## 简介
 
 GXDE OS 是一个基于 Debian 的 Linux 发行版，采用 GXDE 桌面环境。它提供了优雅、美观、轻量化的开箱即用体验。
@@ -40,12 +49,6 @@ GXDE OS 内置 [星火应用商店](https://gitee.com/spark-store-project/)，�
 
 此外，只需将 `apt` 替换为 `aptss`，即可加速下载速度。
 
-### 沟通渠道
-
-QQ 群：881201853
-Discord：https://discord.gg/t5Uf2xYpvA
-
-请点击右上角的Star，您的支持是我们最大的动力。
 
 ### 系统代号
 代号选自国漫《有兽焉》  

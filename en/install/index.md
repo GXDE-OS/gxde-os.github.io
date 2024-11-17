@@ -20,6 +20,13 @@ GXDE is not perfect，please confirm [FAQ](faq.md) before installation，contain
 
 Please check [install tutorial](install.md) if you don't know how to install.
 
+### User Group
+
+QQ Group: 881201853
+
+Discord: https://discord.gg/t5Uf2xYpvA
+
+
 ## Introduction
 
 GXDE OS is an Debian based Linux distro featuring GXDE Desktop Environment. It offers an elegant, beautifu, light weight and out-of-the-box experience. 
@@ -44,10 +51,6 @@ Also, simply replace apt with aptss will  `apt` with `aptss` command can boost y
 
 Please Click the Star in the Upper Right Corner, Your Support is Our Greatest Motivation
 
-### User Group
-
-QQ Group: 881201853
-Discord: https://discord.gg/t5Uf2xYpvA
 
 
 ## Other Projects
