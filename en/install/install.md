@@ -27,14 +27,21 @@ After installation, run:
 ```bash
 sudo apt update
 
-sudo apt install spark-store -y
+sudo apt install aptss
 
-sudo aptss install gxde-testing-source -y
+sudo apt install gxde-testing-source -y  # Recommended for loong64 and riscv64 users,
+
+sudo aptss update
 
 sudo aptss install gxde-desktop gxde-desktop-extra -y
+
+sudo aptss install spark-store -y  # Not available for mips64 and i386 users
+
 ```
 
 Then restart.
+
+> `aptss` can accelerate download speed from GXDE source. But, if your performance is so poor that running `aptss` cost centuries, just use apt.
 
 ## Install GXDE on Android Phone/Pads (With Tiny-Computer)
 Since version 1.0.19, tiny computer started to support GXDE：

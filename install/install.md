@@ -33,15 +33,21 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 ```bash
 sudo apt update
 
-sudo apt install spark-store -y  # 此命令不支持 i386、mips64 架构用户
+sudo apt install aptss
 
 sudo apt install gxde-testing-source -y  # 添加内测源，loong64 和 riscv64 架构用户一定要用，amd64 和 arm64 用户可忽略
 
-sudo apt install gxde-desktop gxde-desktop-extra -y
+sudo aptss update
+
+sudo aptss install gxde-desktop gxde-desktop-extra -y
+
+sudo aptss install spark-store -y  # 此命令不支持 i386、mips64 架构用户
 
 ```
 
 重启即可
+
+> `aptss` 可以加速在 GXDE 系统源的下载速度，但如果您的性能低下导致`aptss`运行缓慢到无法接受，可换成`apt`
 
 ## 在小小电脑上使用 GXDE（在 Android 上使用 GXDE）
 小小电脑 1.0.19 开始支持 GXDE，这个是和小小电脑团队合作的版本，目前还在测试：https://github.com/Cateners/tiny_computer/issues/129  
