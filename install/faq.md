@@ -71,11 +71,17 @@ A4: 请加入我们的QQ群来反馈: 881201853
 
 ---
 
-Q5: 我想开发 GXDE 风格的应用，我该怎么做
+Q5：我使用KVM虚拟机启动GXDE OS，色彩有问题，粉粉的
 
-A5: 使用bash/python脚本的应用可以使用 [Garma](https://gitee.com/GXDE-OS/garma),使用方法详见： https://help.gnome.org/users/zenity/stable/ 
+A5： kvm -vga virtio 
 
-A5: 原生开发请使用 Qt/Dtk2 相关代码如下： 
+---
+
+Q6: 我想开发 GXDE 风格的应用，我该怎么做
+
+A6: 使用bash/python脚本的应用可以使用 [Garma](https://gitee.com/GXDE-OS/garma),使用方法详见： https://help.gnome.org/users/zenity/stable/ 
+
+A6: 原生开发请使用 Qt/Dtk2 相关代码如下： 
 
 可用功能列表： https://gitee.com/GXDE-OS/dtk5core/tree/master/src
 

@@ -69,11 +69,18 @@ A3: If you wan't to use Nvidia Driver, but don't want to downgrade kernel, pleas
 
 ---
 
- Q5: I want to develop GXDE-style applications. How do I do that?
+Q5：When using KVM to boot GXDE OS，I found the color seems too pink
+
+A5： kvm -vga virtio 
+
+---
+
+
+ Q6: I want to develop GXDE-style applications. How do I do that?
  
- A5: Bash/Python script-based applications can use [Garma](https://gitee.com/GXDE-OS/garma). For detailed usage, see: https://help.gnome.org/users/zenity/stable/
+ A6: Bash/Python script-based applications can use [Garma](https://gitee.com/GXDE-OS/garma). For detailed usage, see: https://help.gnome.org/users/zenity/stable/
  
- A5: For native development, please use Qt/Dtk2. Related code is as follows:
+ A6: For native development, please use Qt/Dtk2. Related code is as follows:
  
  Available feature list: https://gitee.com/GXDE-OS/dtk5core/tree/master/src
  
