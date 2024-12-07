@@ -121,6 +121,17 @@ export default defineConfig({
               { text: "GXDE Package Manager", link: "/en/apps/gxde-deb-installer/"},
               { text: "GXDE Editor", link: "/en/apps/gxde-editor/"}
             ]
+          },
+          {
+            text: "Update Log",
+            items: [
+              { text: "15.14.2", link: "/en/news/15.14.2"},
+              { text: "15.14update2", link: "/en/news/15.14update2"},
+              { text: "15.14.1", link: "/en/news/15.14.1"},
+              { text: "15.14", link: "/en/news/15.14"},
+              { text: "15.13", link: "/en/news/15.13"},
+              { text: "15.12", link: "/en/news/15.12"}
+            ]
           }
         ],
       },

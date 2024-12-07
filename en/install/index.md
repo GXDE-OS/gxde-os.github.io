@@ -51,14 +51,18 @@ Also, simply replace apt with aptss will  `apt` with `aptss` command can boost y
 
 Please Click the Star in the Upper Right Corner, Your Support is Our Greatest Motivation
 
+### System Code Names
+The code names are selected from the Chinese comic "Fabulous Beasts".
 
+| Code Name | Chinese Name | Meaning | Character Introduction |
+| --- | --- | --- | --- |
+| tianlu | 天禄 | Current rolling/daily update source code name for GXDE OS | An ancient mythical creature, also known as Pipi, a blue Brave Troops |
+| bixie | 辟邪 | Current stable source for GXDE OS | An ancient mythical creature, a brother of Tianlu, a red Brave Troops |
 
 ## Other Projects
 Deepin: https://github.com/linuxdeepin/  
 Wine Runner: https://gitee.com/gfdgd-xi/deep-wine-runner  
-Waydroid Runner: https://gitee.com/gfdgd-xi/waydroid-runner  
-UEngine Runner: https://gitee.com/gfdgd-xi/uengine-runner  
-Deepin Community Live CD: https://gitee.com/gfdgd-xi/deepin-community-live-cd
+
 
 ## Acknowledgments
 Heartfelt thanks to the [Project Spark/Spark App Store](https://gitee.com/spark-store-project/) for providing resources and services, allowing GXDE to achieve a better experience.  

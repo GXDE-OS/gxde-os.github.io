@@ -63,9 +63,6 @@ GXDE OS 内置 [星火应用商店](https://gitee.com/spark-store-project/)，�
 
 Deepin：https://github.com/linuxdeepin/  
 Wine 运行器：https://gitee.com/gfdgd-xi/deep-wine-runner  
-Waydroid 运行器：https://gitee.com/gfdgd-xi/waydroid-runner  
-UEngine 运行器：https://gitee.com/gfdgd-xi/uengine-runner  
-Deepin Community Live CD：https://gitee.com/gfdgd-xi/deepin-community-live-cd
 
 ## 鸣谢
 

@@ -18,8 +18,13 @@ For Beginners: If you don't know how to partition, leave some space on a disk an
 EFI Installation: You must create a partition formatted as vfat/fat32 with the mount point set to /boot/efi. The remaining space can be partitioned as needed.
 
 ## APT Repository Installation
-> For amd64, arm64, etc., where ISO installation images are available, it is recommended to use ISO installation.  
-> Currently supports amd64, arm64, mips64, and loong64, but loong64 has not been tested.
+> For those with ISO installation images available, such as amd64 and arm64, it is recommended to use the ISO for installation.
+> 
+> Currently supported architectures include amd64, arm64, mips64, loong64, and riscv64 (riscv64 has not been tested).
+> 
+> amd64, arm64, and mips64 are supported for installation and use under Debian 12. loong64 is supported for installation and use under Debian Port and Loongnix25. riscv64 is supported for use under Debian Sid. Users of loong64 and riscv64 architectures **must add the internal testing repository**.
+> 
+> (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
 
 Download the deb file and install it from https://repo.gxde.org/gxde-os/bixie/g/gxde-source/
 After installation, run:
@@ -44,15 +49,19 @@ Then restart.
 > `aptss` can accelerate download speed from GXDE source. But, if your performance is so poor that running `aptss` cost centuries, just use apt.
 
 ## Install GXDE on Android Phone/Pads (With Tiny-Computer)
-Since version 1.0.19, tiny computer started to support GXDE：
+### Tiny Computer 1.0.19 Supports GXDE
+Starting from Tiny Computer version 1.0.19, support for GXDE has been added. This is a collaborative version with the Tiny Computer team and is currently in the testing phase: [https://github.com/Cateners/tiny_computer/issues/129](https://github.com/Cateners/tiny_computer/issues/129)
 
-China Mainland Mirror: https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/   
+**Download Links**:
 
-Github：https://github.com/Cateners/tiny_computer/releases  (Choose the APK file with gxde)
+- Mirror Site Download (Recommended): [https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/](https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/)
+- Github Download: [https://github.com/Cateners/tiny_computer/releases](https://github.com/Cateners/tiny_computer/releases) (Select the APK with the "gxde" suffix)
 
-> Please upgrade to the newest version via GXDE System Assistant
+> **Note**: If the interface operation is laggy, you can disable the special effects mode in the Control Center => Personalization. If the Control Center cannot be opened, you can upgrade to the latest version using the Toolbox in the GXDE-provided System Assistant.
 
-Tiny Computer：https://github.com/Cateners/tiny_computer  
+Tiny Computer Project Address: [https://github.com/Cateners/tiny_computer](https://github.com/Cateners/tiny_computer)
+
+![](/tiny-computer.jpg)  
 
 ## Install on Termux PRoot or other Android devices
 
