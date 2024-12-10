@@ -98,6 +98,7 @@ export default defineConfig({
           { text: "Home", link: "/en/" },
           { text: "Getting Started", link: "/en/install/", activeMatch: "^/en/install/"},
           { text: "Feature Programs", link: "/en/apps/deepin-cloud-scan/", activeMatch: "^/en/apps/deepin-cloud-scan/"},
+          { text: "Update log", link: "en/news/15.14.2", activeMatch: "^/en/news/15.14.2" },
         ],
         sidebar: [
           {
