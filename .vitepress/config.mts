@@ -45,7 +45,7 @@ export default defineConfig({
         text: "更新日志",
         items: [
           { text: "15.14.2", link: "/news/15.14.2"},
-          { text: "15.14update2", link: "/news/15.14update2"},
+          { text: "15.14.1update2", link: "/news/15.14.1update2"},
           { text: "15.14.1", link: "/news/15.14.1"},
           { text: "15.14", link: "/news/15.14"},
           { text: "15.13", link: "/news/15.13"},
@@ -126,7 +126,7 @@ export default defineConfig({
             text: "Update Log",
             items: [
               { text: "15.14.2", link: "/en/news/15.14.2"},
-              { text: "15.14update2", link: "/en/news/15.14update2"},
+              { text: "15.14.1update2", link: "/en/news/15.14.1update2"},
               { text: "15.14.1", link: "/en/news/15.14.1"},
               { text: "15.14", link: "/en/news/15.14"},
               { text: "15.13", link: "/en/news/15.13"},
