@@ -18,27 +18,18 @@ A0: We use multi-line download to solve this. Simply replace `apt` with `aptss` 
 
 ---
 
-Q1: I have installed Debian 12/I am using Debian 12 on Arm/i386/mips64/loong64 architecture. How can I install GXDE?
+Q1: I can't operate bluetooth via control center.
 
-A1: Install GXDE by adding repositories.
-
-Repository installation method:
-
-Download the deb file and install it from https://repo-gxde.gfdgdxi.top/gxde-os/bixie/g/gxde-source/
-
-After installation, run:
-
-```bash
-sudo apt update
-
-sudo apt install spark-store -y
-
-sudo apt install gxde-testing-source -y
-
-sudo apt install gxde-desktop gxde-desktop-extra -y
+A1: It's a known issue. We can't fix it for now. Please use the following command.
 
 ```
-**There are potential conflict between GXDE and KDE. Don't install them both or maybe something will crash**
+sudo aptss install blueman -y
+```
+
+Then launch `Bluetooth Manager` from launcher.
+
+We feel sorry for the un-convenience. 
+
 ---
 
 

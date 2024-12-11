@@ -48,6 +48,9 @@ Then restart.
 
 > `aptss` can accelerate download speed from GXDE source. But, if your performance is so poor that running `aptss` cost centuries, just use apt.
 
+**There are potential conflict between GXDE and KDE. Don't install them both or maybe something will crash**
+
+
 ## Install GXDE on Android Phone/Pads (With Tiny-Computer)
 ### Tiny Computer 1.0.19 Supports GXDE
 Starting from Tiny Computer version 1.0.19, support for GXDE has been added. This is a collaborative version with the Tiny Computer team and is currently in the testing phase: [https://github.com/Cateners/tiny_computer/issues/129](https://github.com/Cateners/tiny_computer/issues/129)

@@ -15,10 +15,9 @@ huang1111 pan: https://pan.huang1111.cn/s/laonjFL
 ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
 
 
-
 GXDE is not perfect，please confirm [FAQ](faq.md) before installation，containing Nvidia Graphic Card driver installation help. 
 
-Please check [install tutorial](install.md) if you don't know how to install.
+Please check [install tutorial](install.md) if you don't know how to install, or ISO installation can't satisfy you.
 
 ### User Group
 

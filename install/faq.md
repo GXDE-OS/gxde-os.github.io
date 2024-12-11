@@ -17,32 +17,20 @@ Q0: 使用 `apt` 下载好慢，能不能改善下服务器？
 A0: 我们使用多线下载来解决此问题，使用 `aptss` 命令替换 `apt` 即可畅享极速下载
 
 
-
-
 ---
 
-Q1: 我已经安装了Debian 12/我在使用Arm/i386/mips64的 Debian 12/loong64架构的debian port,想要安装 GXDE ，我该怎么做？
+Q1: 在控制中心-->蓝牙只能刷新蓝牙列表，无法操作连接
 
-A1: 加源安装GXDE
-
-加源安装方法
-
-下载deb并安装 https://repo-gxde.gfdgdxi.top/gxde-os/bixie/g/gxde-source/
-
-安装之后
-
-```bash
-sudo apt update
-
-sudo apt install spark-store -y
-
-sudo apt install gxde-testing-source -y
-
-sudo apt install gxde-desktop gxde-desktop-extra -y
+A1: 这是已知问题，暂时未能修复，请执行以下指令
 
 ```
+sudo aptss install blueman -y
+```
 
-**GXDE与KDE有可能的冲突，请不要同时安装它们，这可能会带来错误**
+随后在启动器中找到`蓝牙管理器`并启动即可
+
+给您带来的不便深感抱歉
+
 
 ---
 
