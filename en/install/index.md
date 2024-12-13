@@ -1,9 +1,9 @@
-![Logo](/new-logo-long.png)
+<center><img src=/new-logo-long.png width=300/></center>
 
 
 
 ::: info
-Currently, ISO supports amd64 and arm64
+Currently, loong64 is still under preview stage. Possible issues with upstream updates of Debian, please do not use in production environments
 :::
 
 ## Image Installation
