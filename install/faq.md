@@ -41,11 +41,11 @@ A2: Legacy启动推荐rufus用dd模式写入，EFI则使用[深度启动盘制�
 
 ---
 
-Q3: 我需要安装N卡驱动/xDroid安卓模拟器，我需要较旧的内核
+Q3: 我需要安装xDroid安卓模拟器，我需要较旧的内核
 
-A3: 安装 `linux-kernel-oldstable-gxde-amd64` 这个包后用此内核启动安装 xdroid / nvidia-driver 包即可
+A3: 安装 `linux-kernel-oldstable-gxde-amd64` 这个包后用此内核启动安装 xdroid 包即可
 
-A3: 对于N卡驱动，若您不想降级内核，您也可[手动安装驱动](https://bbs.deepin.org/post/232923)以避免此问题
+A3: 对于N卡驱动，nvidia-driver 包已经更新
 
 ---
 

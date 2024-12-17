@@ -40,11 +40,11 @@ A2: For Legacy boot, it is recommended to use Rufus in DD mode. For EFI, you can
 
 ---
 
-Q3: I Need to use Android Emulator / Nvidia Driver, I need an older version kernel.
+Q3: I Need to use Android Emulator, I need an older version kernel.
 
 A3: Simply install the package `linux-kernel-oldstable-gxde-amd64` and boot with this kernel.
 
-A3: If you wan't to use Nvidia Driver, but don't want to downgrade kernel, please check https://bbs.deepin.org/post/232923
+
 
 
 
