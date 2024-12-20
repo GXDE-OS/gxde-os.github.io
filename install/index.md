@@ -18,7 +18,7 @@ huang1111: https://pan.huang1111.cn/s/laonjFL
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
-** GXDE 尚不完美，安装前请务必检查 [常见问题](faq.md) **
+**GXDE 尚不完美，安装前请务必检查 [常见问题](faq.md)**
 
 若您不会安装或 ISO 安装不能满足您的要求，请查看[安装教程](install.md)
 

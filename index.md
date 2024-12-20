@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "GXDE OS：经典延续"
   text: "基于更新底层的 GXDE，让 DDE 15 重回人们的视野"
-  tagline: GXDE，Gorgeous eXtended Deepin Environment
+  tagline: GXDE = Gorgeous eXtended Deepin Environment
   actions:
     - theme: brand
       text: 现在安装

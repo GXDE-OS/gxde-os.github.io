@@ -84,6 +84,15 @@ export default defineConfig({
     root: {
       label: "简体中文",
       lang: "zh-CN",
+      lastUpdatedText: '上次更新',
+      docFooter: {
+        prev: '上一页',
+        next: '下一页'
+      },
+      darkModeSwitchLabel: '主题',
+      outlineTitle: '大纲',
+      sidebarMenuLabel: '目录',
+      returnToTopLabel: '返回顶部',
     },
     en: {
       label: "English",
