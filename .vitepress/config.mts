@@ -45,7 +45,7 @@ export default defineConfig({
         text: "更新日志",
         items: [
           { text: "15.14.2", link: "/news/15.14.2"},
-          { text: "15.14update2", link: "/news/15.14update2"},
+          { text: "15.14.1update2", link: "/news/15.14.1update2"},
           { text: "15.14.1", link: "/news/15.14.1"},
           { text: "15.14", link: "/news/15.14"},
           { text: "15.13", link: "/news/15.13"},
@@ -84,6 +84,15 @@ export default defineConfig({
     root: {
       label: "简体中文",
       lang: "zh-CN",
+      lastUpdatedText: '上次更新',
+      docFooter: {
+        prev: '上一页',
+        next: '下一页'
+      },
+      darkModeSwitchLabel: '主题',
+      outlineTitle: '大纲',
+      sidebarMenuLabel: '目录',
+      returnToTopLabel: '返回顶部',
     },
     en: {
       label: "English",
@@ -98,6 +107,7 @@ export default defineConfig({
           { text: "Home", link: "/en/" },
           { text: "Getting Started", link: "/en/install/", activeMatch: "^/en/install/"},
           { text: "Feature Programs", link: "/en/apps/deepin-cloud-scan/", activeMatch: "^/en/apps/deepin-cloud-scan/"},
+          { text: "Update Log", link: "en/news/15.14.2", activeMatch: "^/en/news/15.14.2" },
         ],
         sidebar: [
           {
@@ -126,7 +136,7 @@ export default defineConfig({
             text: "Update Log",
             items: [
               { text: "15.14.2", link: "/en/news/15.14.2"},
-              { text: "15.14update2", link: "/en/news/15.14update2"},
+              { text: "15.14.1update2", link: "/en/news/15.14.1update2"},
               { text: "15.14.1", link: "/en/news/15.14.1"},
               { text: "15.14", link: "/en/news/15.14"},
               { text: "15.13", link: "/en/news/15.13"},

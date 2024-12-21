@@ -4,11 +4,11 @@ layout: home
 
 hero:
   name: "GXDE OS: Continues"
-  text: "With the updated kernel GXDE, DDE 15 returns to focus"
-  tagline: GXDE, Gorgeous eXtended Deepin Environment
+  text: "We bring back DDE 15 with an updated basis on GXDE"
+  tagline: GXDE = Gorgeous eXtended Deepin Environment
   actions:
     - theme: brand
-      text: Install now
+      text: Install Now
       link: ./install
     - theme: alt
       text: Compile it yourself?
@@ -19,13 +19,13 @@ hero:
 
 features:
   - title: 🌈Classic Design
-    details: Adopting the classic DDE 15 UI, the first generation classic is worth remembering
+    details: Continue with the DDE 15 UI, which is regarded as classic and worth remembering
   - title: 🏡Brand New Kernel
-    details: Outdated deepin 15 kernel limits software compatibility. This system revives the classic design with a new Debian kernel
+    details: Provide with newer Debian kernel, giving a modern experience with claasic design 
   - title: 📌Wonderful Applications
-    details: In order to use the system easily, some wonderful applications have been installed such as Wine Runner, Spark Store and so on
+    details: Pre-installed applications like Wine Runner, Spark Store and so on makes the system out-of-the-box
   - title: 🌏More Architectures
-    details: Supporting diverse CPU architectures (amd64, arm64, loong64) to enable wider use of this classic desktop
+    details: Support multiple CPU architectures (amd64, arm64, loong64) to enable wider support
 ---
 
 ## Image Display
@@ -36,17 +36,17 @@ features:
   </el-carousel-item>
 </el-carousel>
 
-## Have any questions? Contact us!
+## Any questions? Contact us!
 
-Contact information can be found in the website navigation bar.
+You can join our Discord server at https://discord.gg/t5Uf2xYpvA. Other contact information can be found on the website navigation bar.
 
 ## Excellent communication environment
 
-You can go to our QQ group chat for feedback. Our group chat environment is excellent.
+Our group chat environment is excellent.
 
 ## Go to the project homepage to submit an issue
 
-Our system is open source, you can go to the open source homepage to provide suggestions or bugs.
+Our system is open source. You can go to the project website to provide suggestions or report bugs.
 
 ::: info Open Source License: Free
 Our system is open source and completely free, but please abide by the open source agreement.

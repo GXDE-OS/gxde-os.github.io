@@ -3,7 +3,7 @@
 
 
 ::: info
-目前 ISO 支持 amd64、arm64
+目前 loong64 架构仍为预览版本，可能随 Debian 上游更新出现问题，请不要在生产环境使用。
 
 欢迎点右上角Star,您的肯定是我们的最大动力
 :::
@@ -18,7 +18,9 @@ huang1111: https://pan.huang1111.cn/s/laonjFL
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
-若您不会安装，请查看[安装教程](install.md)
+**GXDE 尚不完美，安装前请务必检查 [常见问题](faq.md)**
+
+若您不会安装或 ISO 安装不能满足您的要求，请查看[安装教程](install.md)
 
 ### 沟通渠道
 

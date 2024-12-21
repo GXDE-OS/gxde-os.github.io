@@ -1,9 +1,9 @@
-![Logo](/new-logo-long.png)
+<center><img src=/new-logo-long.png width=300/></center>
 
 
 
 ::: info
-Currently, ISO supports amd64 and arm64
+Currently, loong64 is still under preview stage. Possible issues with upstream updates of Debian, please do not use in production environments
 :::
 
 ## Image Installation
@@ -15,10 +15,9 @@ huang1111 pan: https://pan.huang1111.cn/s/laonjFL
 ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
 
 
+**GXDE is not perfect yet，please confirm [FAQ](faq.md) before installation. **
 
-GXDE is not perfect，please confirm [FAQ](faq.md) before installation，containing Nvidia Graphic Card driver installation help. 
-
-Please check [install tutorial](install.md) if you don't know how to install.
+Please check [install tutorial](install.md) if you don't know how to install, or ISO installation can't satisfy you.
 
 ### User Group
 

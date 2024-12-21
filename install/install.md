@@ -51,6 +51,9 @@ sudo aptss install spark-store -y  # 此命令不支持 i386、mips64 架构用�
 
 > `aptss` 可以加速在 GXDE 系统源的下载速度，但如果您的性能低下导致`aptss`运行缓慢到无法接受，可换成`apt`
 
+**GXDE与KDE有可能的冲突，请不要同时安装它们，这可能会带来错误**
+
+
 ## 在小小电脑上使用 GXDE（在 Android 上使用 GXDE）
 小小电脑 1.0.19 开始支持 GXDE，这个是和小小电脑团队合作的版本，目前还在测试：https://github.com/Cateners/tiny_computer/issues/129  
 
