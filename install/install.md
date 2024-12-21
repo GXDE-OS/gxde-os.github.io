@@ -28,7 +28,7 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 > （loong64 Debian Port 系统安装镜像：https://cdimage.debian.org/cdimage/ports/tests/  ）  
 
 
-下载deb并安装 https://repo.gxde.org/gxde-os/bixie/g/gxde-source/
+下载deb并安装 https://repo.gxde.top/gxde-os/bixie/g/gxde-source/
 
 安装之后
 

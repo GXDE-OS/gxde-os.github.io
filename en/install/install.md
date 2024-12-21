@@ -26,7 +26,7 @@ EFI Installation: You must create a partition formatted as vfat/fat32 with the m
 > 
 > (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
 
-Download the deb file and install it from https://repo.gxde.org/gxde-os/bixie/g/gxde-source/
+Download the deb file and install it from https://repo.gxde.top/gxde-os/bixie/g/gxde-source/
 After installation, run:
 
 ```bash
