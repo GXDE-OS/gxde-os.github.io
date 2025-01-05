@@ -14,7 +14,7 @@ You can track our development progress at https://gitee.com/GXDE-OS/GXDE/board
 
 Q0: It's so slow when using `apt` to install packages. Can it be faster?
 
-A0: We use multi-line download to solve this. Simply replace `apt` with `aptss` will solve this problem.
+A0: We use multi-line download to solve this. Simply replace `apt` with `aptss` will solve this problem. You can install `apt-is-aptss` to appoint aptss replace apt. 
 
 A0: ** It is recommended to perform an full upgrade after installation. Please run `yes | sudo aptss full-upgrade -y` **
 
