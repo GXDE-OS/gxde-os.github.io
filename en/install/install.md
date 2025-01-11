@@ -20,9 +20,9 @@ EFI Installation: You must create a partition formatted as vfat/fat32 with the m
 ## APT Repository Installation
 > For those with ISO installation images available, such as amd64 and arm64, it is recommended to use the ISO for installation.
 > 
-> Currently supported architectures include amd64, arm64, mips64, loong64, and riscv64 (riscv64 has not been tested).
+> Currently supported architectures include i386, amd64, arm64, mips64, loong64, and riscv64 (riscv64 has not been tested).
 > 
-> amd64, arm64, and mips64 are supported for installation and use under Debian 12. loong64 is supported for installation and use under Debian Port and Loongnix25. riscv64 is supported for use under Debian Sid. Users of loong64 and riscv64 architectures **must add the internal testing repository**.
+> i386, amd64, arm64, and mips64 are supported for installation and use under Debian 12. loong64 is supported for installation and use under Debian Port and Loongnix25. riscv64 is supported for use under Debian Sid. Users of loong64 and riscv64 architectures **must add the internal testing repository**.
 > 
 > (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
 
