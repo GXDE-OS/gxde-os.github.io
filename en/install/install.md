@@ -17,6 +17,10 @@ For Beginners: If you don't know how to partition, leave some space on a disk an
 
 EFI Installation: You must create a partition formatted as vfat/fat32 with the mount point set to /boot/efi. The remaining space can be partitioned as needed.
 
+### Daily Build Image
+If you want to download the daily build image, you can visit: https://sourceforge.net/projects/gxde-os-daily/  
+Daily build images cannot guarantee normal installation and use. If you need daily use, please download the stable version image above  
+
 ## APT Repository Installation
 > For those with ISO installation images available, such as amd64 and arm64, it is recommended to use the ISO for installation.
 > 

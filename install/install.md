@@ -20,6 +20,10 @@ GXDE 仍不完美，请在安装前确认 [FAQ](faq.md) 中的事项，包括了
 
 EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /boot/efi，剩余可按需求分区
 
+### 日构建镜像
+如果你想下载日构建镜像，可以访问：https://sourceforge.net/projects/gxde-os-daily/  
+日构建镜像无法保证可以正常安装、使用等，如需日用请下载上方的稳定版镜像  
+
 
 ## APT 源安装
 > amd64、arm64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
