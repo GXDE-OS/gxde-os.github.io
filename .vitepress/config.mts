@@ -136,6 +136,7 @@ export default defineConfig({
           {
             text: "Update Log",
             items: [
+              { text: "15.14.3", link: "/en/news/15.14.3"},
               { text: "15.14.2", link: "/en/news/15.14.2"},
               { text: "15.14.1update2", link: "/en/news/15.14.1update2"},
               { text: "15.14.1", link: "/en/news/15.14.1"},
