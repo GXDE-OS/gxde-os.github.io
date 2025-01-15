@@ -44,6 +44,7 @@ export default defineConfig({
       {
         text: "更新日志",
         items: [
+          { text: "15.14.3", link: "/news/15.14.3"},
           { text: "15.14.2", link: "/news/15.14.2"},
           { text: "15.14.1update2", link: "/news/15.14.1update2"},
           { text: "15.14.1", link: "/news/15.14.1"},
