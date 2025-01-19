@@ -6,7 +6,7 @@ Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
 huang1111 pan: https://pan.huang1111.cn/s/laonjFL
 
-ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 
 GXDE is not perfect，please confirm [FAQ](faq.md) before installation，containing Nvidia Graphic Card driver installation help. 
@@ -61,7 +61,7 @@ Starting from Tiny Computer version 1.0.19, support for GXDE has been added. Thi
 
 **Download Links**:
 
-- Mirror Site Download (Recommended): [https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/](https://mirrors.sdu.edu.cn/spark-store-repository/GXDE-OS/APK/)
+- Mirror Site Download (Recommended): [https://mirrors.sdu.edu.cn/GXDE/APK/](https://mirrors.sdu.edu.cn/GXDE/APK/)
 - Github Download: [https://github.com/Cateners/tiny_computer/releases](https://github.com/Cateners/tiny_computer/releases) (Select the APK with the "gxde" suffix)
 
 > **Note**: If the interface operation is laggy, you can disable the special effects mode in the Control Center => Personalization. If the Control Center cannot be opened, you can upgrade to the latest version using the Toolbox in the GXDE-provided System Assistant.

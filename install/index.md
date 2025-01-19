@@ -12,7 +12,7 @@
 
 
 
-镜像站下载: https://mirrors.sdu.edu.cn/spark-store/GXDE-OS/ISO/
+镜像站下载: https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 huang1111: https://pan.huang1111.cn/s/laonjFL
 
