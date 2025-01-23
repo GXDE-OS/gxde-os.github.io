@@ -28,11 +28,14 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 ## APT 源安装
 > amd64、arm64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
 > 目前支持 i386、amd64、arm64、mips64、loong64 和 riscv64（riscv64 下未测试）   
-> i386、amd64、arm64、mips64 支持在 Debian 12 下安装使用，loong64 支持在 Debian Port、Loongnix25 下安装使用，riscv64 支持在 Debian Sid 下使用，loong64 和 riscv64 架构用户**一定要加内测源**    
-> （loong64 Debian Port 系统安装镜像：https://cdimage.debian.org/cdimage/ports/tests/  ）  
+> i386、amd64、arm64、mips64 支持在 Debian 12 下安装使用，loong64 支持在 Debian Port、Loongnix 25 下安装使用，riscv64 支持在 Debian Sid 下使用，loong64 和 riscv64 架构用户**一定要加内测源**    
+> （loong64 Debian Port 系统安装镜像：https://cdimage.debian.org/cdimage/ports/tests/  ） 
 
 
-下载deb并安装 https://repo.gxde.top/gxde-os/bixie/g/gxde-source/
+下载deb并安装：
+Debian 12/Debian Sid/Debian Port: https://repo.gxde.top/gxde-os/bixie/g/gxde-source/  
+Loongnix 25：https://repo.gxde.top/gxde-os/meimei/g/gxde-source/  
+**请根据自己的系统版本下载对应的包，否则安装时会出现依赖错误**
 
 安装之后
 
@@ -41,7 +44,7 @@ sudo apt update
 
 sudo apt install aptss
 
-sudo apt install gxde-testing-source -y  # 添加内测源，loong64 和 riscv64 架构用户一定要用，amd64 和 arm64 用户可忽略
+sudo apt install gxde-testing-source -y  # 添加内测源，Debian Sid/Port 用户一定要用，amd64、mips64、i386、arm64 和 Loongnix 25 用户可忽略
 
 sudo aptss update
 

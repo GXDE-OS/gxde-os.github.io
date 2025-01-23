@@ -30,21 +30,23 @@ Daily build images cannot guarantee normal installation and use. If you need dai
 > 
 > (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
 
-Download the deb file and install it from https://repo.gxde.top/gxde-os/bixie/g/gxde-source/
-After installation, run:
+First, you need download the deb file:  
+Debian 12/Debian Sid/Debian Port: https://repo.gxde.top/gxde-os/bixie/g/gxde-source/  
+Loongnix 25: https://repo.gxde.top/gxde-os/meimei/g/gxde-source/  
+After installation, run:  
 
 ```bash
 sudo apt update
 
 sudo apt install aptss
 
-sudo apt install gxde-testing-source -y  # Recommended for loong64 and riscv64 users,
+sudo apt install gxde-testing-source -y  # Add the internal testing source. Debian Sid/Port users must use it, amd64, mips64, i386, arm64 and Loongnix 25 users can ignore it
 
 sudo aptss update
 
 sudo aptss install gxde-desktop gxde-desktop-extra -y
 
-sudo aptss install spark-store -y  # Not available for mips64 and i386 users
+sudo aptss install spark-store -y  # Not available for mips64, i386 and riscv64 users
 
 ```
 

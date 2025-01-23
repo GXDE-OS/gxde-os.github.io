@@ -58,7 +58,7 @@ GXDE OS 内置 [星火应用商店](https://gitee.com/spark-store-project/)，�
 | :-: | :-: | :-: | :-: |
 | tianlu | 天禄 | 当前 GXDE OS 滚动/日更源代号 | 上古神兽，别名皮皮，是一只蓝色的貔貅 |
 | bixie | 辟邪 | 当前 GXDE OS 稳定源 | 上古神兽，天禄的兄弟，是一只红色的貔貅 |
-| meimei | 美美（全名慕容雪川） | 当前 GXDE OS loongnix 25 支线（正在适配） | 浑身橘橙色，面部带火，紫瞳黑爪，尾部尖端有白毛的狐狸 |
+| meimei | 美美（全名慕容雪川） | 当前 GXDE OS loongnix 25 支线 | 浑身橘橙色，面部带火，紫瞳黑爪，尾部尖端有白毛的狐狸 |
 
 
 
