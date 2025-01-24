@@ -26,6 +26,8 @@ features:
     details: Pre-installed applications like Wine Runner, Spark Store and so on makes the system out-of-the-box
   - title: 🌏More Architectures
     details: Support multiple CPU architectures (i386, amd64, arm64, mips64el, loong64) to enable wider support
+  - title: 🤖Android App Support
+    details: You can install Android apps easily with a few clicks
 ---
 
 ## Image Display
