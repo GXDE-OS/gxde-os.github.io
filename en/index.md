@@ -25,7 +25,7 @@ features:
   - title: 📌Wonderful Applications
     details: Pre-installed applications like Wine Runner, Spark Store and so on makes the system out-of-the-box
   - title: 🌏More Architectures
-    details: Support multiple CPU architectures (amd64, arm64, loong64) to enable wider support
+    details: Support multiple CPU architectures (i386, amd64, arm64, mips64el, loong64) to enable wider support
 ---
 
 ## Image Display
