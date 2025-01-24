@@ -4,8 +4,6 @@
 
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
-huang1111 pan: https://pan.huang1111.cn/s/laonjFL
-
 ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 
