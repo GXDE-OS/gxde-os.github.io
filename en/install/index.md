@@ -53,11 +53,11 @@ Please Click the Star in the Upper Right Corner, Your Support is Our Greatest Mo
 ### System Code Names
 The code names are selected from the Chinese comic "Fabulous Beasts".
 
-| Code Name | Chinese Name | Meaning | Character Introduction |
-| --- | --- | --- | --- |
-| tianlu | 天禄 | Current rolling/daily update source code name for GXDE OS | An ancient mythical creature, also known as Pipi, a blue Brave Troops |
-| bixie | 辟邪 | Current stable source for GXDE OS | An ancient mythical creature, a brother of Tianlu, a red Brave Troops |
-| meimei | 美美（全名慕容雪川） | The current GXDE OS loongnix 25 branch | A fox with orange body, fire on its face, purple eyes and black claws, and white hair on the tip of its tail |
+| Code Name | Chinese Name | Meaning | System Support Available? | Character Introduction |
+| --- | --- | --- | --- | --- |
+| tianlu | 天禄 | Current rolling/daily update source code name for GXDE OS | Yes | An ancient mythical creature, also known as Pipi, a blue Brave Troops |
+| bixie | 辟邪 | Current stable source for GXDE OS | Yes | An ancient mythical creature, a brother of Tianlu, a red Brave Troops |
+| meimei | 美美 (Full name: 慕容雪川) | The current GXDE OS loongnix 25 branch | Yes | A fox with orange body, fire on its face, purple eyes and black claws, and white hair on the tip of its tail |
 
 ## Other Projects
 Deepin: https://github.com/linuxdeepin/  

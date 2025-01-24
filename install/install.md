@@ -50,7 +50,7 @@ sudo aptss update
 
 sudo aptss install gxde-desktop gxde-desktop-extra -y
 
-sudo aptss install spark-store -y  # 此命令不支持 i386、mips64 架构用户
+sudo aptss install spark-store -y  # 此命令不支持 i386、mips64、riscv64 架构用户
 
 ```
 
