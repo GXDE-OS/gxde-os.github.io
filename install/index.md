@@ -5,7 +5,7 @@
 ::: info
 目前 loong64 架构仍为预览版本，可能随 Debian 上游更新出现问题，请不要在生产环境使用。
 
-欢迎点右上角Star,您的肯定是我们的最大动力
+欢迎点右上角 Star，您的肯定是我们的最大动力。
 :::
 
 ## 下载地址
@@ -18,7 +18,7 @@ huang1111: https://pan.huang1111.cn/s/laonjFL
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
-**GXDE 尚不完美，安装前请务必检查 [常见问题](faq.md)**
+**GXDE 尚不完美，安装前请务必检查[常见问题](faq.md)**
 
 若您不会安装或 ISO 安装不能满足您的要求，请查看[安装教程](install.md)
 
@@ -47,7 +47,7 @@ GXDE OS 集成了多个社区的开源项目，包括顶栏、全局菜单、星
 
 ### 一键安装应用程序，无需输入命令
 
-GXDE OS 内置 [星火应用商店](https://gitee.com/spark-store-project/)，使用户能够轻松发现和安装所需应用程序，而无需使用命令行。
+GXDE OS 内置[星火应用商店](https://gitee.com/spark-store-project/)，使用户能够轻松发现和安装所需应用程序，而无需使用命令行。
 
 此外，只需将 `apt` 替换为 `aptss`，即可加速下载速度。
 
