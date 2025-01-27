@@ -89,6 +89,6 @@ A6: 原生开发请使用 QT/DTK2 相关代码如下：
 Q7：我想使用 Android 应用，我该怎么做
 
 A7：当前只支持 amd64、arm64 架构且必须使用 GXDE OS ISO 安装镜像安装的机器，如果您的机器符合上述条件，只需在星火应用商店搜索以下应用一键安装即可  
-spk 链接：spk://store/tools/kmre  
+spk 链接：[spk://store/tools/kmre](spk://store/tools/kmre)
 安装完后需要重启电脑才能正常启动 Android 环境哦  
 ![Installing KMRE from the Spark App Store](/news/15.14.3/kmre-on-spark-store.png)  

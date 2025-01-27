@@ -30,7 +30,7 @@ sudo aptss install blueman -y
 
 Then launch `Bluetooth Manager` from launcher.
 
-We feel sorry for the un-convenience. 
+We feel sorry for the inconvenience. 
 
 ---
 
@@ -58,7 +58,7 @@ A3: Simply install the package `linux-kernel-oldstable-gxde-amd64` and boot with
  
  A4: Starting from version 15.14, you can join the beta test with one click in the Control Center. For details, see: https://www.bilibili.com/video/BV1FgsvenEjq
  
- A4: Please join our QQ Group to feedback: 881201853
+ A4: Please join our Discord Group: https://discord.gg/t5Uf2xYpvA
 
 ---
 
@@ -84,6 +84,6 @@ A5： kvm -vga virtio
  Q7: I want to use the Android app, what should I do
 
  A7: Currently, only machines that support amd64 and arm64 architectures and must use the GXDE OS ISO installation image are supported. If your machine meets the above conditions, simply search for the following applications in the Spark App Store and install them with one click  
-spk link: spk://store/tools/kmre  
+spk link: [spk://store/tools/kmre](spk://store/tools/kmre)  
 After installation, you need to restart the computer to start the Android environment normally  
 ![Installing KMRE from the Spark App Store](/news/15.14.3/kmre-on-spark-store.png)
