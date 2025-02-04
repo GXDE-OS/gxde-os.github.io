@@ -35,9 +35,11 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      # 临时限制 pnpm 版本，直到 Node.js 24 成为 LTS
       - name: Build VitePress
         run: |
           corepack enable
+          corepack prepare pnpm@9.7.1 --activate
           pnpm install
           pnpm docs:build
         shell: bash
