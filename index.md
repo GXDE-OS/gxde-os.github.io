@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "GXDE OS：经典延续"
-  text: "美观、轻量、开箱即用的 Linux 发行版"
+  text: "美观、轻量、开箱即用的 Linux 发行"
   tagline: 基于更新底层的 GXDE，让 DDE 15 重回人们的视野
   actions:
     - theme: brand
