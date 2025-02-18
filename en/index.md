@@ -4,14 +4,14 @@ layout: home
 
 hero:
   name: "GXDE OS: Continues"
-  text: "We bring back DDE 15 with an updated basis on GXDE"
-  tagline: GXDE = Gorgeous eXtended Deepin Environment
+  text: "A Linux distro that is beautiful, light weight and out-of-the-box"
+  tagline: We bring back DDE 15 with an updated basis on GXDE
   actions:
     - theme: brand
-      text: Install Now
+      text: Install GXDE OS
       link: ./install
     - theme: alt
-      text: Compile it yourself?
+      text: Open Source Repo
       link: https://gitee.com/GXDE-OS
   image:
     src: /logo.png

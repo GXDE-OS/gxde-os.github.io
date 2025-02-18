@@ -4,14 +4,14 @@ layout: home
 
 hero:
   name: "GXDE OS：经典延续"
-  text: "基于更新底层的 GXDE，让 DDE 15 重回人们的视野"
-  tagline: GXDE = Gorgeous eXtended Deepin Environment
+  text: "美观、轻量、开箱即用的 Linux 发行版"
+  tagline: 基于更新底层的 GXDE，让 DDE 15 重回人们的视野
   actions:
     - theme: brand
-      text: 现在安装
+      text: 下载 GXDE OS
       link: ./install
     - theme: alt
-      text: 自行编译？
+      text: 源码仓库
       link: https://gitee.com/GXDE-OS
   image:
     src: /logo.png
