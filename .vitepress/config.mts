@@ -7,7 +7,7 @@ import { ElementPlusResolver } from "unplugin-vue-components/resolvers";
 export default defineConfig({
   title: "GXDE OS：经典延续",
   description:
-    "基于更新底层的 GXDE，让 DDE 15 重回人们的视野（GXDE，Gorgeous eXtended Deepin Environment）",
+    "美观、轻量、开箱即用的 Linux 发行",
   head: [
     ["link", { rel: "icon", href: "/logo.png", type: "image/png" }],
     ["meta", { name: "darkreader-lock" }],
