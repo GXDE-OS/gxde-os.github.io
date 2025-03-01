@@ -160,7 +160,7 @@ export default defineConfig({
                 link: "/en/news/development/kmre-on-debian-gxde" 
               },
             ]
-          }
+          },
           {
             text: "Feature Programs",
             items: [
