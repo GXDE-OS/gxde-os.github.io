@@ -36,6 +36,13 @@ export default defineConfig({
           { text: "快速了解", link: "/install/" },
           { text: "如何安装 GXDE？", link: "/install/install" },
           { text: "FAQ", link: "/install/faq" },
+          { text: "镜像源", link: "/install/mirrors" }
+        ],
+      },
+      {
+        text: "开发动态",
+        items: [
+          { text: "好消息：KMRE 安卓模拟器现可在Debian/GXDE使用", link: "/news/development/kmre-on-debian-gxde" },
         ],
       },
       {
@@ -142,8 +149,18 @@ export default defineConfig({
               { text: "Quick Start", link: "/en/install/" },
               { text: "How to Install GXDE?", link: "/en/install/install" },
               { text: "FAQ", link: "/en/install/faq" },
+              { text: "System Mirrors", link: "/en/install/mirrors" },
             ],
           },
+          {
+            text: "Development Updates",
+            items: [
+              { 
+                text: "Good News: KMRE Android Emulator Now Available on Debian/GXDE", 
+                link: "/en/news/development/kmre-on-debian-gxde" 
+              },
+            ]
+          }
           {
             text: "Feature Programs",
             items: [
