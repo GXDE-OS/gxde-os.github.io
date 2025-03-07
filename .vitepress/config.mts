@@ -27,6 +27,10 @@ export default defineConfig({
         link: "/news/15.14.3",
         activeMatch: "^/news/",
       },
+      {
+        text: "星火应用商店",
+        link: "https://www.spark-app.store/",
+      },
     ],
 
     sidebar: [
@@ -140,6 +144,10 @@ export default defineConfig({
             text: "Update Log",
             link: "en/news/15.14.3",
             activeMatch: "^/en/news/15.14.3",
+          },
+          {
+            text: "Spark APP Store",
+            link: "https://www.spark-app.store/",
           },
         ],
         sidebar: [
