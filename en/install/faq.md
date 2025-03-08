@@ -87,3 +87,14 @@ A5： kvm -vga virtio
 spk link: [spk://store/tools/kmre](spk://store/tools/kmre)  
 After installation, you need to restart the computer to start the Android environment normally  
 ![Installing KMRE from the Spark App Store](/news/15.14.3/kmre-on-spark-store.png)
+
+
+---
+
+Q8: I cannot use Spark App Store/some old-world applications on Loongnix 25. What should I do?  
+A8: Due to ABI compatibility conflicts between liblol and Loongnix 25's abi-compat package, you need to remove abi-compat.  
+Execute the following command in terminal and reboot to use Spark App Store/old-world 
+applications normally:  
+```bash
+sudo apt purge abi-compat
+```

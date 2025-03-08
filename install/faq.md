@@ -92,3 +92,12 @@ A7：当前只支持 amd64、arm64 架构且必须使用 GXDE OS ISO 安装镜�
 spk 链接：[spk://store/tools/kmre](spk://store/tools/kmre)
 安装完后需要重启电脑才能正常启动 Android 环境哦  
 ![Installing KMRE from the Spark App Store](/news/15.14.3/kmre-on-spark-store.png)  
+
+---
+
+Q8：我在 Loongnix25 上无法使用星火应用商店/一些旧世界软件，我该怎么做  
+A8：因为 liblol 和 loongnix 25 的 abi-compat 冲突，所以你需要删除 abi-compat  
+在终端输入以下命令然后重启即可正常使用星火应用商店/旧世界应用：  
+```bash
+sudo apt purge abi-compat
+```
