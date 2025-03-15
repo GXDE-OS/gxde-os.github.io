@@ -54,6 +54,11 @@ Then restart.
 
 **There are potential conflict between GXDE and KDE. Don't install them both or maybe something will crash**
 
+## Install GXDE on Android Phone/Pads (With Vectras VM)
+
+Please check: https://github.com/xoureldeen/Vectras-VM-Android
+
+
 
 ## Install GXDE on Android Phone/Pads (With Tiny-Computer)
 ### Tiny Computer 1.0.19 Supports GXDE
