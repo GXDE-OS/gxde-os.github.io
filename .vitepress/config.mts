@@ -46,6 +46,7 @@ export default defineConfig({
       {
         text: "开发动态",
         items: [
+          { text: "移植成功！Kmre 可以在 deepin 23 正常使用（附安装教程）", link: "/news/development/kmre-on-deepin" },
           { text: "好消息：KMRE 安卓模拟器现可在Debian/GXDE使用", link: "/news/development/kmre-on-debian-gxde" },
         ],
       },
@@ -164,6 +165,10 @@ export default defineConfig({
           {
             text: "Development Updates",
             items: [
+              { 
+                text: "Port Successful! Kmre Works on Deepin 23 (with Installation Tutorial)", 
+                link: "/en/news/development/kmre-on-deepin" 
+              },
               { 
                 text: "Good News: KMRE Android Emulator Now Available on Debian/GXDE", 
                 link: "/en/news/development/kmre-on-debian-gxde" 
