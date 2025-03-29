@@ -13,7 +13,7 @@ Sourceforge: https://sourceforge.net/projects/gxde-os/files
 ISO Mirror (Chinese Mainland): https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 
-**GXDE is not perfect yet，please confirm [FAQ](faq.md) before installation. **
+**GXDE is not perfect yet, please check [FAQ](faq.md) before installation.**
 
 Please check [install tutorial](install.md) if you don't know how to install or ISO image installation can't meet your needs.
 

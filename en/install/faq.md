@@ -14,13 +14,13 @@ You can track our development progress at https://gitee.com/GXDE-OS/GXDE/board
 
 Q0: It's so slow when using `apt` to install packages. Can it be faster?
 
-A0: We use multi-line download to solve this. Simply replace `apt` with `aptss` will solve this problem. You can install `apt-is-aptss` to appoint aptss replace apt. 
+A0: Replace `apt` with `aptss` to enable multi-thread download. You can have aptss take over directly from apt by installing the package `apt-is-aptss`. 
 
-A0: ** It is recommended to perform an full upgrade after installation. Please run `yes | sudo aptss full-upgrade -y` **
+A0: **It is recommended to perform an full upgrade after installation. Please run `yes | sudo aptss full-upgrade -y` .**
 
 ---
 
-Q1: I can't operate bluetooth via control center.
+Q1: I can't operate bluetooth via Control Center.
 
 A1: It's a known issue. We can't fix it for now. Please use the following command.
 

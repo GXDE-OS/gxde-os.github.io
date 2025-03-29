@@ -7,7 +7,7 @@ Sourceforge: https://sourceforge.net/projects/gxde-os/files
 ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 
-GXDE is not perfect，please confirm [FAQ](faq.md) before installation，containing Nvidia Graphic Card driver installation help. 
+GXDE is not perfect, please confirm [FAQ](faq.md) before installation, containing Nvidia Graphic Card driver installation help. 
 
 ---
 
