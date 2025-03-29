@@ -10,8 +10,6 @@ Currently loong64 architecture is still at a preview stage. There may be problem
 
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
-huang1111 pan: https://pan.huang1111.cn/s/laonjFL
-
 ISO Mirror (Chinese Mainland): https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 

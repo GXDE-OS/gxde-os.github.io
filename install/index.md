@@ -14,8 +14,6 @@
 
 镜像站下载: https://mirrors.sdu.edu.cn/GXDE/ISO/
 
-huang1111: https://pan.huang1111.cn/s/laonjFL
-
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 **GXDE 尚不完美，安装前请务必检查[常见问题](faq.md)**
