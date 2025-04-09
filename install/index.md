@@ -90,10 +90,6 @@ Gitee：http://gitee.com/GXDE-OS
 Github：http://github.com/GXDE-OS  
 Gitcode：https://gitcode.com/GXDE-OS
 
-## 请作者喝杯茶
-
-如果您觉得对你有帮助，可以请作者喝杯茶  
-<img src="/install/Wechat.png" width="250"  />
 
 ### 广告
 

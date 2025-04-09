@@ -80,10 +80,6 @@ Gitee: http://gitee.com/GXDE-OS
 Github: http://github.com/GXDE-OS  
 Gitcode: https://gitcode.com/GXDE-OS
 
-## Buy a Cup of Tea for the Author
-If you find it helpful, you can buy the author a cup of tea.  
-<img src="/install/Wechat.png" width="250" />
-
 ### Advertisement
 Scan to receive a payment red envelope from the Alipay official event!
 <img src="/install/advertisement0.jpg" width="250" >

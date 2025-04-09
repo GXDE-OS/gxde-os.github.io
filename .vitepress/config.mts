@@ -18,19 +18,17 @@ export default defineConfig({
       { text: "首页", link: "/" },
       { text: "使用指南", link: "/install/", activeMatch: "^/install/" },
       {
-        text: "特色应用",
-        link: "/apps/deepin-cloud-scan/",
-        activeMatch: "^/apps/",
-      },
-      {
-        text: "更新日志",
-        link: "/news/15.14.3",
-        activeMatch: "^/news/",
-      },
-      {
         text: "星火应用商店",
         link: "https://www.spark-app.store/",
       },
+      {
+        text: "论坛",
+        link: "https://bbs.spark-app.store/"
+      },
+      {
+        text: "捐赠",
+        link: "https://donate.deepinos.org.cn/donate/index.html#"
+      }
     ],
 
     sidebar: [
@@ -67,6 +65,7 @@ export default defineConfig({
       {
         text: "更新日志",
         items: [
+          { text: "2025.04.09 累积更新", link: "/news/15.15-2025.04.09"},
           { text: "15.15", link: "/news/15.15" },
           { text: "15.14.3", link: "/news/15.14.3" },
           { text: "15.14.2", link: "/news/15.14.2" },
@@ -138,19 +137,17 @@ export default defineConfig({
             activeMatch: "^/en/install/",
           },
           {
-            text: "Feature Programs",
-            link: "/en/apps/deepin-cloud-scan/",
-            activeMatch: "^/en/apps/deepin-cloud-scan/",
-          },
-          {
-            text: "Update Log",
-            link: "en/news/15.14.3",
-            activeMatch: "^/en/news/15.14.3",
-          },
-          {
             text: "Spark APP Store",
             link: "https://www.spark-app.store/",
           },
+          {
+            text: "Forum",
+            link: "https://bbs.spark-app.store/"
+          },
+          {
+            text: "Donate",
+            link: "https://donate.deepinos.org.cn/donate/index.html#"
+          }
         ],
         sidebar: [
           {
@@ -204,6 +201,7 @@ export default defineConfig({
           {
             text: "Update Log",
             items: [
+              { text: "2025.04.09 Cumulative Update Released", link: "/en/news/15.15-2025.04.09"},
               { text: "15.15", link: "/en/news/15.15" },
               { text: "15.14.3", link: "/en/news/15.14.3" },
               { text: "15.14.2", link: "/en/news/15.14.2" },
