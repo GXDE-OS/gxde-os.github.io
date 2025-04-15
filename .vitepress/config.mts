@@ -65,11 +65,11 @@ export default defineConfig({
       {
         text: "更新日志",
         items: [
-          { text: "2025.04.09 累积更新", link: "/news/15.15-2025.04.09"},
+          { text: "15.15 update1", link: "/news/15.15u1"},
           { text: "15.15", link: "/news/15.15" },
           { text: "15.14.3", link: "/news/15.14.3" },
           { text: "15.14.2", link: "/news/15.14.2" },
-          { text: "15.14.1update2", link: "/news/15.14.1update2" },
+          { text: "15.14.1 update2", link: "/news/15.14.1update2" },
           { text: "15.14.1", link: "/news/15.14.1" },
           { text: "15.14", link: "/news/15.14" },
           { text: "15.13", link: "/news/15.13" },
@@ -201,11 +201,11 @@ export default defineConfig({
           {
             text: "Update Log",
             items: [
-              { text: "2025.04.09 Cumulative Update Released", link: "/en/news/15.15-2025.04.09"},
+              { text: "15.15 update1", link: "/en/news/15.15u1"},
               { text: "15.15", link: "/en/news/15.15" },
               { text: "15.14.3", link: "/en/news/15.14.3" },
               { text: "15.14.2", link: "/en/news/15.14.2" },
-              { text: "15.14.1update2", link: "/en/news/15.14.1update2" },
+              { text: "15.14.1 update2", link: "/en/news/15.14.1update2" },
               { text: "15.14.1", link: "/en/news/15.14.1" },
               { text: "15.14", link: "/en/news/15.14" },
               { text: "15.13", link: "/en/news/15.13" },
