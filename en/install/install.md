@@ -19,7 +19,9 @@ GXDE is not perfect, please confirm [FAQ](faq.md) before installation, containin
 
 For Beginners: If you don't know how to partition, leave some space on a disk and select to install on the whole disk during installation.
 
-EFI Installation: You must create a partition formatted as vfat/fat32 with the mount point set to /boot/efi. The remaining space can be partitioned as needed.
+EFI Installation: You must create a partition formatted as vfat/fat32 with the mount point set to /boot/efi. The remaining space can be partitioned as needed.  
+
+Install image lock screen password: `live`  
 
 ### Daily Build Image
 If you want to download the daily build image, you can visit: https://sourceforge.net/projects/gxde-os-daily/  

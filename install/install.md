@@ -16,7 +16,9 @@ GXDE 仍不完美，请在安装前确认 [FAQ](faq.md) 中的事项，包括了
 
 小白安装：若不会分区，可空出一块磁盘，在安装时选择整块磁盘安装即可。
 
-EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /boot/efi，剩余可按需求分区
+EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /boot/efi，剩余可按需求分区  
+
+安装镜像锁屏密码：`live`  
 
 ### 日构建镜像
 如果你想下载日构建镜像，可以访问：https://sourceforge.net/projects/gxde-os-daily/  
