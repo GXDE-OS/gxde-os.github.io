@@ -66,7 +66,16 @@ sudo aptss install spark-store -y  # 此命令不支持 i386、mips64、riscv64 
 
 
 ## 在小小电脑上使用 GXDE（在 Android 上使用 GXDE）
-小小电脑 `1.0.19` 开始支持 GXDE，该版本与小小电脑团队合作开发，仍处于测试阶段：https://github.com/Cateners/tiny_computer/issues/129  
+小小电脑 `1.0.19` 开始支持 GXDE，该版本与小小电脑团队合作开发，仍处于测试阶段  
+如需反馈 bug，可至 https://github.com/Cateners/tiny_computer/issues/129  
+
+::: warning
+如果你想从v1.0.10及以后的版本升级，请务必在启动后进行重置启动命令(在高级设置)和重新安装引导包(在全局设置)操作，否则新功能可能无法使用。  
+
+默认情况下，即使更新了本软件，引导包、快捷指令、容器系统也并不会被更新。  
+
+软件只支持arm64设备，默认用户tiny密码tiny，vnc端口5904密码12345678，novnc端口36082，pulseaudio端口4718，Termux X11占用端口7897；本软件不会和termux冲突。  
+:::
 
 下载链接：  
 镜像站下载（推荐）：https://mirrors.sdu.edu.cn/GXDE/APK/   

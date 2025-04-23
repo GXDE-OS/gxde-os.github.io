@@ -69,8 +69,22 @@ Please check: https://github.com/xoureldeen/Vectras-VM-Android
 
 
 ## Install GXDE on Android Phone/Pads (With Tiny-Computer)
-### Tiny Computer 1.0.19 Supports GXDE
-Starting from Tiny Computer version 1.0.19, support for GXDE has been added. This is a collaborative version with the Tiny Computer team and is currently in the testing phase: [https://github.com/Cateners/tiny_computer/issues/129](https://github.com/Cateners/tiny_computer/issues/129)
+The Tiny Computer `1.0.19` now supports GXDE. This version was developed in collaboration with the Tiny Computer team and is still in beta testing phase.  
+To report bugs, please visit: https://github.com/Cateners/tiny_computer/issues/129  
+
+::: warning  
+If upgrading from v1.0.10 or later versions, you **must** perform a startup command reset (in Advanced Settings) and reinstall the boot package (in Global Settings) after launch. Otherwise, new features may not work properly.  
+
+By default, the boot package, quick commands, and container system will **not** be updated even when the software is upgraded.  
+
+The software only supports arm64 devices. Default credentials: user `tiny`/password `tiny`.  
+Connection ports:  
+- VNC port 5904 (password: 12345678)  
+- noVNC port 36082  
+- PulseAudio port 4718  
+- Termux X11 uses port 7897  
+This software does not conflict with Termux.  
+:::  
 
 **Download Links**:
 
