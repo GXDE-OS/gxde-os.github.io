@@ -34,11 +34,18 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 
 使用 deb 包安装 APT 源：
 
-Debian 12/Debian Sid/Debian Port: https://repo.gxde.top/gxde-os/bixie/g/gxde-source/
-Loongnix 25：https://repo.gxde.top/gxde-os/meimei/g/gxde-source/
+| 目标系统代号 | 支持发行版 | deb 包下载地址 |
+| --- | --- | --- |
+| lizhi | Debian 13 | https://repo.gxde.top/gxde-os/lizhi/g/gxde-source/ |
+| bixie | Debian 12 | https://repo.gxde.top/gxde-os/bixie/g/gxde-source/ |
+| meimei | Loongnix 25 | https://repo.gxde.top/gxde-os/meimei/g/gxde-source/ |
 
 ::: warning
 **请根据自己的系统版本下载对应的包，否则安装时会出现依赖错误**
+:::
+
+:::warning
+**从 GXDE 2025 开始直接基于 Debian backports 构建，在您安装 `gxde-source` 包后将会自动添加 Debian Backports 源**
 :::
 
 安装之后，执行以下命令安装 GXDE 桌面环境：

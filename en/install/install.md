@@ -37,8 +37,21 @@ Daily build images cannot guarantee normal installation and use. If you need dai
 > (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
 
 First, you need download the deb file:  
-Debian 12/Debian Sid/Debian Port: https://repo.gxde.top/gxde-os/bixie/g/gxde-source/  
-Loongnix 25: https://repo.gxde.top/gxde-os/meimei/g/gxde-source/  
+
+| Target System Code | Supported Distribution | deb Package Download URL |
+| --- | --- | --- |
+| lizhi | Debian 13 | https://repo.gxde.top/gxde-os/lizhi/g/gxde-source/ |
+| bixie | Debian 12 | https://repo.gxde.top/gxde-os/bixie/g/gxde-source/ |
+| meimei | Loongnix 25 | https://repo.gxde.top/gxde-os/meimei/g/gxde-source/ |
+
+::: warning
+**Please download the corresponding package according to your system version, otherwise dependency errors may occur during installation**
+:::
+
+::: warning
+**Starting from GXDE 2025, we are directly built on Debian Backports. After installing the `gxde-source` package, the Debian Backports repository will be automatically added**
+:::
+
 After installation, run:  
 
 ```bash
