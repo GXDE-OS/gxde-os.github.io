@@ -65,6 +65,7 @@ export default defineConfig({
       {
         text: "更新日志",
         items: [
+          { text: "2025 RC", link: "/news/2025rc"},
           { text: "15.15 update1", link: "/news/15.15u1"},
           { text: "15.15", link: "/news/15.15" },
           { text: "15.14.3", link: "/news/15.14.3" },
@@ -201,6 +202,7 @@ export default defineConfig({
           {
             text: "Update Log",
             items: [
+              { text: "2025 RC", link: "/en/news/2025rc"},
               { text: "15.15 update1", link: "/en/news/15.15u1"},
               { text: "15.15", link: "/en/news/15.15" },
               { text: "15.14.3", link: "/en/news/15.14.3" },
