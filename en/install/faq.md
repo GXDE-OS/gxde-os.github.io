@@ -86,7 +86,7 @@ A5： kvm -vga virtio
  A7: Currently, only machines that support amd64 and arm64 architectures and must use the GXDE OS ISO installation image are supported. If your machine meets the above conditions, simply search for the following applications in the Spark App Store and install them with one click  
 spk link: [spk://store/tools/kmre](spk://store/tools/kmre)  
 After installation, you need to restart the computer to start the Android environment normally  
-![Installing KMRE from the Spark App Store](/news/15.14.3/kmre-on-spark-store.png)
+![Installing KMRE from the Spark App Store](/news/15.14.3/kmre-on-spark-store.jpg)
 
 
 ---

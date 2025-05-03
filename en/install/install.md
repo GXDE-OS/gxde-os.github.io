@@ -10,7 +10,7 @@ Baidu Cloud Disk (Including old archive): [https://pan.baidu.com/s/1L9A6q-xrkgKf
 
 Ctfile Cloud Disk (Including old archive)：[https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061](https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061) Password: 2061  
 
-![GXDE OS ISO Baidu Cloud Disk](/install/baidu.png)
+![GXDE OS ISO Baidu Cloud Disk](/install/baidu.jpg)
 
 
 GXDE is not perfect, please confirm [FAQ](faq.md) before installation, containing Nvidia Graphic Card driver installation help. 

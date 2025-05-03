@@ -20,7 +20,7 @@ Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 城通网盘（包含历史版本）：[https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061](https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061) 提取码: 2061  
 
-![GXDE OS ISO 百度网盘下载链接](/install/baidu.png)
+![GXDE OS ISO 百度网盘下载链接](/install/baidu.jpg)
 
 **GXDE 尚不完美，安装前请务必检查[常见问题](faq.md)**
 
