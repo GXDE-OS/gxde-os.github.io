@@ -15,11 +15,11 @@ KMRE是麒麟软件研发的Linux桌面操作系统产品的高效的Android运�
 
 详细可见：https://gitee.com/GXDE-OS/kmre
 
-![image.png](/news/development/kmre-on-deepin/kmre-on-deepin0.png)
+![image.png](/news/development/kmre-on-deepin/kmre-on-deepin0.jpg)
 
-![image.png](/news/development/kmre-on-deepin/kmre-on-deepin1.png)
+![image.png](/news/development/kmre-on-deepin/kmre-on-deepin1.jpg)
 
-![image.png](/news/development/kmre-on-deepin/kmre-on-deepin2.png)
+![image.png](/news/development/kmre-on-deepin/kmre-on-deepin2.jpg)
 
 ## 前期准备
 
@@ -94,10 +94,10 @@ sudo bash build-kmre-deb.sh
 startapp com.android.settings
 ```
 
-![image.png](/news/development/kmre-on-deepin/launcher-desktop.png)
+![image.png](/news/development/kmre-on-deepin/launcher-desktop.jpg)
 
-![image.png](/news/development/kmre-on-deepin/kmre-settings.png)
+![image.png](/news/development/kmre-on-deepin/kmre-settings.jpg)
 
 然后即可使用 APK 安装工具安装 APK 了：
 
-![image.png](/news/development/kmre-on-deepin/kmre-apk-installer.png)
+![image.png](/news/development/kmre-on-deepin/kmre-apk-installer.jpg)

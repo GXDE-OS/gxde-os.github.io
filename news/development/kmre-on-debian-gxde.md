@@ -22,7 +22,7 @@
 
 前往 星火应用商店 搜索 KMRE 并一键安装 即可
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261534476872_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261534476872_图片.jpg)
 
 或使用命令
 
@@ -30,23 +30,23 @@
 
 稍等片刻即可在启动器中看到 KMRE
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261536273237_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261536273237_图片.jpg)
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261538027913_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261538027913_图片.jpg)
 
 2. 安装应用
 
 对 deb 包点击右键 即可使用 KMRE 安装器进行一键安装
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261538259106_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261538259106_图片.jpg)
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261539045466_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261539045466_图片.jpg)
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261539195214_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261539195214_图片.jpg)
 
 随后即可在启动器中找到入口
 
-![图片.png](/news/development/kmre-on-debian-gxde/202501261546298081_图片.png)
+![图片.png](/news/development/kmre-on-debian-gxde/202501261546298081_图片.jpg)
 
 ## 应用卸载
 

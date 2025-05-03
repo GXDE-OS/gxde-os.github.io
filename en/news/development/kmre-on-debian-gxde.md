@@ -18,22 +18,22 @@
 
 1. **Installation**  
    - Search for **KMRE** in the **Spark App Store** and install it with one click:  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261534476872_图片.png)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261534476872_图片.jpg)  
    - Or use the command:  
      ```bash  
      sudo aptss install kmre -y  
      ```  
    - After installation, KMRE will appear in the launcher:  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261536273237_图片.png)  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261538027913_图片.png)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261536273237_图片.jpg)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261538027913_图片.jpg)  
 
 2. **Install Apps**  
    - Right-click a deb package and use the **KMRE Installer** for one-click installation:  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261538259106_图片.png)  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261539045466_图片.png)  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261539195214_图片.png)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261538259106_图片.jpg)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261539045466_图片.jpg)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261539195214_图片.jpg)  
    - Apps will then appear in the launcher:  
-     ![图片.png](/news/development/kmre-on-debian-gxde/202501261546298081_图片.png)  
+     ![图片.png](/news/development/kmre-on-debian-gxde/202501261546298081_图片.jpg)  
 
 ## Uninstallation  
 

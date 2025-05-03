@@ -16,11 +16,11 @@ The current ported Kmre uses Android 11 and includes the following modifications
 For details, visit:  
 https://gitee.com/GXDE-OS/kmre  
 
-![image.png](/news/development/kmre-on-deepin/kmre-on-deepin0.png)  
+![image.png](/news/development/kmre-on-deepin/kmre-on-deepin0.jpg)  
 
-![image.png](/news/development/kmre-on-deepin/kmre-on-deepin1.png)  
+![image.png](/news/development/kmre-on-deepin/kmre-on-deepin1.jpg)  
 
-![image.png](/news/development/kmre-on-deepin/kmre-on-deepin2.png)  
+![image.png](/news/development/kmre-on-deepin/kmre-on-deepin2.jpg)  
 
 ## Preparations
 
@@ -94,10 +94,10 @@ After rebooting:
   startapp com.android.settings
   ```  
 
-![image.png](/news/development/kmre-on-deepin/launcher-desktop.png)  
+![image.png](/news/development/kmre-on-deepin/launcher-desktop.jpg)  
 
-![image.png](/news/development/kmre-on-deepin/kmre-settings.png)  
+![image.png](/news/development/kmre-on-deepin/kmre-settings.jpg)  
 
 **Install APKs**: Use the APK installer tool:  
 
-![image.png](/news/development/kmre-on-deepin/kmre-apk-installer.png)
+![image.png](/news/development/kmre-on-deepin/kmre-apk-installer.jpg)
