@@ -12,25 +12,13 @@ You can track our development progress at https://gitee.com/GXDE-OS/GXDE/board
 
 ---
 
-Q0: It's so slow when using `apt` to install packages. Can it be faster?
+Q1: It's so slow when using `apt` to install packages. Can it be faster?
 
-A0: Replace `apt` with `aptss` to enable multi-thread download. You can have aptss take over directly from apt by installing the package `apt-is-aptss`. 
+A1: Replace `apt` with `aptss` to enable multi-thread download. You can have aptss take over directly from apt by installing the package `apt-is-aptss`. 
 
-A0: **It is recommended to perform an full upgrade after installation. Please run `yes | sudo aptss full-upgrade -y` .**
+A1: **It is recommended to perform an full upgrade after installation. Please run `yes | sudo aptss full-upgrade -y` .**
 
----
 
-Q1: I can't operate bluetooth via Control Center.
-
-A1: It's a known issue. We can't fix it for now. Please use the following command.
-
-```
-sudo aptss install blueman -y
-```
-
-Then launch `Bluetooth Manager` from launcher.
-
-We feel sorry for the inconvenience. 
 
 ---
 

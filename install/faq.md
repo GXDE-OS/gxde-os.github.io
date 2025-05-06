@@ -19,26 +19,12 @@ A0: 请看 https://bbs.spark-app.store/d/2051
 
 
 
-Q0: 使用 `apt` 下载好慢，能不能改善下服务器？
+Q1: 使用 `apt` 下载好慢，能不能改善下服务器？
 
-A0: 我们使用多线下载来解决此问题，使用 `aptss` 命令替换 `apt` 即可畅享极速下载。可通过安装软件包  `apt-is-aptss` 来让 aptss 直接接管 apt 
+A1: 我们使用多线下载来解决此问题，使用 `aptss` 命令替换 `apt` 即可畅享极速下载。可通过安装软件包  `apt-is-aptss` 来让 aptss 直接接管 apt 
 
-A0: **建议安装后进行一次升级，执行 `yes | sudo aptss full-upgrade -y`**
+A1: **建议安装后进行一次升级，执行 `yes | sudo aptss full-upgrade -y`**
 
-
----
-
-Q1: 在控制中心 -> 蓝牙只能刷新蓝牙列表，无法操作连接
-
-A1: 这是已知问题，暂时未能修复，请执行以下指令
-
-```
-sudo aptss install blueman -y
-```
-
-随后在启动器中找到`蓝牙管理器`启动即可
-
-给您带来的不便深感抱歉
 
 
 ---
