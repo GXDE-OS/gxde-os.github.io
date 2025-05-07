@@ -2,11 +2,12 @@
 
 
 
-::: info
-Currently loong64 architecture is still at a preview stage. There may be problems with upstream updates of Debian, so please do not use GXDE in production environments.
-:::
 
 ## Download ISO Images
+
+Official download: https://repo.gxde.top/ISO/
+
+Legacy versions: https://repo-archive.gxde.top/ISO/
 
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 

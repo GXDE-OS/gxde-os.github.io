@@ -6,6 +6,10 @@
 
 镜像站下载: https://mirrors.sdu.edu.cn/GXDE/ISO/
 
+官方下载： https://repo.gxde.top/ISO/
+
+旧版/不常用架构版本存档：https://repo-archive.gxde.top/ISO/
+
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 i386、mips64el 架构的安装方法可以参考：[APT 源安装](#apt-源安装)
