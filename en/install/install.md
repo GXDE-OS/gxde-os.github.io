@@ -36,7 +36,7 @@ Daily build images cannot guarantee normal installation and use. If you need dai
 > 
 > Currently supported architectures include i386, amd64, arm64, mips64, loong64, and riscv64 (riscv64 has not been tested).
 > 
-> i386, amd64, arm64, and mips64 are supported for installation and use under Debian 12. loong64 is supported for installation and use under Debian Port and Loongnix25. riscv64 is supported for use under Debian Sid. Users of loong64 and riscv64 architectures **must add the internal testing repository**.
+> i386, amd64, arm64, and mips64 are supported for installation and use under Debian 13/12. loong64 is supported for installation and use under Debian Port and Loongnix25. riscv64 is supported for use under Debian Sid. Users of loong64 and riscv64 architectures **must add the internal testing repository**.
 > 
 > (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
 
