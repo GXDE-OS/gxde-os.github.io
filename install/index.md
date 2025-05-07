@@ -12,6 +12,10 @@
 
 镜像站下载: https://mirrors.sdu.edu.cn/GXDE/ISO/
 
+官方下载： https://repo.gxde.top/ISO/
+
+旧版/不常用架构版本存档：https://repo-archive.gxde.top/ISO/
+
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 百度网盘（包含历史版本）：[https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps](https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps)  提取码: c7ps   

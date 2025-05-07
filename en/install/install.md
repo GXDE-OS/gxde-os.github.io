@@ -2,9 +2,13 @@
 ## Image Installation
 
 
+Official download: https://repo.gxde.top/ISO/
+
+Legacy versions: https://repo-archive.gxde.top/ISO/
+
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
-ISO Mirror (China Mainlaind Mirror): https://mirrors.sdu.edu.cn/GXDE/ISO/
+ISO Mirror (Chinese Mainland): https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 Baidu Cloud Disk (Including old archive): [https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps](https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps)  Password: c7ps   
 
