@@ -8,9 +8,9 @@
 
 ## 下载地址
 
+镜像站下载（哈尔滨工业大学）：https://mirrors.hit.edu.cn/GXDE/ISO/
 
-
-镜像站下载: https://mirrors.sdu.edu.cn/GXDE/ISO/
+镜像站下载（山东大学）: https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 官方下载： https://repo.gxde.top/ISO/
 
