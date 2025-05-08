@@ -65,6 +65,7 @@ export default defineConfig({
       {
         text: "更新日志",
         items: [
+          { text: "2025", link: "/news/2025"},
           { text: "2025 RC", link: "/news/2025rc"},
           { text: "15.15 update1", link: "/news/15.15u1"},
           { text: "15.15", link: "/news/15.15" },
