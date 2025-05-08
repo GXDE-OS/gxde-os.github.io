@@ -1,6 +1,6 @@
 # GXDE 官网页面
 
-地址：https://www.gxde.org/
+地址：https://www.gxde.top/
 
 ## 参与贡献
 
