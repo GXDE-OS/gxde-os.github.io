@@ -8,7 +8,9 @@ Legacy versions: https://repo-archive.gxde.top/ISO/
 
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
-ISO Mirror (Chinese Mainland): https://mirrors.sdu.edu.cn/GXDE/ISO/
+ISO Mirror（HIT Mirror）：https://mirrors.hit.edu.cn/GXDE/ISO/
+
+ISO Mirror（SDU Mirror）: https://mirrors.sdu.edu.cn/GXDE/ISO/
 
 Baidu Cloud Disk (Including old archive): [https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps](https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps)  Password: c7ps   
 
