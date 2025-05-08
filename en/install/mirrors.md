@@ -6,6 +6,7 @@ Note: Only part of the mirrors are listed here. If you would like to deploy a mi
 
 | Mirror Name | Mirror URL | Sync Software Repo? | Sync System Images? |
 | --- | --- | --- | --- |
+| Harbin University of Science and Technology's Mirror | https://mirrors.hit.edu.cn/GXDE/ | ✓ | ✓ |
 | Shandong University Mirror | https://mirrors.sdu.edu.cn/GXDE/ | ✓ | ✓ |
 | Cloud Ink Mirrors(CIM) | https://cloudink-mirrors.xiaoxiaozhou.top/GXDE-OS | ✓ | ✓ |
 
