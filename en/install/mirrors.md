@@ -8,7 +8,7 @@ When you are using `aptss` to replace `apt` command, you will automatically get 
 
 | Mirror Name | Mirror URL | Sync Software Repo? | Sync System Images? |
 | --- | --- | --- | --- |
-| Harbin University of Science and Technology's Mirror | https://mirrors.hit.edu.cn/GXDE/ | Yes | Yes|
+| Harbin Institute of Technology Mirror | https://mirrors.hit.edu.cn/GXDE/ | Yes | Yes|
 | Shandong University Mirror | https://mirrors.sdu.edu.cn/GXDE/ | Yes | Yes |
 | Spark Erotica Mirror | https://erotica-gxde.spark-app.store/ | Yes | No |
 
