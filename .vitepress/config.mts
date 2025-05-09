@@ -203,6 +203,7 @@ export default defineConfig({
           {
             text: "Update Log",
             items: [
+              { text: "2025", link: "/en/news/2025"},
               { text: "2025 RC", link: "/en/news/2025rc"},
               { text: "15.15 update1", link: "/en/news/15.15u1"},
               { text: "15.15", link: "/en/news/15.15" },
