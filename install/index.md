@@ -66,8 +66,8 @@ GXDE OS 内置[星火应用商店](https://gitee.com/spark-store-project/)，使
 | tianlu | 天禄 | 当前 GXDE OS 滚动/日更源代号 | ✓ | i386, amd64, arm64, mips64el, loong64 | 上古神兽，别名皮皮，是一只蓝色的貔貅 |
 | bixie | 辟邪 | 当前 GXDE OS 稳定源 | ✓ | i386, amd64, arm64, mips64el, loong64 | 上古神兽，天禄的兄弟，是一只红色的貔貅 |
 | meimei | 美美（全名慕容雪川） | 当前 GXDE OS loongnix 25 支线 | ✓ | loong64 | 浑身橘橙色，面部带火，紫瞳黑爪，尾部尖端有白毛的狐狸 |
-| zhuangzhuang | 壮壮 | GXDE OS 25 滚动/日更源 | 开发中 | i386, amd64, arm64, mips64el, riscv64 | 是一只极其罕见的茶杯天马 |
-| lizhi | 荔枝 | GXDE 25 的稳定源 | 开发中 | i386, amd64, arm64, mips64el, riscv64 | 是一只全身为粉白色为主的开运麒麟 |
+| zhuangzhuang | 壮壮 | GXDE OS 25 滚动/日更源 | ✓ | i386, amd64, arm64, riscv64 | 是一只极其罕见的茶杯天马 |
+| lizhi | 荔枝 | GXDE 25 的稳定源 | ✓ | i386, amd64, arm64, riscv64 | 是一只全身为粉白色为主的开运麒麟 |
 
 
 
