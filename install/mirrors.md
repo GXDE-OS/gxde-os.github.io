@@ -10,7 +10,6 @@
 | --- | --- | --- | --- |
 | 哈尔滨工业大学开源镜像站 | https://mirrors.hit.edu.cn/GXDE/ | ✅ | ✅ |
 | 山东大学镜像站 | https://mirrors.sdu.edu.cn/GXDE/ | ✅ | ✅ |
-| 星火埃洛提卡镜像站 | https://erotica-gxde.spark-app.store/ | ✅ | ❌ |
 | SunnyPai镜像站 | https://mirror.sunnypai.top/GXDE | ✅ | ✅ |
 
 同时你也可以换源或手动配置 `aptss` 来手动指定镜像站

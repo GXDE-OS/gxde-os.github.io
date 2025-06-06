@@ -10,7 +10,6 @@ When you are using `aptss` to replace `apt` command, you will automatically get 
 | --- | --- | --- | --- |
 | Harbin Institute of Technology Mirror | https://mirrors.hit.edu.cn/GXDE/ | Yes | Yes|
 | Shandong University Mirror | https://mirrors.sdu.edu.cn/GXDE/ | Yes | Yes |
-| Spark Erotica Mirror | https://erotica-gxde.spark-app.store/ | Yes | No |
 | SunnyPai Mirror | https://mirror.sunnypai.top/GXDE | Yes| Yes |
 
 You can also change your source file or configure `aptss` manually to appoint mirror.
