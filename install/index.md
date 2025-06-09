@@ -12,17 +12,8 @@
 
 官方下载： https://repo.gxde.top/ISO/
 
-旧版/不常用架构版本存档：https://repo-archive.gxde.top/ISO/
-
 镜像源列表：[点击这里查看](mirrors.md)
 
-Sourceforge：https://sourceforge.net/projects/gxde-os/files
-
-百度网盘（包含历史版本）：[https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps](https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps)  提取码: c7ps   
-
-城通网盘（包含历史版本）：[https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061](https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061) 提取码: 2061  
-
-![GXDE OS ISO 百度网盘下载链接](/install/baidu.jpg)
 
 **GXDE 尚不完美，安装前请务必检查[常见问题](faq.md)**
 
@@ -60,14 +51,17 @@ GXDE OS 内置[星火应用商店](https://gitee.com/spark-store-project/)，使
 
 ### 系统代号
 代号选自国漫《有兽焉》  
+世代名选自游戏《崩坏·星穹铁道》
 
-| 代号 | 中文名 | 含义 | 是否提供系统支持 | 支持架构 | 角色简介 |
-| --- | --- | --- | --- | --- | --- |
-| tianlu | 天禄 | 当前 GXDE OS 滚动/日更源代号 | ✓ | i386, amd64, arm64, mips64el, loong64 | 上古神兽，别名皮皮，是一只蓝色的貔貅 |
-| bixie | 辟邪 | 当前 GXDE OS 稳定源 | ✓ | i386, amd64, arm64, mips64el, loong64 | 上古神兽，天禄的兄弟，是一只红色的貔貅 |
-| meimei | 美美（全名慕容雪川） | 当前 GXDE OS loongnix 25 支线 | ✓ | loong64 | 浑身橘橙色，面部带火，紫瞳黑爪，尾部尖端有白毛的狐狸 |
-| zhuangzhuang | 壮壮 | GXDE OS 25 滚动/日更源 | ✓ | i386, amd64, arm64, riscv64 | 是一只极其罕见的茶杯天马 |
-| lizhi | 荔枝 | GXDE 25 的稳定源 | ✓ | i386, amd64, arm64, riscv64 | 是一只全身为粉白色为主的开运麒麟 |
+| 大版本/世代名 | 发行代号  | 含义 |  支持架构 | 备注 |
+|---| --- | --- | --- | --- |
+| 25/Sparkle  | 壮壮 | GXDE OS 25 日更源  | i386, amd64, arm64, riscv64 | 荔枝版本的每日构建源，请勿用于生产环境 |
+| | 荔枝 | GXDE 25 的稳定源  | i386, amd64, arm64, riscv64 | 基于 Debian Trixie (13) 构建的稳定发行 |
+| | 核桃 | deepin GXDE 25 日更源 | loong64 | 基于 deepin 25 构建的龙芯特别版，处于demo阶段，请勿用于生产环境| 
+| 15/Yunli | 天禄 |  GXDE OS 15 日更源  | i386, amd64, arm64, mips64el | 辟邪版本的每日构建源，现不再提供支持，**除非您清楚自己在做什么，请勿使用此源** |
+| | 辟邪 |  GXDE OS 15 稳定源  | i386, amd64, arm64, mips64el, loong64 | 处于延长支持状态，更新会逐步停止，**如无特殊需求请安装/更新到最新版** |
+| 已废弃/Castorice | 美美 | GXDE OS loongnix 25 支线 |  loong64 | 由于Loongnix上游消极维护，终止更新，处于归档状态 |
+| | 辟邪（龙芯） | GXDE OS 15 龙芯 Debian SID 支线 | loong64 | 由于龙芯的 Debian 上游尚不稳定，现已无法使用 |
 
 
 
