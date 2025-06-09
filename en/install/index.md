@@ -54,7 +54,7 @@ The codenames are selected from the Chinese comic "Fabulous Beasts".
 
 The Generation names are selected from video game "Honkai:Star Rail"
 
-| Major Version/Generation Name | Codename | Meaning | Supported Architectures | Notes |
+| Generation | Codename | Meaning | Supported Architectures | Notes |
 |---| --- | --- | --- | --- |
 | 25/Sparkle | zhuangzhuang | GXDE OS 25 Daily Build Source | i386, amd64, arm64, riscv64 | Daily builds for Litchi version. **Do not use in production environments**. |
 | | lizhi | GXDE 25 Stable Source | i386, amd64, arm64, riscv64 | Stable release based on Debian Trixie (13). |
