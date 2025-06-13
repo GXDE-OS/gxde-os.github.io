@@ -8,9 +8,9 @@
 
 官方下载： https://repo.gxde.top/ISO/
 
-旧版/不常用架构版本存档：https://repo-archive.gxde.top/ISO/
-
 镜像源列表：[点击这里查看](mirrors.md)
+
+旧版/不常用架构版本存档：https://pan.baidu.com/s/1dsJSUhHiMg4tPHTq9IDpJw?pwd=GXDE 提取码: GXDE
 
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 

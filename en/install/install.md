@@ -4,7 +4,7 @@
 
 Official download: https://repo.gxde.top/ISO/
 
-Legacy versions: https://repo-archive.gxde.top/ISO/
+Legacy versions: https://pan.baidu.com/s/1dsJSUhHiMg4tPHTq9IDpJw?pwd=GXDE Passwd: GXDE
 
 Sourceforge: https://sourceforge.net/projects/gxde-os/files
 
