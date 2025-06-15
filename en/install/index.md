@@ -21,10 +21,15 @@ Please check [install tutorial](install.md) if you don't know how to install or 
 
 ### User Group
 
-QQ Group: 881201853
+QQ Groups:  
+Group 1: 881201853  
+Group 2: 712629637  
 
 Discord: https://discord.gg/t5Uf2xYpvA
 
+### DistroWatch
+GXDE OS has been officially accepted by DistroWatch! Come check us out:  
+https://distrowatch.com/table.php?distribution=gxde  
 
 ## Introduction
 
