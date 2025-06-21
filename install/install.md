@@ -78,8 +78,18 @@ sudo aptss install spark-store -y  # 此命令不支持 i386、mips64、riscv64 
 
 **GXDE与KDE有可能的冲突，请不要同时安装它们，这可能会带来错误**
 
+## 在 Docker 使用 GXDE
+> RDPDocker是一个带有X11个和桌面环境的Docker镜像构建和容器创建工具，支持创建Ubuntu、Debian、ArchLinux、Fedora系统，支持Lingmo、GNOME、Xfce4、X11、SSH等环境。同时，允许用户通过NoMachine、RDP、VNC、SSH等方式远程访问容器。本工具以非虚拟化和极低开销的情况下，实现了多用户共享一台主机的办法，同时创建极快，随用随开，并且只占用内存、磁盘极少的空间，只需要主机安装Docker即可，支持无桌面的Linux服务器、WSL2、LXC、安卓手机运行。
+
+具体可见：https://github.com/PIKACHUIM/RDDocker  
+
+![RDPDocker 图1](/RDDocker/Manager.jpg)
+![RDPDocker 图2](/RDDocker/Remote.jpg)
+
 ## 在 Android 上使用 GXDE
 ### 在小小电脑上使用 GXDE
+> 给所有安卓 arm64 设备的“PC 应用引擎”平替。
+
 小小电脑 `1.0.19` 开始支持 GXDE，该版本与小小电脑团队合作开发，仍处于测试阶段  
 如需反馈 bug，可至 https://github.com/Cateners/tiny_computer/issues/129  
 
@@ -102,6 +112,8 @@ Github 下载（选择带 gxde 后缀的 APK）：https://github.com/Cateners/ti
 ![](/tiny-computer.jpg)
 
 ### 在 Neo Desktop 使用 GXDE
+> 一个超级启动器，支持搭配 AR 眼镜，或者物理显示器，让设备实现多屏异显。
+
 具体可参见：https://nightmare.press/  
 ![Neo Desktop](/neodesktop/0.jpg)
 

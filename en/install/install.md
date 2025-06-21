@@ -85,9 +85,20 @@ Then restart.
 
 Please check: https://github.com/xoureldeen/Vectras-VM-Android
 
+## Install GXDE on Docker
+> RDPDocker is a Docker image building and container creation tool with X11 and desktop environments, supporting the creation of Ubuntu, Debian, Arch Linux, Fedora systems, Lingmo, GNOME, Xfce4, X11, SSH and other environments. Meanwhile, users are allowed to remotely access the container through methods such as NoMachine, RDP, VNC, SSH, etc. This tool enables multiple users to share a host without virtualization and at extremely low cost. It is also very fast to create, can be used and opened at any time, and only occupies minimal memory and disk space. Docker only needs to be installed on the host. Supports running on headless Linux servers desktop, WSL2, LXC, and Android phones.
+
+You can learn more from https://github.com/PIKACHUIM/RDDocker  
+
+![RDPDocker 图1](/RDDocker/Manager.jpg)  
+![RDPDocker 图2](/RDDocker/Remote.jpg)
+
+
 ## Install GXDE on Android Phone/Pads
 
 ### Install GXDE With Tiny-Computer
+> Run Debian with XFCE/LXQt/GXDE/... on Android with just one click - optimized for Chinese users.   
+
 The Tiny Computer `1.0.19` now supports GXDE. This version was developed in collaboration with the Tiny Computer team and is still in beta testing phase.  
 To report bugs, please visit: https://github.com/Cateners/tiny_computer/issues/129  
 
@@ -117,6 +128,9 @@ Tiny Computer Project Address: [https://github.com/Cateners/tiny_computer](https
 ![](/tiny-computer.jpg)  
 
 ### Install GXDE with Neo Desktop
+> A powerful launcher that supports connection to either AR glasses or physical displays, enabling the device to achieve independent multi-display output.
+
+
 You can learn more from https://nightmare.press/  
 ![Neo Desktop](/neodesktop/0.jpg)
 
