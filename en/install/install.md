@@ -85,9 +85,9 @@ Then restart.
 
 Please check: https://github.com/xoureldeen/Vectras-VM-Android
 
+## Install GXDE on Android Phone/Pads
 
-
-## Install GXDE on Android Phone/Pads (With Tiny-Computer)
+### Install GXDE With Tiny-Computer
 The Tiny Computer `1.0.19` now supports GXDE. This version was developed in collaboration with the Tiny Computer team and is still in beta testing phase.  
 To report bugs, please visit: https://github.com/Cateners/tiny_computer/issues/129  
 
@@ -116,6 +116,10 @@ Tiny Computer Project Address: [https://github.com/Cateners/tiny_computer](https
 
 ![](/tiny-computer.jpg)  
 
-## Install on Termux PRoot or other Android devices
+### Install GXDE with Neo Desktop
+You can learn more from https://nightmare.press/  
+![Neo Desktop](/neodesktop/0.jpg)
+
+### Install on Termux PRoot or other Android devices
 
 Check: https://bbs.deepin.org.cn/post/279414

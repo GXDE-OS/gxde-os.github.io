@@ -78,8 +78,8 @@ sudo aptss install spark-store -y  # 此命令不支持 i386、mips64、riscv64 
 
 **GXDE与KDE有可能的冲突，请不要同时安装它们，这可能会带来错误**
 
-
-## 在小小电脑上使用 GXDE（在 Android 上使用 GXDE）
+## 在 Android 上使用 GXDE
+### 在小小电脑上使用 GXDE
 小小电脑 `1.0.19` 开始支持 GXDE，该版本与小小电脑团队合作开发，仍处于测试阶段  
 如需反馈 bug，可至 https://github.com/Cateners/tiny_computer/issues/129  
 
@@ -101,6 +101,11 @@ Github 下载（选择带 gxde 后缀的 APK）：https://github.com/Cateners/ti
 
 ![](/tiny-computer.jpg)
 
-## 在 Termux PRoot 或其他安卓设备上安装
+### 在 Neo Desktop 使用 GXDE
+具体可参见：https://nightmare.press/  
+![Neo Desktop](/neodesktop/0.jpg)
+
+
+### 在 Termux PRoot 或其他安卓设备上安装
 
 请查看 https://bbs.deepin.org.cn/post/279414
