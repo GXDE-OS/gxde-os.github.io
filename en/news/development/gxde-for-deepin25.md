@@ -1,4 +1,4 @@
-# GXDE For deepin 25: GXDE Now Available on deepin 25! (2025.06.22)
+# [GXDE For deepin 25] GXDE Now Available on deepin 25! (2025.06.22)
 
 ## Introduction  
 GXDE is a desktop environment that revives the classic deepin 15-era desktop experience while continuously optimizing usability. It aims to deliver an elegant, stable, and lightweight out-of-the-box experience, reducing newcomers' learning curve and saving veterans' time.  

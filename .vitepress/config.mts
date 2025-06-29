@@ -44,6 +44,8 @@ export default defineConfig({
       {
         text: "开发动态",
         items: [
+          { text: "【GXDE For deepin 25】现在支持 loongarch 了！还有 ISO！", link: "/news/development/gxde-for-deepin25-support-loong64" },
+          { text: "【GXDE For deepin 25】deepin25 能用上 GXDE 了！", link: "/news/development/gxde-for-deepin25" },
           { text: "移植成功！Kmre 可以在 deepin 23 正常使用（附安装教程）", link: "/news/development/kmre-on-deepin" },
           { text: "好消息：KMRE 安卓模拟器现可在Debian/GXDE使用", link: "/news/development/kmre-on-debian-gxde" },
         ],
@@ -165,6 +167,14 @@ export default defineConfig({
           {
             text: "Development Updates",
             items: [
+              { 
+                text: "[GXDE For deepin 25] Now Supports LoongArch! ISO Release", 
+                link: "/en/news/development/gxde-for-deepin25-support-loong64" 
+              },
+              { 
+                text: "[GXDE For deepin 25] GXDE Now Available on deepin 25!", 
+                link: "/en/news/development/gxde-for-deepin25" 
+              },
               { 
                 text: "Port Successful! Kmre Works on Deepin 23 (with Installation Tutorial)", 
                 link: "/en/news/development/kmre-on-deepin" 
