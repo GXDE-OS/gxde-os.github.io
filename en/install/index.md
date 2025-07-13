@@ -43,13 +43,13 @@ GXDE stands for Gorgeous eXtended Deepin Environment
 
 ### Various Components and Experiences
 
-GXDE OS integrates several community open-source projects, including a top bar, global menu, Spark App Store, AmberCE compatibility environment, and fantascene dynamic wallpapers. It supports the deepin Linyaps package too. 
+GXDE OS integrates some community open-source software, including a top bar, global menu, Spark App Store, AmberCE compatibility environment, and fantascene dynamic wallpapers. It supports the deepin Linyaps package manager too. 
 
 ### One-Click App Installation without typing commands.
 
-[Spark APP Store](https://gitee.com/spark-store-project/) is built in with GXDE OS, enabling users to effortlessly discover and install essential applications without needing to use the command line. 
+[Spark App Store](https://gitee.com/spark-store-project/) is preinstalled in GXDE OS, enabling users to effortlessly discover and install essential applications without needing to use the command line. 
 
-Also, simply replace apt with aptss will  `apt` with `aptss` command can boost your download speed. 
+Also, simply replace `apt` with `aptss` command can boost your download speed. 
 
 
 
