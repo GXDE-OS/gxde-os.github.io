@@ -30,7 +30,7 @@ features:
     details: You can install Android apps easily with a few clicks
 ---
 
-## Image Display
+## Picture Gallery
 
 <el-carousel type="card" height="24vw" indicator-position="none">
   <el-carousel-item v-for="item, k in previewSrcList" :key="item">

@@ -11,7 +11,7 @@ GXDE has now been successfully ported to deepin 25, supporting **amd64**, **arm6
 - GXDE is **incompatible with Panshi**. To use GXDE, you must fully disable Panshi. We recommend installing via the provided ISO.  
 - GXDE **conflicts with DDE**. They cannot coexist. To install GXDE, you must completely uninstall DDE. We recommend using the provided ISO.  
 
-**⚠️ This is currently a TEST release, not an official version.**  
+**⚠️ This is currently a TEST release, not a stable version.**  
 
 Official Website: [https://www.gxde.top/](https://www.gxde.top/)  
 Open Source Repositories:  
@@ -30,7 +30,7 @@ Open Source Repositories:
 ---
 
 ## **Download Links**  
-> Due to limited server space, only the **loong64 ISO** is hosted directly. Other architectures are available via cloud storage.  
+> Due to limited storage on the server, only the **loong64 ISO** is offered. Other architectures are available via cloud drives.  
 
 **⚠️ Note:** This ISO **does not enable Panshi** and conflicts with the repository's DDE.  
 

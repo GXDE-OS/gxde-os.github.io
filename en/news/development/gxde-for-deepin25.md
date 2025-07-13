@@ -23,7 +23,7 @@ Open Source Repos:
 ![fastfetch](/news/development/gxde-for-deepin25/fastfetch.jpg)  
 
 ## Download Links  
-> Due to limited server space, files are hosted on cloud drives only.  
+> Due to limited storage on the server, files are offered on cloud drives only.  
 
 **⚠️ Important:**  
 - **Panshi is DISABLED in this ISO.**  
