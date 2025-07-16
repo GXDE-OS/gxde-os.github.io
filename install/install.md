@@ -34,7 +34,7 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 日构建镜像无法保证可以正常安装、使用等，如需日用请下载上方的稳定版镜像  
 
 ### 核桃支线镜像下载链接
-GXDE 核桃支线是基于 deepin25 的（具体代号定义可见： https://www.gxde.top/install/#%E7%B3%BB%E7%BB%9F%E4%BB%A3%E5%8F%B7），当前处于demo阶段，请勿用于生产环境 
+GXDE 核桃支线是基于 deepin25 的（具体代号定义可见： https://www.gxde.top/install/#%E7%B3%BB%E7%BB%9F%E4%BB%A3%E5%8F%B7 ），当前处于demo阶段，请勿用于生产环境 
  
 **⚠️注意：该 ISO 并未开启磐石，且与源内的 DDE 冲突**  
   
@@ -50,11 +50,9 @@ loong64 架构的 ISO 可以从上面的镜像站里下载，亦可从网盘下�
 
 
 ## APT 源安装
-> amd64、arm64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
+> amd64、arm64、loong64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
 > 目前支持 i386、amd64、arm64、mips64、loong64 和 riscv64 架构（riscv64 下未测试）   
-> i386、amd64、arm64、mips64 支持在 Debian 13/12 下安装使用，loong64 支持在 Debian Port、Loongnix 25 下安装使用，riscv64 支持在 Debian Sid 下使用，loong64 和 riscv64 架构用户**一定要加内测源**    
-> loong64 Debian Port 系统安装镜像：https://cdimage.debian.org/cdimage/ports/tests/
-
+> amd64、arm64 支持在 Debian 13/12 下安装使用，i386、mips64 支持在 Debian 12 下安装使用，loong64 支持在 deepin25 下安装使用，riscv64 支持在 Debian 13/deepin25 下使用
 
 使用 deb 包安装 APT 源：
 
@@ -62,7 +60,7 @@ loong64 架构的 ISO 可以从上面的镜像站里下载，亦可从网盘下�
 | --- | --- | --- |
 | lizhi | Debian 13 | https://repo.gxde.top/gxde-os/lizhi/g/gxde-source/ |
 | bixie | Debian 12 | https://repo.gxde.top/gxde-os/bixie/g/gxde-source/ |
-| meimei | Loongnix 25 | https://repo.gxde.top/gxde-os/meimei/g/gxde-source/ |
+| hetao | deepin 25 | https://repo.gxde.top/gxde-os/hetao/g/gxde-source/ |
 
 ::: warning
 **请根据自己的系统版本下载对应的包，否则安装时会出现依赖错误**
@@ -79,13 +77,13 @@ sudo apt update
 
 sudo apt install aptss
 
-sudo apt install gxde-testing-source -y  # 添加内测源，Debian Sid/Port 用户一定要用，amd64、mips64、i386、arm64 和 Loongnix 25 用户可忽略
+sudo apt install gxde-testing-source -y  # 添加内测源
 
 sudo aptss update
 
 sudo aptss install gxde-desktop gxde-desktop-extra -y
 
-sudo aptss install spark-store -y  # 此命令不支持 i386、mips64、riscv64 架构用户
+sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 架构用户
 
 ```
 

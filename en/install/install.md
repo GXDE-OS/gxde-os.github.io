@@ -57,9 +57,7 @@ The **loong64 architecture ISO** can be downloaded from the mirror sites listed 
 > 
 > Currently supported architectures include i386, amd64, arm64, mips64, loong64, and riscv64 (riscv64 has not been tested).
 > 
-> i386, amd64, arm64, and mips64 are supported for installation and use under Debian 13/12. loong64 is supported for installation and use under Debian Port and Loongnix25. riscv64 is supported for use under Debian Sid. Users of loong64 and riscv64 architectures **must add the internal testing repository**.
-> 
-> (Debian Port system installation image for loong64: [https://cdimage.debian.org/cdimage/ports/tests/](https://cdimage.debian.org/cdimage/ports/tests/) )
+> amd64, arm64 are supported for installation and use under Debian 13/12. i386, mips64 are supported for installation and use under Debian 12. loong64 is supported for installation and use under deepin25. riscv64 is supported for use under deepin25/Debian13.
 
 First, you need download the deb file:  
 
@@ -67,7 +65,7 @@ First, you need download the deb file:
 | --- | --- | --- |
 | lizhi | Debian 13 | https://repo.gxde.top/gxde-os/lizhi/g/gxde-source/ |
 | bixie | Debian 12 | https://repo.gxde.top/gxde-os/bixie/g/gxde-source/ |
-| meimei | Loongnix 25 | https://repo.gxde.top/gxde-os/meimei/g/gxde-source/ |
+| hetao | deepin 25 | https://repo.gxde.top/gxde-os/hetao/g/gxde-source/ |
 
 ::: warning
 **Please download the corresponding package according to your system version, otherwise dependency errors may occur during installation**

@@ -103,6 +103,6 @@ Gitcode：https://gitcode.com/GXDE-OS
 
 ### 求投喂
 
-作者在线求投喂（嗷呜～），说不定会更新得更快哦    
+开发者在线求投喂（嗷呜～），说不定会更新得更快哦    
 
 <p><img src="/install/Wechat.jpg" width="250" ></p>
