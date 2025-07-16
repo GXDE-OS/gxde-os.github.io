@@ -95,3 +95,9 @@ Gitcode: https://gitcode.com/GXDE-OS
 ### Advertisement
 Scan to receive a payment red envelope from the Alipay official event!
 <img src="/install/advertisement0.jpg" width="250" >
+
+
+### Feed the Developer
+The author is online and hungry for support (nom nom~). Feeding might even get updates faster!
+
+<p><img src="/install/Wechat.jpg" width="250" ></p>

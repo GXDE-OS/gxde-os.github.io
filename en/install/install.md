@@ -27,11 +27,30 @@ For Beginners: If you don't know how to partition, leave some space on a disk an
 
 EFI Installation: You must create a partition formatted as vfat/fat32 with the mount point set to /boot/efi. The remaining space can be partitioned as needed.  
 
+Because the LoongArch Debian upstream is not yet stable, GXDE loong64 is built upon deepin 25. Its codename is `hetao`, and the 'Rock Solid' feature is not enabled.
+
 Install image lock screen password: `live`  
 
 ### Daily Build Image
 If you want to download the daily build image, you can visit: https://sourceforge.net/projects/gxde-os-daily/  
 Daily build images cannot guarantee normal installation and use. If you need daily use, please download the stable version image above  
+
+### Hetao Branch ISO Download Links
+
+GXDE Hetao Branch is based on deepin 25 (for codename definitions, see: [https://www.gxde.top/en/install/#system-code-names](https://www.gxde.top/en/install/#system-code-names)). It is currently in the **demo phase** and **should not be used in production environments**.  
+
+**⚠️ Note: This ISO does not have the 'Rock Solid' feature enabled and conflicts with DDE in the repositories.**  
+
+Currently, ISOs for **amd64**, **arm64**, and **loong64** architectures are provided. **Note:** These ISOs do *not* use deepin's default installer.  
+
+> Due to limited server space, **amd64 and arm64 ISOs are only available via cloud storage download links**:  
+
+123 Pan: [https://www.123865.com/s/pDSKVv-B4PWv](https://www.123865.com/s/pDSKVv-B4PWv)  
+Baidu Netdisk: Link: [https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps](https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps) (Extraction code: c7ps)  
+ChengTong (CTFile):[https://ctfile.gfdgdxi.top#/d/31540479-61968823-1bd7af?p=2061](https://ctfile.gfdgdxi.top#/d/31540479-61968823-1bd7af?p=2061) (Access password: 2061)  
+
+The **loong64 architecture ISO** can be downloaded from the mirror sites listed above, or also from the cloud storage links.
+
 
 ## APT Repository Installation
 > For those with ISO installation images available, such as amd64 and arm64, it is recommended to use the ISO for installation.

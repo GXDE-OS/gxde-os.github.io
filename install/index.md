@@ -65,7 +65,7 @@ GXDE OS 内置[星火应用商店](https://gitee.com/spark-store-project/)，使
 |---| --- | --- | --- | --- |
 | 25/Sparkle  | 壮壮 | GXDE OS 25 日更源  | i386, amd64, arm64, riscv64 | 荔枝版本的每日构建源，请勿用于生产环境 |
 | | 荔枝 | GXDE 25 的稳定源  | i386, amd64, arm64, riscv64 | 基于 Debian Trixie (13) 构建的稳定发行 |
-| | 核桃 | deepin GXDE 25 日更源 | amd64, arm64, loong64, riscv64 | 基于 deepin 25 构建的龙芯特别版，处于demo阶段，请勿用于生产环境| 
+| | 核桃 | deepin GXDE 25 日更源（无磐石） | amd64, arm64, loong64, riscv64 | 基于 deepin 25 构建的龙芯特别版，处于demo阶段，请勿用于生产环境| 
 | 15/Yunli | 天禄 |  GXDE OS 15 日更源  | i386, amd64, arm64, mips64el | 辟邪版本的每日构建源，现不再提供支持，**除非您清楚自己在做什么，请勿使用此源** |
 | | 辟邪 |  GXDE OS 15 稳定源  | i386, amd64, arm64, mips64el, loong64 | 处于延长支持状态，更新会逐步停止，**如无特殊需求请安装/更新到最新版** |
 | 已废弃/Castorice | 美美 | GXDE OS loongnix 25 支线 |  loong64 | 由于Loongnix上游消极维护，终止更新，处于归档状态 |
@@ -86,7 +86,7 @@ Wine 运行器：https://gitee.com/gfdgd-xi/deep-wine-runner
 同时本项目也使用了以下列出的项目，对以下项目的开发者与维护者献出衷心的感谢：  
 音乐插件：https://github.com/SeptemberHX/dde-mpris2-plugin  
 资源监视插件：https://gitee.com/q77190858/dde-sys-monitor-plugin/  
-DDE Top Panel：https://github.com/SeptemberHX/dde-top-panel
+DDE Top Panel：https://github.com/SeptemberHX/dde-top-panel  
 
 ## 仓库地址
 
@@ -100,3 +100,9 @@ Gitcode：https://gitcode.com/GXDE-OS
 支付宝官方活动，扫描获得支付红包！
 
 <p><img src="/install/advertisement0.jpg" width="250" ></p>
+
+### 求投喂
+
+作者在线求投喂（嗷呜～），说不定会更新得更快哦    
+
+<p><img src="/install/Wechat.jpg" width="250" ></p>

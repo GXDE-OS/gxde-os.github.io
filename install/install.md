@@ -25,11 +25,28 @@ GXDE 仍不完美，请在安装前确认 [FAQ](faq.md) 中的事项，包括了
 
 EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /boot/efi，剩余可按需求分区  
 
+因为 Loongarch Debian 上游尚不稳定，故 GXDE loong64 是基于 deepin 25 构建的，代号为`核桃`，未启用磐石  
+
 安装镜像锁屏密码：`live`  
 
 ### 日构建镜像
 如果你想下载日构建镜像，可以访问：https://sourceforge.net/projects/gxde-os-daily/  
 日构建镜像无法保证可以正常安装、使用等，如需日用请下载上方的稳定版镜像  
+
+### 核桃支线镜像下载链接
+GXDE 核桃支线是基于 deepin25 的（具体代号定义可见： https://www.gxde.top/install/#%E7%B3%BB%E7%BB%9F%E4%BB%A3%E5%8F%B7），当前处于demo阶段，请勿用于生产环境 
+ 
+**⚠️注意：该 ISO 并未开启磐石，且与源内的 DDE 冲突**  
+  
+目前提供了 amd64、arm64、loong64 的 ISO，使用的不是 deepin 默认的安装器  
+
+> 因为服务器空间有限，amd64、arm64 的 ISO 只提供了网盘下载链接
+
+123盘：https://www.123865.com/s/pDSKVv-B4PWv  
+百度网盘：链接:https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps  
+城通网盘: https://ctfile.gfdgdxi.top#/d/31540479-61968823-1bd7af?p=2061 (访问密码: 2061)  
+
+loong64 架构的 ISO 可以从上面的镜像站里下载，亦可从网盘下载  
 
 
 ## APT 源安装
