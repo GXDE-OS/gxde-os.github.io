@@ -78,6 +78,12 @@ GXDE OS 内置[星火应用商店](https://gitee.com/spark-store-project/)，使
 Deepin：https://github.com/linuxdeepin/  
 Wine 运行器：https://gitee.com/gfdgd-xi/deep-wine-runner  
 
+### GXDE Live（暂未完成，敬请期待）
+适用于 GXDE OS 以及其它 Linux 发行版的维护镜像，支持部署至U盘或光盘，用于数据备份恢复、引导修复等操作  
+暂未完成，敬请期待  
+![GXDE Live 开机页面](/live/gxde-live0.jpg)  
+![GXDE Live 主页面](/live/gxde-live1.jpg)  
+
 ## 鸣谢
 
 由衷的感谢[星火计划/星火应用商店](https://gitee.com/spark-store-project/)提供的资源和服务，使 GXDE 可以获得更好的体验  
