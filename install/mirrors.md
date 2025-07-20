@@ -12,5 +12,6 @@
 | 山东大学镜像站 | https://mirrors.sdu.edu.cn/GXDE/ | ✅ | ✅ |
 | Pika镜像站 | https://gxdeos.opkg.cn/cn/ | ✅ | ✅ |
 | SunnyPai镜像站 | https://mirror.sunnypai.top/GXDE | ✅ | ✅ |
+| Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | ✅ | ❎ |
 
 同时你也可以换源或手动配置 `aptss` 来手动指定镜像站

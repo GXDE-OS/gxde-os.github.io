@@ -117,7 +117,7 @@ sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 �
 :::
 
 下载链接：  
-镜像站下载（推荐）：https://mirrors.sdu.edu.cn/GXDE/APK/   
+镜像站下载（推荐）：https://mirrors.cernet.edu.cn/GXDE/APK/   
 Github 下载（选择带 gxde 后缀的 APK）：https://github.com/Cateners/tiny_computer/releases
 
 > 注：如果界面操作卡顿可以在控制中心 -> 个性化 关闭特效模式，假若控制中心无法开启可尝试在 GXDE 自带的系统助手的工具箱内升级到最新版本

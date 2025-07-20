@@ -135,7 +135,7 @@ This software does not conflict with Termux.
 
 **Download Links**:
 
-- Mirror Site Download (Recommended): [https://mirrors.sdu.edu.cn/GXDE/APK/](https://mirrors.sdu.edu.cn/GXDE/APK/)
+- Mirror Site Download (Recommended): https://mirrors.cernet.edu.cn/GXDE/APK/   
 - Github Download: [https://github.com/Cateners/tiny_computer/releases](https://github.com/Cateners/tiny_computer/releases) (Select the APK with the "gxde" suffix)
 
 > **Note**: If the interface operation is laggy, you can disable the special effects mode in the Control Center => Personalization. If the Control Center cannot be opened, you can upgrade to the latest version using the Toolbox in the GXDE-provided System Assistant.

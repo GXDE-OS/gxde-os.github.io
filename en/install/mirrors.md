@@ -12,5 +12,6 @@ When you are using `aptss` to replace `apt` command, you will automatically get 
 | Shandong University Mirror | https://mirrors.sdu.edu.cn/GXDE/ | Yes | Yes |
 | Pika Mirror | https://gxdeos.opkg.cn/cn/ | Yes | Yes |
 | SunnyPai Mirror | https://mirror.sunnypai.top/GXDE | Yes| Yes |
+| Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | Yes | No |
 
 You can also change your source file or configure `aptss` manually to appoint mirror.

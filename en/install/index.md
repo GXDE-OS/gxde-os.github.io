@@ -105,4 +105,4 @@ Scan to receive a payment red envelope from the Alipay official event!
 ### Feed the Developer
 The author is online and hungry for support (nom nom~). Feeding might even get updates faster!
 
-<p><img src="/install/Wechat.jpg" width="250" ></p>
+<p><img src="/install/gf.jpg" style="border-radius: 4px;" ></p>
