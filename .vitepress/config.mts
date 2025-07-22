@@ -5,9 +5,9 @@ import { ElementPlusResolver } from "unplugin-vue-components/resolvers";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "GXDE OS：经典延续",
+  title: "GXDE OS：经典永续，智启新程",
   description:
-    "美观、轻量、开箱即用的 Linux 发行",
+    "优雅美观，极致轻量，开箱即用，专注高效纯净体验的 Linux 发行",
   head: [
     ["link", { rel: "icon", href: "/logo.png", type: "image/png" }],
     ["meta", { name: "darkreader-lock" }],
