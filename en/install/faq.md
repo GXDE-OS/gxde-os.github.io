@@ -94,3 +94,8 @@ sudo apt purge abi-compat
 **A9:** Since the 7a1000, NVIDIA graphics cards, and some older graphics cards currently do not support enabling Special Effects Mode, you just need to manually turn off Special Effects Mode in the Control Center or press the keyboard shortcut `Windows` + `Shift` + `Tab` to disable it.  
 
 ---
+
+**Q10:** I'm a Loongson user and have installed GXDE OS. Since GXDE OS is a New World distribution, how can I install Old World software packages (such as those compatible with UOS20)?  
+**A10:** The system's built-in package installation tool supports installing Old World software packages and will automatically install liblol. However, please note that not all Old World applications can be installed and run successfully – for example, hardware drivers and input methods cannot be properly installed or run.
+
+---
