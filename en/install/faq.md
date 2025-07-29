@@ -86,3 +86,11 @@ applications normally:
 ```bash
 sudo apt purge abi-compat
 ```
+
+---
+
+**Q9:** My computer shows an abnormal display when installing/running GXDE, as shown in the image below. What should I do to fix this?  
+![Special Effects Mode Abnormal](/install/display-error.jpg)  
+**A9:** Since the 7a1000, NVIDIA graphics cards, and some older graphics cards currently do not support enabling Special Effects Mode, you just need to manually turn off Special Effects Mode in the Control Center or press the keyboard shortcut `Windows` + `Shift` + `Tab` to disable it.  
+
+---

@@ -87,3 +87,9 @@ A8：因为 liblol 和 loongnix 25 的 abi-compat 冲突，所以你需要删除
 ```bash
 sudo apt purge abi-compat
 ```
+
+---
+
+Q9：我的电脑在安装/运行 GXDE 时显示异常，如下图，我该怎么办才能恢复正常  
+![特效模式异常](/install/display-error.jpg)  
+A9：因 7a1000、N 卡以及部分老显卡暂不支持启用特效模式，故您只需在控制中心手动关闭特效模式或按下键盘快捷键 `Windows` + `Shift` + `Tab` 关闭特效模式即可  
