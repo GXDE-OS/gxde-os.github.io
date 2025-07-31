@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | 哈尔滨工业大学开源镜像站 | https://mirrors.hit.edu.cn/GXDE/ | ✅ | ✅ |
 | 山东大学镜像站 | https://mirrors.sdu.edu.cn/GXDE/ | ✅ | ✅ |
+| 快点开源镜像站 | https://mirror.quickso.cn/GXDE | ✅ | ✅ |
 | Pika镜像站 | https://gxdeos.opkg.cn/cn/ | ✅ | ✅ |
 | SunnyPai镜像站 | https://mirror.sunnypai.top/GXDE | ✅ | ✅ |
 | Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | ✅ | ❎ |
