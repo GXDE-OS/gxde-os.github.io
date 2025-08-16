@@ -15,6 +15,7 @@ https://www.gxde.top/apps/gxde-music/
 https://www.gxde.top/apps/gxde-image-viewer/
 https://www.gxde.top/apps/gxde-deb-installer/
 https://www.gxde.top/apps/gxde-editor/
+https://www.gxde.top/news/25.2
 https://www.gxde.top/news/25.1
 https://www.gxde.top/news/2025
 https://www.gxde.top/news/2025rc
@@ -44,6 +45,7 @@ https://www.gxde.top/en/apps/gxde-music/
 https://www.gxde.top/en/apps/gxde-image-viewer/
 https://www.gxde.top/en/apps/gxde-deb-installer/
 https://www.gxde.top/en/apps/gxde-editor/
+https://www.gxde.top/en/news/25.2
 https://www.gxde.top/en/news/25.1
 https://www.gxde.top/en/news/2025
 https://www.gxde.top/en/news/2025rc
