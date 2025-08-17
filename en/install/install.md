@@ -31,9 +31,15 @@ Because the LoongArch Debian upstream is not yet stable, GXDE loong64 is built u
 
 Install image lock screen password: `live`  
 
-### Daily Build Image
-If you want to download the daily build image, you can visit: https://sourceforge.net/projects/gxde-os-daily/  
-Daily build images cannot guarantee normal installation and use. If you need daily use, please download the stable version image above  
+### Mips (Qemu only)
+**Currently only supported on UOS20, Loongnix20, and Kylin V10 with mips64 architecture. UOS25 and non-mips64 machines are not supported yet.**  
+Before use, manually grant execute permission to run.sh and install qemu-system:  
+```bash
+sudo apt install qemu-system qemu-system-gui -y
+```
+Default VM password: `gxde`  
+Download: https://repo.gxde.top/TGZ/mips64el-qemu/  
+![](/install/mips-qemu.jpg)  
 
 ### Hetao Branch ISO Download Links
 

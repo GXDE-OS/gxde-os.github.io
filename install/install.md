@@ -15,7 +15,7 @@
 Sourceforge：https://sourceforge.net/projects/gxde-os/files
 
 
-i386、mips64el 架构的安装方法可以参考：[APT 源安装](#apt-源安装)
+未提供安装镜像的架构安装方法可以参考：[APT 源安装](#apt-源安装)
 
 GXDE 仍不完美，请在安装前确认 [FAQ](faq.md) 中的事项，包括了 Nvidia 显卡驱动安装指南等
 
@@ -29,9 +29,17 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 
 安装镜像锁屏密码：`live`  
 
-### 日构建镜像
-如果你想下载日构建镜像，可以访问：https://sourceforge.net/projects/gxde-os-daily/  
-日构建镜像无法保证可以正常安装、使用等，如需日用请下载上方的稳定版镜像  
+
+### Mips
+**因为一些原因，mips64el 架构只提供了 Qemu 镜像，只支持在 mips64 架构的 UOS20、Loongnix20、银河麒麟使用，暂不支持 uos25 以及非 mips64 架构机器**  
+使用前需手动给予 run.sh 运行权限，并安装 qemu-system  
+qemu-system 安装命令：  
+```bash
+sudo apt install qemu-system qemu-system-gui -y
+```
+虚拟机默认密码为：`gxde`  
+下载链接：https://repo.gxde.top/TGZ/mips64el-qemu/  
+![虚拟机截图](/install/mips-qemu.jpg)  
 
 ### 核桃支线镜像下载链接
 GXDE 核桃支线是基于 deepin25 的（具体代号定义可见： https://www.gxde.top/install/#%E7%B3%BB%E7%BB%9F%E4%BB%A3%E5%8F%B7 ），当前处于demo阶段，请勿用于生产环境 
