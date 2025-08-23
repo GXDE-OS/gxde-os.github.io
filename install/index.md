@@ -78,7 +78,7 @@ GXDE OS 内置[星火应用商店](https://gitee.com/spark-store-project/)，使
 Deepin：https://github.com/linuxdeepin/  
 Wine 运行器：https://gitee.com/gfdgd-xi/deep-wine-runner  
 
-### GXDE OS Live CD（原 Deepin Community Live CD）
+### GXDE Maintenance Live CD（原 Deepin Community Live CD）
 适用于 GXDE OS 以及其它 Linux 发行版的维护镜像，支持部署至U盘或光盘，用于数据备份恢复、引导修复等操作  
 锁屏密码：`live` 或 `123123`  
 下载链接：https://repo.gxde.top/ISO/Maintenance-live/    
