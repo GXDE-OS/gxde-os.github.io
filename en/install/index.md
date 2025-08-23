@@ -75,7 +75,7 @@ The Generation names are selected from video game "Honkai:Star Rail"
 Deepin: https://github.com/linuxdeepin/  
 Wine Runner: https://gitee.com/gfdgd-xi/deep-wine-runner  
 
-### GXDE OS Live CD
+### GXDE Maintenance Live CD
 A maintenance image for GXDE OS and other Linux distributions. Supports deployment to USB drives or optical discs for operations like data backup/restoration and boot repair.  
 Password: `live` or `123123`  
 Download: https://repo.gxde.top/ISO/Maintenance-live/    
