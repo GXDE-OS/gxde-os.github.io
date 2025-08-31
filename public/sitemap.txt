@@ -2,6 +2,7 @@ https://www.gxde.top/
 https://www.gxde.top/install
 https://www.gxde.top/install/install
 https://www.gxde.top/install/faq
+https://www.gxde.top/tiny-computer/fileaccess
 https://www.gxde.top/news/development/gxde-for-deepin25-support-loong64
 https://www.gxde.top/news/development/gxde-for-deepin25
 https://www.gxde.top/news/development/kmre-on-deepin
@@ -32,6 +33,7 @@ https://www.gxde.top/news/15.12
 https://www.gxde.top/en/install
 https://www.gxde.top/en/install/install
 https://www.gxde.top/en/install/faq
+https://www.gxde.top/en/tiny-computer/fileaccess
 https://www.gxde.top/en/news/development/gxde-for-deepin25-support-loong64
 https://www.gxde.top/en/news/development/gxde-for-deepin25
 https://www.gxde.top/en/news/development/kmre-on-deepin
