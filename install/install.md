@@ -117,6 +117,12 @@ sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 �
 如需反馈 bug，可至 https://github.com/Cateners/tiny_computer/issues/129  
 
 ::: warning
+从 1.0.99 起，软件已改用发布密钥进行构建，不再使用之前的调试密钥。**因此，无法从旧版本升级到当前版本。**  
+
+如需将软件内的文件导出，请参考[此教程](/tiny-computer/fileaccess.md)。
+:::
+
+::: warning
 如果你想从v1.0.10及以后的版本升级，请务必在启动后进行重置启动命令(在高级设置)和重新安装引导包(在全局设置)操作，否则新功能可能无法使用。  
 
 默认情况下，即使更新了本软件，引导包、快捷指令、容器系统也并不会被更新。  

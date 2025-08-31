@@ -125,6 +125,12 @@ You can learn more from https://github.com/PIKACHUIM/RDDocker
 The Tiny Computer `1.0.19` now supports GXDE. This version was developed in collaboration with the Tiny Computer team and is still in beta testing phase.  
 To report bugs, please visit: https://github.com/Cateners/tiny_computer/issues/129  
 
+::: warning
+Since version 1.0.99, the application has been built using a release signing key instead of the previous debug key. **Therefore, upgrading directly from older versions to the current version is NOT possible.**
+
+If you need to export files from the application, please refer to [this guide](/tiny-computer/fileaccess.md).
+:::
+
 ::: warning  
 If upgrading from v1.0.10 or later versions, you **must** perform a startup command reset (in Advanced Settings) and reinstall the boot package (in Global Settings) after launch. Otherwise, new features may not work properly.  
 
