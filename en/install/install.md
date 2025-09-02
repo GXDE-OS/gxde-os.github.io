@@ -12,9 +12,9 @@ ISO Mirror（CERNET Mirror）：https://mirrors.cernet.edu.cn/GXDE/ISO/
 
 Mirrors list: [Available Here](mirrors.md)
 
-Baidu Cloud Disk (Including old archive): [https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps](https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps)  Password: c7ps   
+123 Pan (Including old archive): [https://www.123865.com/s/pDSKVv-gVPWv](https://www.123865.com/s/pDSKVv-gVPWv)  
 
-Ctfile Cloud Disk (Including old archive)：[https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061](https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061) Password: 2061  
+Ctfile Cloud Disk (Including old archive): [https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061](https://ctfile.gfdgdxi.top/#/d/31540479-66220399-11ab95?p=2061) Password: 2061  
 
 ![GXDE OS ISO Baidu Cloud Disk](/install/baidu.jpg)
 

@@ -14,7 +14,10 @@
 
 镜像源列表：[点击这里查看](mirrors.md)
 
-旧版/不常用架构版本存档: https://ctfile.gfdgdxi.top/d/31540479-66220399-11ab95?p=2061 (访问密码: 2061)
+旧版/不常用架构版本存档:   
+下载地址1：https://www.123865.com/s/pDSKVv-gVPWv  
+下载地址2：https://www.123684.com/s/pDSKVv-gVPWv  
+下载地址3：https://ctfile.gfdgdxi.top/d/31540479-66220399-11ab95?p=2061 (访问密码: 2061)  
 
 **GXDE 尚不完美，安装前请务必检查[常见问题](faq.md)**
 
