@@ -5,7 +5,7 @@ import { ElementPlusResolver } from "unplugin-vue-components/resolvers";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "GXDE OS：经典永续",
+  title: "GXDE OS：经典延续",
   description:
     "美观、轻量、开箱即用的 Linux 发行",
   head: [
