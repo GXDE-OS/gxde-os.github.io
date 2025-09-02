@@ -12,9 +12,9 @@ You can track our development progress at https://gitee.com/GXDE-OS/GXDE/board
 
 ---
 
-Q1: It's so slow when using `apt` to install packages. Can it be faster?
+Q1: Why does the `apt` command look different in GXDE OS?
 
-A1: Replace `apt` with `aptss` to enable multi-thread download. You can have aptss take over directly from apt by installing the package `apt-is-aptss`. 
+A1: To accelerate the download progress of apt, we developed a tool called `aptss` based on apt-fast, which replaces `apt` by default. To revert to the standard `apt`, uninstall the package `apt-is-aptss`.
 
 A1: **It is recommended to perform an full upgrade after installation. Please run `yes | sudo aptss full-upgrade -y` .**
 
@@ -44,7 +44,7 @@ A3: Simply install the package `linux-kernel-oldstable-gxde-amd64` and boot with
  
  A4: The latest development progress will be included in the beta test. If you want to experience the latest content, you can join the beta, but it is also unstable. It is recommended that users with some experience join.
  
- A4: Starting from version 15.14, you can join the beta test with one click in the Control Center. For details, see: https://www.bilibili.com/video/BV1FgsvenEjq
+ A4: GXDE 15 Version is under archive stage, the beta test source is corrupted. DO NOT JOIN IT IF YOU ARE USING GXDE 15. 
  
  A4: Please join our Discord Group: https://discord.gg/t5Uf2xYpvA
 

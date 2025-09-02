@@ -1,4 +1,4 @@
-# Deepin Cloud Scan
+# Deepin Cloud Scan (Only in GXDE 15.x)
 
 ## Overview
 
