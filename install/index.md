@@ -104,14 +104,21 @@ Github：http://github.com/GXDE-OS
 Gitcode：https://gitcode.com/GXDE-OS
 
 
-### 广告
+## 广告
 
 支付宝官方活动，扫描获得支付红包！
 
 <p><img src="/install/advertisement0.jpg" width="250" ></p>
 
-### 求投喂
+## 捐赠
 
-开发者在线求投喂（嗷呜～），说不定会更新得更快哦    
+我们始终秉持开放透明的原则，您的捐赠将直接用于系统维护、服务器运营及技术升级，确保项目持续优化。所有资金流向均定期公示，接受社区监督，无人从中牟取个人利益。我们承诺，每一份支持都将转化为推动开源项目前进的力量。  
+
+捐赠入口：https://donate.deepinos.org.cn/donate/index.html#  
+资金公示：https://bbs.spark-app.store/d/282-xing-huo-ying-yong-shang-dian-shou-zhi-ji-lu-ji-yu-suan-202507yi-geng-xin  
+
+### 请作者喝杯茶
+
+作者在线求投喂（嗷呜～），说不定会更新得更快哦    
 
 <p><img src="/install/gf.jpg" style="border-radius: 4px;" ></p>

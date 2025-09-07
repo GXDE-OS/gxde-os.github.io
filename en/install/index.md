@@ -98,10 +98,16 @@ Gitee: http://gitee.com/GXDE-OS
 Github: http://github.com/GXDE-OS  
 Gitcode: https://gitcode.com/GXDE-OS
 
-### Advertisement
+## Advertisement
 Scan to receive a payment red envelope from the Alipay official event!
 <img src="/install/advertisement0.jpg" width="250" >
 
+## Donations
+
+We consistently adhere to the principles of openness and transparency. Your donations will be directly used for system maintenance, server operations, and technical upgrades to ensure continuous project optimization. All fund flows are regularly disclosed to the public, accepting community oversight, with no individual profiting personally. We pledge that every contribution will be transformed into momentum driving the open-source project forward.
+
+Donation Portal: https://donate.deepinos.org.cn/donate/index.html#  
+Fund Disclosure: https://bbs.spark-app.store/d/282-xing-huo-ying-yong-shang-dian-shou-zhi-ji-lu-ji-yu-suan-202507yi-geng-xin  
 
 ### Feed the Developer
 The author is online and hungry for support (nom nom~). Feeding might even get updates faster!

@@ -27,7 +27,7 @@ export default defineConfig({
       },
       {
         text: "捐赠",
-        link: "https://donate.deepinos.org.cn/donate/index.html#"
+        link: "/install/#%E6%8D%90%E8%B5%A0"
       }
     ],
 
@@ -67,6 +67,7 @@ export default defineConfig({
       {
         text: "更新日志",
         items: [
+          { text: "25.2.1", link: "/news/25.2.1"},
           { text: "25.2", link: "/news/25.2"},
           { text: "25.1", link: "/news/25.1"},
           { text: "25", link: "/news/2025"},
@@ -152,7 +153,7 @@ export default defineConfig({
           },
           {
             text: "Donate",
-            link: "https://donate.deepinos.org.cn/donate/index.html#"
+            link: "/en/install/#donations"
           }
         ],
         sidebar: [
@@ -216,6 +217,7 @@ export default defineConfig({
           {
             text: "Changelog",
             items: [
+              { text: "25.2.1", link: "/en/news/25.2.1"},
               { text: "25.2", link: "/en/news/25.2"},
               { text: "25.1", link: "/en/news/25.1"},
               { text: "25", link: "/en/news/2025"},
