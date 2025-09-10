@@ -10,9 +10,9 @@
 | --- | --- | --- | --- |
 | 哈尔滨工业大学开源镜像站 | https://mirrors.hit.edu.cn/GXDE/ | ✅ | ✅ |
 | 山东大学镜像站 | https://mirrors.sdu.edu.cn/GXDE/ | ✅ | ✅ |
-| 快点开源镜像站 | https://mirror.quickso.cn/GXDE | ✅ | ✅ |
+| 南阳理工学院开源镜像站 | https://mirror.nyist.edu.cn/gxde/ | ✅ | ✅ |
 | Pika镜像站 | https://gxdeos.opkg.cn/cn/ | ✅ | ✅ |
-| SunnyPai镜像站 | https://mirror.sunnypai.top/GXDE | ✅ | ✅ |
+| SunnyPai镜像站 | https://mirror.sunnypai.top/gxde/ | ✅ | ✅ |
 | Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | ✅ | ❎ |
 
 同时你也可以换源或手动配置 `aptss` 来手动指定镜像站
