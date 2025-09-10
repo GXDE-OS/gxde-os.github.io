@@ -10,7 +10,7 @@ When you are using `aptss` to replace `apt` command, you will automatically get 
 | --- | --- | --- | --- |
 | Harbin Institute of Technology Mirror | https://mirrors.hit.edu.cn/GXDE/ | Yes | Yes|
 | Shandong University Mirror | https://mirrors.sdu.edu.cn/GXDE/ | Yes | Yes |
-| NYIST Mirror | https://mirror.nyist.edu.cn/gxde/ | Yes | Yes |
+| NYIST Mirror | https://mirror.nyist.edu.cn/GXDE/ | Yes | Yes |
 | Pika Mirror | https://gxdeos.opkg.cn/cn/ | Yes | Yes |
 | SunnyPai Mirror | https://mirror.sunnypai.top/gxde/ | Yes| Yes |
 | Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | Yes | No |
