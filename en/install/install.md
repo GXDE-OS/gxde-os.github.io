@@ -145,6 +145,10 @@ Connection ports:
 This software does not conflict with Termux.  
 :::  
 
+::: info
+1.0.100 or higher version includes a variant with targetSdk 35, which avoids Google Play warnings such as "This app was built for an older version of Android" or "Unsafe app blocked" during installation — at the cost of losing Wine compatibility. As a result, I have disabled the "Windows App Support" option.
+:::
+
 **Download Links**:
 
 - Mirror Site Download (Recommended): https://mirrors.cernet.edu.cn/GXDE/APK/   
