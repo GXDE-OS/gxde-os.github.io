@@ -17,10 +17,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "使用指南", link: "/install/", activeMatch: "^/install/" },
-      {
-        text: "DistroWatch排名",
-        link: "https://distrowatch.com/table.php?distribution=GXDE"
-      },
+
       {
         text: "星火应用商店",
         link: "https://www.spark-app.store/",
@@ -147,10 +144,6 @@ export default defineConfig({
             text: "Getting Started",
             link: "/en/install/",
             activeMatch: "^/en/install/",
-          },
-         {
-            text: "DistroWatch",
-            link: "https://distrowatch.com/table.php?distribution=GXDE"
           },
           {
             text: "Spark APP Store",

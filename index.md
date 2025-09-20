@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 源码仓库
       link: https://gitee.com/GXDE-OS
+    - theme: alt
+      text: DistroWatch排名
+      link: https://distrowatch.com/table.php?distribution=GXDE
   image:
     src: /logo.png
     alt: GXDE OS Logo
