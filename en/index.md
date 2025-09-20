@@ -14,7 +14,7 @@ hero:
       text: Open Source Repo
       link: https://gitee.com/GXDE-OS
     - theme: alt
-      text: DistroWatch排名
+      text: DistroWatch
       link: https://distrowatch.com/table.php?distribution=GXDE
   image:
     src: /logo.png
