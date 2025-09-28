@@ -13,6 +13,6 @@ When you are using `aptss` to replace `apt` command, you will automatically get 
 | NYIST Mirror | https://mirror.nyist.edu.cn/GXDE/ | Yes | Yes |
 | Pika Mirror | https://gxdeos.opkg.cn/cn/ | Yes | Yes |
 | SunnyPai Mirror | https://mirror.sunnypai.top/gxde/ | Yes| Yes |
-| Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | Yes | No |
+| Sourceforge | https://sourceforge.net/projects/gxde-os-mirror | Yes | Yes |
 
 You can also change your source file or configure `aptss` manually to appoint mirror.

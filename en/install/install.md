@@ -31,16 +31,6 @@ Because the LoongArch Debian upstream is not yet stable, GXDE loong64 is built u
 
 Install image lock screen password: `live`  
 
-### Mips (Qemu only)
-**Currently only supported on UOS20, Loongnix20, and Kylin V10 with mips64 architecture. UOS25 and non-mips64 machines are not supported yet.**  
-Before use, manually grant execute permission to run.sh and install qemu-system:  
-```bash
-sudo apt install qemu-system qemu-system-gui -y
-```
-Default VM password: `gxde`  
-Download: https://repo.gxde.top/TGZ/mips64el-qemu/  
-![](/install/mips-qemu.jpg)  
-
 ### Hetao Branch ISO Download Links
 
 GXDE Hetao Branch is based on deepin 25 (for codename definitions, see: [https://www.gxde.top/en/install/#system-code-names](https://www.gxde.top/en/install/#system-code-names)). It is currently in the **demo phase** and **should not be used in production environments**.  
@@ -59,7 +49,7 @@ The **loong64 architecture ISO** can be downloaded from the mirror sites listed 
 
 
 ## APT Repository Installation
-> For those with ISO installation images available, such as amd64 and arm64, it is recommended to use the ISO for installation.
+> For those with ISO installation images available, such as amd64, arm64, mips64el and loong64, it is recommended to use the ISO for installation.
 > 
 > Currently supported architectures include i386, amd64, arm64, mips64, loong64, and riscv64 (riscv64 has not been tested).
 > 
