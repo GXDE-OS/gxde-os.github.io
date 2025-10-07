@@ -45,7 +45,8 @@ export default defineConfig({
       {
         text: "新闻",
         items: [
-          { text: "GXDE OS 成功入选 Gitee GVP——Gitee 最有价值开源项目", link: "/news/development/gvp.md" },
+          { text: "GXDE OS 支持在 WSL 上使用了（带桌面环境）", link: "/news/development/gxde-support-wsl" },
+          { text: "GXDE OS 成功入选 Gitee GVP——Gitee 最有价值开源项目", link: "/news/development/gvp" },
           { text: "【GXDE For deepin 25】现在支持 loongarch 了！还有 ISO！", link: "/news/development/gxde-for-deepin25-support-loong64" },
           { text: "【GXDE For deepin 25】deepin25 能用上 GXDE 了！", link: "/news/development/gxde-for-deepin25" },
           { text: "移植成功！Kmre 可以在 deepin 23 正常使用（附安装教程）", link: "/news/development/kmre-on-deepin" },
@@ -171,6 +172,14 @@ export default defineConfig({
           {
             text: "News",
             items: [
+              {
+                text: "GXDE OS Now Supports Running on WSL (with Desktop Environment)",
+                link: "/en/news/development/gxde-support-wsl"
+              },
+              {
+                text: "GXDE OS Successfully Selected for Gitee GVP - Gitee's Most Valuable Open Source Project",
+                link: "/en/news/development/gvp"
+              },
               { 
                 text: "[GXDE For deepin 25] Now Supports LoongArch! ISO Release", 
                 link: "/en/news/development/gxde-for-deepin25-support-loong64" 
