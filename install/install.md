@@ -102,7 +102,7 @@ sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 �
 ### 使用 WSL2 运行
 
 GXDE OS 提供了适用于 WSL2 的安装包，可以快速的在 WSL2 上安装并运行 GXDE OS  
-下载链接：  
+
 第一次使用需运行 install.bat 以便将 GXDE OS WSL2 安装到 Windows（安装过程中会需要设置用户名和密码，后续运行需要使用）  
 后续运行 run.bat 即可进入 GXDE 命令行页面  
 运行 run-gui.bat 即可打开 GXDE 桌面（启动需要输入您在安装过程中输入的用户密码）  
@@ -117,7 +117,7 @@ wsl --set-default-version 2
 ```
 :::
 
-下载链接：
+#### 下载链接
 源站：https://repo.gxde.top/TGZ/WSL/   
 镜像站下载（推荐）：https://mirrors.cernet.edu.cn/GXDE/TGZ/WSL/   
 
@@ -150,16 +150,18 @@ wsl --set-default-version 2
 1.0.100 及以上版本包括一个带有 targetSdk 35 的变体，它可以在安装过程中避免 Google Play 警告，例如“此应用程序是为旧版本的 Android 构建的”或“不安全的应用程序被阻止”——但代价是失去 Wine 兼容性。因此，我禁用了“Windows 应用程序支持”选项。
 :::
 
-下载链接：  
-源站：https://repo.gxde.top/APK/  
-镜像站下载（推荐）：https://mirrors.cernet.edu.cn/GXDE/APK/   
-Github 下载（选择带 gxde 后缀的 APK）：https://github.com/Cateners/tiny_computer/releases
-
 > 注：如果界面操作卡顿可以在控制中心 -> 个性化 关闭特效模式，假若控制中心无法开启可尝试在 GXDE 自带的系统助手的工具箱内升级到最新版本
 
 小小电脑项目地址：https://github.com/Cateners/tiny_computer  
 
-![](/tiny-computer.jpg)
+![](/tiny-computer.jpg)  
+
+#### 下载链接
+源站：https://repo.gxde.top/APK/  
+镜像站下载（推荐）：https://mirrors.cernet.edu.cn/GXDE/APK/   
+Github 下载（选择带 gxde 后缀的 APK）：https://github.com/Cateners/tiny_computer/releases
+
+
 
 ### 在 Neo Desktop 使用 GXDE
 > 一个超级启动器，支持搭配 AR 眼镜，或者物理显示器，让设备实现多屏异显。

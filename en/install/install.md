@@ -110,7 +110,6 @@ You can learn more from https://github.com/PIKACHUIM/RDDocker
 ### Running with WSL2
 
 GXDE OS provides installation packages for WSL2, allowing you to quickly install and run GXDE OS on WSL2.  
-Download links:  
 First-time use requires running `install.bat` to install GXDE OS WSL2 onto Windows (during installation, you will need to set a username and password, which will be required for subsequent runs).  
 For subsequent runs, use `run.bat` to enter the GXDE command line interface.  
 Run `run-gui.bat` to launch the GXDE desktop (you will need to enter the username and password set during installation to start).  
@@ -125,7 +124,7 @@ wsl --set-default-version 2
 ```
 :::
 
-Download links:  
+#### Download links
 Source: https://repo.gxde.top/TGZ/WSL/   
 Mirror (recommended): https://mirrors.cernet.edu.cn/GXDE/TGZ/WSL/   
 
@@ -165,16 +164,18 @@ This software does not conflict with Termux.
 1.0.100 or higher version includes a variant with targetSdk 35, which avoids Google Play warnings such as "This app was built for an older version of Android" or "Unsafe app blocked" during installation — at the cost of losing Wine compatibility. As a result, I have disabled the "Windows App Support" option.
 :::
 
-**Download Links**:
-
-- Mirror Site Download (Recommended): https://mirrors.cernet.edu.cn/GXDE/APK/   
-- Github Download: [https://github.com/Cateners/tiny_computer/releases](https://github.com/Cateners/tiny_computer/releases) (Select the APK with the "gxde" suffix)
-
 > **Note**: If the interface operation is laggy, you can disable the special effects mode in the Control Center => Personalization. If the Control Center cannot be opened, you can upgrade to the latest version using the Toolbox in the GXDE-provided System Assistant.
 
 Tiny Computer Project Address: [https://github.com/Cateners/tiny_computer](https://github.com/Cateners/tiny_computer)
 
 ![](/tiny-computer.jpg)  
+
+#### Download Links
+
+- Mirror Site Download (Recommended): https://mirrors.cernet.edu.cn/GXDE/APK/   
+- Github Download: [https://github.com/Cateners/tiny_computer/releases](https://github.com/Cateners/tiny_computer/releases) (Select the APK with the "gxde" suffix)
+
+
 
 ### Install GXDE with Neo Desktop
 > A powerful launcher that supports connection to either AR glasses or physical displays, enabling the device to achieve independent multi-display output.
