@@ -98,6 +98,33 @@ sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 �
 ![RDPDocker 图1](/RDDocker/Manager.jpg)
 ![RDPDocker 图2](/RDDocker/Remote.jpg)
 
+## 在 Windows 上使用 GXDE
+### 使用 WSL2 运行
+
+GXDE OS 提供了适用于 WSL2 的安装包，可以快速的在 WSL2 上安装并运行 GXDE OS  
+下载链接：  
+第一次使用需运行 install.bat 以便将 GXDE OS WSL2 安装到 Windows（安装过程中会需要设置用户名和密码，后续运行需要使用）  
+后续运行 run.bat 即可进入 GXDE 命令行页面  
+运行 run-gui.bat 即可打开 GXDE 桌面（启动需要输入您在安装过程中输入的用户密码）  
+（注：带 en_US.UTF8 后缀的代表是英语界面，带 zh_CN.UTF8 后缀的代表是中文界面）  
+运行 uninstall.bat 即卸载 GXDE OS WSL，运行完后删除该文件夹即可  
+
+::: info
+注：目前 GXDE OS WSL 只支持 WSL2，不支持 WSL1，若未启用 WSL2（系统默认是 WSL1），输入以下命令并重启电脑后即可启用 WSL2：  
+```bash
+wsl --update
+wsl --set-default-version 2
+```
+:::
+
+下载链接：
+源站：https://repo.gxde.top/TGZ/WSL/   
+镜像站下载（推荐）：https://mirrors.cernet.edu.cn/GXDE/TGZ/WSL/   
+
+![GXDE OS WSL 安装页面](/install/wsl-installer.jpg)  
+![GXDE OS WSL fastfetch 页面](/install/wsl-fastfetch.jpg)  
+![GXDE OS WSL 桌面](/install/wsl-desktop.jpg)  
+
 ## 在 Android 上使用 GXDE
 ### 在小小电脑上使用 GXDE
 > 给所有安卓 arm64 设备的“PC 应用引擎”平替。
@@ -124,6 +151,7 @@ sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 �
 :::
 
 下载链接：  
+源站：https://repo.gxde.top/APK/  
 镜像站下载（推荐）：https://mirrors.cernet.edu.cn/GXDE/APK/   
 Github 下载（选择带 gxde 后缀的 APK）：https://github.com/Cateners/tiny_computer/releases
 

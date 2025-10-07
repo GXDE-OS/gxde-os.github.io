@@ -106,6 +106,32 @@ You can learn more from https://github.com/PIKACHUIM/RDDocker
 ![RDPDocker 图1](/RDDocker/Manager.jpg)  
 ![RDPDocker 图2](/RDDocker/Remote.jpg)
 
+## Using GXDE on Windows
+### Running with WSL2
+
+GXDE OS provides installation packages for WSL2, allowing you to quickly install and run GXDE OS on WSL2.  
+Download links:  
+First-time use requires running `install.bat` to install GXDE OS WSL2 onto Windows (during installation, you will need to set a username and password, which will be required for subsequent runs).  
+For subsequent runs, use `run.bat` to enter the GXDE command line interface.  
+Run `run-gui.bat` to launch the GXDE desktop (you will need to enter the username and password set during installation to start).  
+(Note: Versions with the `en_US.UTF8` suffix represent the English interface, while those with the `zh_CN.UTF8` suffix represent the Chinese interface.)  
+Run `uninstall.bat` to uninstall GXDE OS WSL. After running, delete the folder to complete the uninstallation.  
+
+::: info
+Note: Currently, GXDE OS WSL only supports WSL2 and does not support WSL1. If WSL2 is not enabled (the system defaults to WSL1), run the following commands and restart your computer to enable WSL2:  
+```bash
+wsl --update
+wsl --set-default-version 2
+```
+:::
+
+Download links:  
+Source: https://repo.gxde.top/TGZ/WSL/   
+Mirror (recommended): https://mirrors.cernet.edu.cn/GXDE/TGZ/WSL/   
+
+![GXDE OS WSL Installation Page](/install/wsl-installer.jpg)  
+![GXDE OS WSL fastfetch Page](/install/wsl-fastfetch.jpg)  
+![GXDE OS WSL Desktop](/install/wsl-desktop.jpg)
 
 ## Install GXDE on Android Phone/Pads
 
