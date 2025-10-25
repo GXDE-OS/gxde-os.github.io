@@ -45,6 +45,7 @@ export default defineConfig({
       {
         text: "新闻",
         items: [
+          { text: "GXDE LSG 来了（可在其它 Linux 发行版使用 GXDE OS）", link: "/news/development/gxde-lsg" },
           { text: "GXDE OS 支持在 WSL 上使用了（带桌面环境）", link: "/news/development/gxde-support-wsl" },
           { text: "GXDE OS 成功入选 Gitee GVP——Gitee 最有价值开源项目", link: "/news/development/gvp" },
           { text: "【GXDE For deepin 25】现在支持 loongarch 了！还有 ISO！", link: "/news/development/gxde-for-deepin25-support-loong64" },
@@ -172,6 +173,10 @@ export default defineConfig({
           {
             text: "News",
             items: [
+              {
+                text: "GXDE LSG Released: Run GXDE OS Base on Other Linux Distributions",
+                link: "/en/news/development/gxde-lsg"
+              },
               {
                 text: "GXDE OS Now Supports Running on WSL (with Desktop Environment)",
                 link: "/en/news/development/gxde-support-wsl"

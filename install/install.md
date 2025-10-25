@@ -27,7 +27,22 @@ EFI 安装：必须分一块格式为 vfat/fat32 的分区，挂载点选择 /bo
 
 因为 Loongarch Debian 上游尚不稳定，故 GXDE loong64 是基于 deepin 25 构建的，代号为`核桃`，未启用磐石  
 
-安装镜像锁屏密码：`live`  
+安装镜像锁屏密码：`live`    
+
+因 riscv64 架构设备没有较为统一的标准，故 GXDE 提供的 riscv ISO 安装镜像只支持在 qemu 下运行，输入命令 `sudo apt install qemu-system qemu-efi-riscv64` 安装 qemu  
+
+输入以下命令启动 Qemu：  
+```bash
+qemu-system-riscv64 \
+    -smp 16 -m 8G -cpu rv64 \  # -smp 为虚拟的 CPU 数量，-m 为分配的内存大小
+    -machine virt,acpi=off \
+    -device virtio-scsi-pci,id=scsi \
+    -drive if=pflash,format=raw,unit=0,file=/usr/share/qemu-efi-riscv64/RISCV_VIRT_CODE.fd,readonly=on \   # 指定 riscv64 UEFI
+    -device virtio-sound-pci,audiodev=deepinaudio -audiodev alsa,id=deepinaudio \
+    -device qemu-xhci,id=xhci -device usb-tablet,bus=xhci.0 -device usb-kbd,bus=xhci.0 \
+    -device virtio-vga-gl -display gtk,gl=on --cdrom iso路径
+
+```
 
 
 ### 核桃支线镜像下载链接
@@ -89,6 +104,32 @@ sudo aptss install spark-store -y  # 此命令只支持 amd64, arm64, loong64 �
 > `aptss` 可以加速在 GXDE 系统源的下载速度，但如果您的性能低下导致 `aptss` 运行缓慢到无法接受，可换成 `apt`
 
 **GXDE与KDE有可能的冲突，请不要同时安装它们，这可能会带来错误**
+
+## 在其它 Linux 发行版使用 GXDE
+GXDE LSG（Linux subsystem for GXDE）是一个允许用户在其它 Linux 发行版以不破坏原系统的情况下运行 Debian13 + GXDE 桌面环境的工具，基于 systemd-nspawn 制作，可运行星火应用商店等常见应用  
+第一次运行会解压资源包，请耐心等待  
+用户默认密码：`gxde`  
+
+**注意：**
+
+1、该容器无法安装所有应用，尤其是需要与硬件和系统内核进行交互的应用或驱动
+
+2、UOS/麒麟用户需关闭安全中心的系统保护，否则该容器无法正常运行
+
+3、系统内核版本需至少 5.4 以上
+
+![演示图](/gxde-lsg.jpg)  
+
+### 下载链接
+
+源站：https://repo.gxde.top/TGZ/LSG/  
+镜像站：https://mirrors.cernet.edu.cn/GXDE/TGZ/LSG/  
+现已上架 deepin 应用商店和星火应用商店，可一键下载安装  
+
+![星火应用商店](/news/development/gxde-lsg/spark-store.jpg)
+
+![deepin 应用商店](/news/development/gxde-lsg/deepin-appstore.jpg)
+
 
 ## 在 Docker 使用 GXDE
 > RDPDocker是一个带有X11个和桌面环境的Docker镜像构建和容器创建工具，支持创建Ubuntu、Debian、ArchLinux、Fedora系统，支持Lingmo、GNOME、Xfce4、X11、SSH等环境。同时，允许用户通过NoMachine、RDP、VNC、SSH等方式远程访问容器。本工具以非虚拟化和极低开销的情况下，实现了多用户共享一台主机的办法，同时创建极快，随用随开，并且只占用内存、磁盘极少的空间，只需要主机安装Docker即可，支持无桌面的Linux服务器、WSL2、LXC、安卓手机运行。

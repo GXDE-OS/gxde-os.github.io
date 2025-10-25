@@ -31,6 +31,21 @@ Because the LoongArch Debian upstream is not yet stable, GXDE loong64 is built u
 
 Install image lock screen password: `live`  
 
+Due to the lack of standardized specifications for RISC-V64 architecture devices, the RISC-V ISO installation images provided by GXDE are only supported to run under QEMU. Install QEMU by running the command:  
+`sudo apt install qemu-system qemu-efi-riscv64`  
+
+Start QEMU with the following command:  
+```bash
+qemu-system-riscv64 \
+    -smp 16 -m 8G -cpu rv64 \  # -smp specifies number of virtual CPUs, -m allocates memory size
+    -machine virt,acpi=off \
+    -device virtio-scsi-pci,id=scsi \
+    -drive if=pflash,format=raw,unit=0,file=/usr/share/qemu-efi-riscv64/RISCV_VIRT_CODE.fd,readonly=on \   # Specify RISC-V64 UEFI
+    -device virtio-sound-pci,audiodev=deepinaudio -audiodev alsa,id=deepinaudio \
+    -device qemu-xhci,id=xhci -device usb-tablet,bus=xhci.0 -device usb-kbd,bus=xhci.0 \
+    -device virtio-vga-gl -display gtk,gl=on --cdrom /path/to/iso
+```
+
 ### Hetao Branch ISO Download Links
 
 GXDE Hetao Branch is based on deepin 25 (for codename definitions, see: [https://www.gxde.top/en/install/#system-code-names](https://www.gxde.top/en/install/#system-code-names)). It is currently in the **demo phase** and **should not be used in production environments**.  
@@ -94,9 +109,31 @@ Then restart.
 
 **There are potential conflict between GXDE and KDE. Don't install them both or maybe something will crash**
 
-## Install GXDE on Android Phone/Pads (With Vectras VM)
+## Using GXDE on Other Linux Distributions
 
-Please check: https://github.com/xoureldeen/Vectras-VM-Android
+GXDE LSG (Linux subsystem for GXDE) is a tool that allows users to run Debian 13 + GXDE desktop environment on other Linux distributions without disrupting the host system. Built on systemd-nspawn, it supports running common applications like Spark App Store.  
+The initial run will extract resource packages—please wait patiently.  
+Default user password: `gxde`
+
+**Notes:**
+
+1. This container cannot install all applications, particularly those requiring interaction with hardware or the system kernel.
+
+2. UOS/Kylin users must disable System Protection in Security Center; otherwise, the container will not function properly.
+
+3. System kernel version must be 5.4 or higher.
+
+![Demo Image](/gxde-lsg.jpg)
+
+### Download Links
+
+Primary Mirror: https://repo.gxde.top/TGZ/LSG/  
+Mirror Site: https://mirrors.cernet.edu.cn/GXDE/TGZ/LSG/  
+Now available in deepin App Store and Spark Store for one-click download and installation.
+
+![Spark Store](/news/development/gxde-lsg/spark-store.jpg)
+
+![deepin App Store](/news/development/gxde-lsg/deepin-appstore.jpg)
 
 ## Install GXDE on Docker
 > RDPDocker is a Docker image building and container creation tool with X11 and desktop environments, supporting the creation of Ubuntu, Debian, Arch Linux, Fedora systems, Lingmo, GNOME, Xfce4, X11, SSH and other environments. Meanwhile, users are allowed to remotely access the container through methods such as NoMachine, RDP, VNC, SSH, etc. This tool enables multiple users to share a host without virtualization and at extremely low cost. It is also very fast to create, can be used and opened at any time, and only occupies minimal memory and disk space. Docker only needs to be installed on the host. Supports running on headless Linux servers desktop, WSL2, LXC, and Android phones.
@@ -187,3 +224,7 @@ You can learn more from https://nightmare.press/
 ### Install on Termux PRoot or other Android devices
 
 Check: https://bbs.deepin.org.cn/post/279414
+
+### Install GXDE on Android Phone/Pads (With Vectras VM)
+
+Please check: https://github.com/xoureldeen/Vectras-VM-Android
