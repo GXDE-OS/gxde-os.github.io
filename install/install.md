@@ -119,6 +119,7 @@ GXDE LSG（Linux subsystem for GXDE）是一个允许用户在其它 Linux 发�
 3、系统内核版本需至少 5.4 以上
 
 ![演示图](/gxde-lsg.jpg)  
+![Kylin 演示图](/gxde-lsg-kylin.jpg)  
 
 ### 下载链接
 

@@ -123,7 +123,8 @@ Default user password: `gxde`
 
 3. System kernel version must be 5.4 or higher.
 
-![Demo Image](/gxde-lsg.jpg)
+![Demo Image](/gxde-lsg.jpg)  
+![Kylin Demo Image](/gxde-lsg-kylin.jpg)  
 
 ### Download Links
 
