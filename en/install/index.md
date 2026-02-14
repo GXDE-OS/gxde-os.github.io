@@ -102,6 +102,10 @@ Gitcode: https://gitcode.com/GXDE-OS
 Scan to receive a payment red envelope from the Alipay official event!
 <img src="/install/advertisement0.jpg" width="250" >
 
+Qianwen offers a 25 yuan super freebie card, new users can scan to claim.
+
+<p><img src="/install/advertisement1.jpg" width="250" ></p>
+
 ## Donations
 
 We consistently adhere to the principles of openness and transparency. Your donations will be directly used for system maintenance, server operations, and technical upgrades to ensure continuous project optimization. All fund flows are regularly disclosed to the public, accepting community oversight, with no individual profiting personally. We pledge that every contribution will be transformed into momentum driving the open-source project forward.

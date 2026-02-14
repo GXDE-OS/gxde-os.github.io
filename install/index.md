@@ -110,6 +110,10 @@ Gitcode：https://gitcode.com/GXDE-OS
 
 <p><img src="/install/advertisement0.jpg" width="250" ></p>
 
+千问送 25 元超级免单卡，新用户扫描即可领取
+
+<p><img src="/install/advertisement1.jpg" width="250" ></p>
+
 ## 捐赠
 
 我们始终秉持开放透明的原则，您的捐赠将直接用于系统维护、服务器运营及技术升级，确保项目持续优化。所有资金流向均定期公示，接受社区监督，无人从中牟取个人利益。我们承诺，每一份支持都将转化为推动开源项目前进的力量。  
