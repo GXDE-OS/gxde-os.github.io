@@ -62,13 +62,13 @@ The Generation names are selected from video game "Honkai:Star Rail"
 
 | Generation | Codename | Meaning | Supported Architectures | Notes |
 |---| --- | --- | --- | --- |
-| 25/Sparkle | zhuangzhuang | GXDE OS 25 Daily Build Source | i386, amd64, arm64, riscv64 | Daily builds for Litchi version. **Do not use in production environments**. |
-| | lizhi | GXDE 25 Stable Source | i386, amd64, arm64, riscv64 | Stable release based on Debian Trixie (13). |
+| 25/Sparkle | zhuangzhuang | GXDE OS 25 Daily Build Source | i386, amd64, arm64, mips64el, riscv64 | Daily builds for Litchi version. **Do not use in production environments**. |
+| | lizhi | GXDE 25 Stable Source | i386, amd64, arm64, mips64el, riscv64 | Stable release based on Debian Trixie (13). |
 | | hetao | deepin GXDE 25 Daily Build Source | amd64, arm64, loong64, riscv64 | Loongson edition (demo) based on deepin 25. **Not for production use**. |
 | 15/Yunli | tianlu | GXDE OS 15 Daily Build Source | i386, amd64, arm64, mips64el | Unsupported Pixie legacy builds. **Use with extreme caution**. |
 | | bixie | GXDE OS 15 Stable Source | i386, amd64, arm64, mips64el, loong64 | Extended support (updates ending). **Upgrade recommended**. |
-| Deprecated/Castorice | meimei | GXDE OS Loongnix 25 Branch | loong64 | Archived (Loongnix upstream inactive). |
-| | bixie (loong64) | GXDE OS 15 Loongson Debian SID Branch | loong64 | Discontinued – Unstable Debian upstream. |
+| Active | Meimei | GXDE OS loongnix 25 branch | loong64 | In preparation |
+
 
 
 ## Other Projects
