@@ -45,22 +45,6 @@ qemu-system-riscv64 \
 ```
 
 
-### 核桃支线镜像下载链接
-GXDE 核桃支线是基于 deepin25 的（具体代号定义可见： https://www.gxde.top/install/#%E7%B3%BB%E7%BB%9F%E4%BB%A3%E5%8F%B7 ），当前处于demo阶段，请勿用于生产环境 
- 
-**⚠️注意：该 ISO 并未开启磐石，且与源内的 DDE 冲突**  
-  
-目前提供了 amd64、arm64、loong64 的 ISO，使用的不是 deepin 默认的安装器  
-
-> 因为服务器空间有限，amd64、arm64 的 ISO 只提供了网盘下载链接
-
-123盘：https://www.123865.com/s/pDSKVv-B4PWv  
-百度网盘：链接:https://pan.baidu.com/s/1L9A6q-xrkgKfZ_LIyfbDMQ?pwd=c7ps  
-城通网盘: https://ctfile.gfdgdxi.top#/d/31540479-61968823-1bd7af?p=2061 (访问密码: 2061)  
-
-loong64 架构的 ISO 可以从上面的镜像站里下载，亦可从网盘下载  
-
-
 ## APT 源安装
 > amd64、arm64、mips64el、loong64 等已经有 ISO 安装镜像的，建议使用 ISO 安装  
 > 目前支持 i386、amd64、arm64、mips64、loong64 和 riscv64 架构（riscv64 下未测试）   
