@@ -121,6 +121,76 @@ GXDE LSG（Linux subsystem for GXDE）是一个允许用户在其它 Linux 发�
 
 ![deepin 应用商店](/news/development/gxde-lsg/deepin-appstore.jpg)
 
+## 在 Archlinux 上使用GXDE
+### 添加GXDE源
+> 当前，GXDE的打包由@CharOfString维护，更新周期对齐GXDE内测源，所有新软件包随壮壮一起构建；当前GXDE on Arch处于早期移植阶段，所以可能没有那么稳定。
+
+GXDE提供了预编译好的Arch Linux二进制源，地址如下：
+- **x86_64**: https://repo.gxde.top/gxde-arch/x86_64/
+- **aarch64**: https://repo.gxde.top/gxde-arch/aarch64/
+
+要添加该源，您需要首先下载GXDE的签名公钥并导入到`pacman`的密钥环中：
+```bash
+curl -fsSL https://repo.gxde.top/gxde-arch/gxde.asc -o /tmp/gxde.asc
+sudo pacman-key --add /tmp/gxde.asc
+```
+
+您可以使用以下指令核对指纹：
+```bash
+sudo pacman-key --finger BCC6D7F07130C0FA32669066FD6EEA1F20CD4B27
+```
+
+您应该看到如下输出：
+```bash
+pub   rsa3072 2022-11-12 [SC]
+      BCC6 D7F0 7130 C0FA 3266  9066 FD6E EA1F 20CD 4B27
+```
+
+您需要对该密钥进行本地签名，使pacman信任它：
+```bash
+sudo pacman-key --lsign-key BCC6D7F07130C0FA32669066FD6EEA1F20CD4B27
+```
+
+然后，使用任意编辑器打开`/etc/pacman.conf`，在末尾添加：
+```ini
+[gxde]
+SigLevel = Required
+Server = https://repo.gxde.top/gxde-arch/$arch
+```
+
+`$arch`会被pacman自动替换为当前系统的架构（`x86_64`或`aarch64`），无需手动修改。
+
+然后，使用如下命令更新数据库：
+```
+sudo pacman -Syu
+```
+
+### 安装GXDE
+首先，您需要安装合成器：
+```bash
+pacman -S flake-wm-git
+```
+
+GXDE提供几个元包，您可以按需安装：
+- **gxde-core-git**: 仅安装GXDE桌面的必需组件。
+- **gxde-desktop-extras**: GXDE的附加软件包，包含GXDE音乐等可选软件（这些组件亦可单独安装）。
+- **gxde-desktop-full**: 完整环境，含上述两个元包所有内容。
+
+### (可选) 安装显示管理器
+> **⚠️ 注意**: GXDE Wayland会话的锁屏由显示管理器提供。如果您要使用自己的显示管理器，请确保它们提供锁屏。
+
+```bash
+pacman -S gxde-display-manager
+```
+
+下次登录账户前请在TTY下执行：
+```bash
+sudo systemctl stop <正在使用的显示管理器服务名称>.service
+sudo systemctl disable <正在使用的显示管理器服务名称>.service
+sudo systemctl enable gxdm.service
+sudo systemctl start gxdm.service
+```
+
 
 ## 在 Docker 使用 GXDE
 > RDPDocker是一个带有X11个和桌面环境的Docker镜像构建和容器创建工具，支持创建Ubuntu、Debian、ArchLinux、Fedora系统，支持Lingmo、GNOME、Xfce4、X11、SSH等环境。同时，允许用户通过NoMachine、RDP、VNC、SSH等方式远程访问容器。本工具以非虚拟化和极低开销的情况下，实现了多用户共享一台主机的办法，同时创建极快，随用随开，并且只占用内存、磁盘极少的空间，只需要主机安装Docker即可，支持无桌面的Linux服务器、WSL2、LXC、安卓手机运行。

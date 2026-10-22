@@ -127,6 +127,76 @@ Now available in deepin App Store and Spark Store for one-click download and ins
 
 ![deepin App Store](/news/development/gxde-lsg/deepin-appstore.jpg)
 
+## Install GXDE on Archlinux
+### Adding GXDE Pacman Source
+> Currently, GXDE on Arch is maintained by @CharOfString; all the packages are updated together with GXDE's internal testing source.
+>
+> Currently GXDE on Arch is on "EXPERIMENTAL" stage so it might not be that stable.
+
+GXDE provides pacman source for both x86_64 and aarch64:
+- **x86_64**: https://repo.gxde.top/gxde-arch/x86_64/
+- **aarch64**: https://repo.gxde.top/gxde-arch/aarch64/
+
+To add the source to your system, you need to first download GXDE's public signing key and import it to your pacman keyring:
+```bash
+curl -fsSL https://repo.gxde.top/gxde-arch/gxde.asc -o /tmp/gxde.asc
+sudo pacman-key --add /tmp/gxde.asc
+```
+
+You may verify the fingerprint by executing the following command:
+```bash
+sudo pacman-key --finger BCC6D7F07130C0FA32669066FD6EEA1F20CD4B27
+```
+
+The output should contain:
+```bash
+pub   rsa3072 2022-11-12 [SC]
+      BCC6 D7F0 7130 C0FA 3266  9066 FD6E EA1F 20CD 4B27
+```
+
+You need to sign the key locally so pacman can trust it:
+```bash
+sudo pacman-key --lsign-key BCC6D7F07130C0FA32669066FD6EEA1F20CD4B27
+```
+
+Open `/etc/pacman.conf` and append these content to the file end:
+```ini
+[gxde]
+SigLevel = Required
+Server = https://repo.gxde.top/gxde-arch/$arch
+```
+
+`$arch` will be replaced with your system architecture (`x86_64` or `aarch64`) automatically by pacman. Then, you may update your data base by running:
+```
+sudo pacman -Syu
+```
+
+### Installing GXDE
+First of all, you need to install our Wayland compositor:
+```bash
+pacman -S flake-wm-git
+```
+
+GXDE provided several meta packages to make the installation easier:
+- **gxde-core-git**: Only includes the core session components.
+- **gxde-desktop-extras**: Extra GUI application package containing optional softwares like GXDE Music Player (these packages may also be installed individually).
+- **gxde-desktop-full**: The full desktop environment with all contents from `core` and `extras`.
+
+### (OPTIONAL) Installing the Display Manager
+> **⚠️ NOTE**: GXDE Wayland session's lockscreen is provided by display manager. If you're bringing in your own display manager, please make sure they also provide lockscreen.
+
+```bash
+pacman -S gxde-display-manager
+```
+
+... and please execute these command next time before you log in under TTY:
+```bash
+sudo systemctl stop <the name of display manager that you are using>.service
+sudo systemctl disable <the name of display manager that you are using>.service
+sudo systemctl enable gxdm.service
+sudo systemctl start gxdm.service
+```
+
 ## Install GXDE on Docker
 > RDPDocker is a Docker image building and container creation tool with X11 and desktop environments, supporting the creation of Ubuntu, Debian, Arch Linux, Fedora systems, Lingmo, GNOME, Xfce4, X11, SSH and other environments. Meanwhile, users are allowed to remotely access the container through methods such as NoMachine, RDP, VNC, SSH, etc. This tool enables multiple users to share a host without virtualization and at extremely low cost. It is also very fast to create, can be used and opened at any time, and only occupies minimal memory and disk space. Docker only needs to be installed on the host. Supports running on headless Linux servers desktop, WSL2, LXC, and Android phones.
 
