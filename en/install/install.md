@@ -167,7 +167,7 @@ Server = https://repo.gxde.top/gxde-arch/$arch
 ```
 
 `$arch` will be replaced with your system architecture (`x86_64` or `aarch64`) automatically by pacman. Then, you may update your data base by running:
-```
+```bash
 sudo pacman -Syu
 ```
 

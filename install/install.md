@@ -161,7 +161,7 @@ Server = https://repo.gxde.top/gxde-arch/$arch
 `$arch`会被pacman自动替换为当前系统的架构（`x86_64`或`aarch64`），无需手动修改。
 
 然后，使用如下命令更新数据库：
-```
+```bash
 sudo pacman -Syu
 ```
 
