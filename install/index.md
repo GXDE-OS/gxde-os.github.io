@@ -47,6 +47,7 @@ Sourceforge：https://sourceforge.net/projects/gxde-os/files/
 QQ 群：  
 1 群：881201853  
 2 群：712629637  
+内测反馈群：1129752588  
 
 Discord：https://discord.gg/t5Uf2xYpvA( **外国沟通渠道** )
 

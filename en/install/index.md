@@ -46,6 +46,7 @@ If you don't know how to install, or if the ISO installation cannot meet your re
 QQ Groups:  
 Group 1: 881201853  
 Group 2: 712629637  
+Beta feedback group: 1129752588  
 
 Discord: https://discord.gg/t5Uf2xYpvA (**international community channel**)
 
