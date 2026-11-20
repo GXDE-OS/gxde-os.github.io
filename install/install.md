@@ -31,7 +31,7 @@ gxde Loongarch 现在有两个版本,分别为
 
 1. lizhi 主线(基于第三方的 Debian13 制作,从25.4.1开始启用)
 
-2. hetao (基于 deepin 25 构建,未启用磐石)
+2. hetao (基于 deepin 25 构建,未启用磐石,已停止支持)
 
 安装镜像锁屏密码：`live`    
 
@@ -62,7 +62,7 @@ qemu-system-riscv64 \
 | --- | --- | --- |
 | lizhi | Debian 13 | https://repo.gxde.top/gxde-os/lizhi/g/gxde-source/ |
 | bixie(不推荐使用) | Debian 12 | https://repo.gxde.top/gxde-os/bixie/g/gxde-source/ |
-| hetao | deepin 25 | https://repo.gxde.top/gxde-os/hetao/g/gxde-source/ |
+| hetao(不推荐使用) | deepin 25 | https://repo.gxde.top/gxde-os/hetao/g/gxde-source/ |
 
 ::: warning
 **请根据自己的系统版本下载对应的包，否则安装时会出现依赖错误**
@@ -168,11 +168,11 @@ sudo pacman -Syu
 ### 安装GXDE
 首先，您需要安装合成器：
 ```bash
-pacman -S flakewm-git
+pacman -S flakewm
 ```
 
 GXDE提供几个元包，您可以按需安装：
-- **gxde-core-git**: 仅安装GXDE桌面的必需组件。
+- **gxde-core**: 仅安装GXDE桌面的必需组件。
 - **gxde-desktop-extras**: GXDE的附加软件包，包含GXDE音乐等可选软件（这些组件亦可单独安装）。
 - **gxde-desktop-full**: 完整环境，含上述两个元包所有内容。
 
@@ -180,7 +180,7 @@ GXDE提供几个元包，您可以按需安装：
 > **⚠️ 注意**: GXDE Wayland会话的锁屏由显示管理器提供。如果您要使用自己的显示管理器，请确保它们提供锁屏。
 
 ```bash
-pacman -S gxdm-git gxdm-emergency-mode-git
+pacman -S gxdm gxdm-emergency-mode
 ```
 
 下次登录账户前请在TTY下执行：
