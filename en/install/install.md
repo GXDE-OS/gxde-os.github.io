@@ -183,10 +183,10 @@ GXDE provided several meta packages to make the installation easier:
 - **gxde-desktop-full**: The full desktop environment with all contents from `core` and `extras`.
 
 ### (OPTIONAL) Installing the Display Manager
-> **⚠️ NOTE**: GXDE Wayland session's lockscreen is provided by display manager. If you're bringing in your own display manager, please make sure they also provide lockscreen.
+> **⚠️ NOTE**: The lock screen for the GXDE Wayland session is provided by gxde-lock.
 
 ```bash
-pacman -S gxdm gxdm-emergency-mode
+pacman -S gxdm gxdm-emergency-mode gxde-lock
 ```
 
 ... and please execute these command next time before you log in under TTY:
