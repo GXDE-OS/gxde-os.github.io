@@ -177,10 +177,10 @@ GXDE提供几个元包，您可以按需安装：
 - **gxde-desktop-full**: 完整环境，含上述两个元包所有内容。
 
 ### (可选) 安装显示管理器
-> **⚠️ 注意**: GXDE Wayland会话的锁屏由显示管理器提供。如果您要使用自己的显示管理器，请确保它们提供锁屏。
+> **⚠️ 注意**: GXDE Wayland会话的锁屏由gxde-lock 提供。
 
 ```bash
-pacman -S gxdm gxdm-emergency-mode
+pacman -S gxdm gxdm-emergency-mode gxde-lock
 ```
 
 下次登录账户前请在TTY下执行：
