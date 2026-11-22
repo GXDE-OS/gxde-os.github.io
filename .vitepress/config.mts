@@ -43,6 +43,12 @@ export default defineConfig({
         ],
       },
       {
+        text: "公告",
+        items: [
+          { text: "关于警惕假冒 GXDE 官方网站的公告", link: "/announcements/fake-official-website-announcement" }
+        ],
+      },
+      {
         text: "新闻",
         items: [
           { text: "GXDE LSG 来了（可在其它 Linux 发行版使用 GXDE OS）", link: "/news/development/gxde-lsg" },
@@ -177,6 +183,12 @@ export default defineConfig({
               { text: "How to Install GXDE?", link: "/en/install/install" },
               { text: "FAQ", link: "/en/install/faq" },
               { text: "System Mirrors", link: "/en/install/mirrors" },
+            ],
+          },
+          {
+          text: "Announcements",
+            items: [
+              { text: "Beware of Fraudulent GXDE Official Websites", link: "/en/announcements/fake-official-website-announcement" }
             ],
           },
           {
