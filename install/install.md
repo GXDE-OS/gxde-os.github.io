@@ -168,19 +168,17 @@ sudo pacman -Syu
 ### 安装GXDE
 首先，您需要安装合成器：
 ```bash
-pacman -S flakewm-git
+pacman -S flakewm
 ```
 
 GXDE提供几个元包，您可以按需安装：
-- **gxde-core-git**: 仅安装GXDE桌面的必需组件。
-- **gxde-desktop-extras**: GXDE的附加软件包，包含GXDE音乐等可选软件（这些组件亦可单独安装）。
-- **gxde-desktop-full**: 完整环境，含上述两个元包所有内容。
+- **gxde-core**: 仅安装GXDE桌面的必需组件。
+- **gxde-desktop**: GXDE的附加软件包，包含GXDE音乐等可选软件（这些组件亦可单独安装）。
+- **gxde-desktop**: 完整环境，含上述两个元包所有内容。
 
 ### (可选) 安装显示管理器
-> **⚠️ 注意**: GXDE Wayland会话的锁屏由显示管理器提供。如果您要使用自己的显示管理器，请确保它们提供锁屏。
-
 ```bash
-pacman -S gxdm-git gxdm-emergency-mode-git
+pacman -S gxdm gxdm-emergency-mode
 ```
 
 下次登录账户前请在TTY下执行：
@@ -189,6 +187,11 @@ sudo systemctl stop <正在使用的显示管理器服务名称>.service
 sudo systemctl disable <正在使用的显示管理器服务名称>.service
 sudo systemctl enable gxdm.service
 sudo systemctl start gxdm.service
+```
+
+### (可选) 安装锁屏
+```bash
+pacman -S gxde-lock
 ```
 
 

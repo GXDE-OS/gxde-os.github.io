@@ -174,11 +174,11 @@ sudo pacman -Syu
 ### Installing GXDE
 First of all, you need to install our Wayland compositor:
 ```bash
-pacman -S flakewm-git
+pacman -S flakewm
 ```
 
 GXDE provided several meta packages to make the installation easier:
-- **gxde-core-git**: Only includes the core session components.
+- **gxde-core**: Only includes the core session components.
 - **gxde-desktop-extras**: Extra GUI application package containing optional softwares like GXDE Music Player (these packages may also be installed individually).
 - **gxde-desktop-full**: The full desktop environment with all contents from `core` and `extras`.
 
@@ -186,7 +186,7 @@ GXDE provided several meta packages to make the installation easier:
 > **⚠️ NOTE**: GXDE Wayland session's lockscreen is provided by display manager. If you're bringing in your own display manager, please make sure they also provide lockscreen.
 
 ```bash
-pacman -S gxdm-git gxdm-emergency-mode-git
+pacman -S gxdm gxdm-emergency-mode
 ```
 
 ... and please execute these command next time before you log in under TTY:
@@ -195,6 +195,11 @@ sudo systemctl stop <the name of display manager that you are using>.service
 sudo systemctl disable <the name of display manager that you are using>.service
 sudo systemctl enable gxdm.service
 sudo systemctl start gxdm.service
+```
+
+### (OPTIONAL) Install Lock Screen
+```bash
+sudo pacman -S gxde-lock
 ```
 
 ## Install GXDE on Docker
